@@ -1,0 +1,8 @@
+id,name,material_symbol,description
+in_app,In App,apps,A transaction initiated inside a native or installed application
+in_person,In Person,point_of_sale,A transaction initiated with the customer at a staffed or unattended physical location
+mail_order,Mail Order,mail,A remote transaction initiated through postal correspondence
+online,Online,language,A transaction initiated through a web or other online checkout outside a native application
+other_remote,Other Remote,devices_other,A known remote interaction surface outside the named normalized values
+telephone_order,Telephone Order,phone_in_talk,A remote transaction initiated through a voice telephone interaction
+unknown,Unknown,help_outline,The transaction channel was not supplied or could not be determined

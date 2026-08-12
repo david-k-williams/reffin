@@ -1,0 +1,21 @@
+sector_id,sector_code,name,material_symbol,description
+accommodation_food_services,72,Accommodation and Food Services,restaurant,Lodging food service and drinking-place industries
+administrative_support_waste_management_remediation,56,Administrative and Support and Waste Management and Remediation Services,business_center,Operational support employment security cleaning waste and remediation services
+agriculture_forestry_fishing_hunting,11,"Agriculture, Forestry, Fishing and Hunting",agriculture,Crop animal forestry fishing hunting and supporting industries
+arts_entertainment_recreation,71,"Arts, Entertainment, and Recreation",attractions,Performing arts spectator sports museums amusement and recreation industries
+construction,23,Construction,construction,Building construction heavy civil engineering and specialty trade contractors
+educational_services,61,Educational Services,school,Schools colleges universities training and educational support services
+finance_insurance,52,Finance and Insurance,account_balance,Banking credit securities insurance funds and related financial activities
+healthcare_social_assistance,62,Health Care and Social Assistance,medical_services,Medical care residential care and social assistance industries
+information,51,Information,language,Publishing media telecommunications computing infrastructure and information services
+management_companies_enterprises,55,Management of Companies and Enterprises,corporate_fare,Holding companies and establishments that manage other organizations
+manufacturing,31-33,Manufacturing,factory,Industries that transform materials substances or components into products
+mining_quarrying_oil_gas,21,"Mining, Quarrying, and Oil and Gas Extraction",terrain,Mineral extraction quarrying and oil and gas industries
+other_services,81,Other Services (except Public Administration),build,Repair personal laundry religious civic and other services
+professional_scientific_technical_services,54,"Professional, Scientific, and Technical Services",work,Legal accounting design consulting research advertising and related professional services
+public_administration,92,Public Administration,account_balance,Government administration programs justice public safety and related activities
+real_estate_rental_leasing,53,Real Estate and Rental and Leasing,apartment,Property activities and rental or leasing of tangible and intangible assets
+retail_trade,44-45,Retail Trade,storefront,Store and nonstore retailers selling merchandise to the public
+transportation_warehousing,48-49,Transportation and Warehousing,local_shipping,Passenger and freight transportation postal couriers and warehousing
+utilities,22,Utilities,bolt,Electric power natural gas water sewage and related utility systems
+wholesale_trade,42,Wholesale Trade,warehouse,Merchant wholesalers agents brokers and business-to-business distribution

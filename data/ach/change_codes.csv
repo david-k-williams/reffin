@@ -1,0 +1,11 @@
+code,name,corrected_field,applies_to,status,valid_from,valid_to,source
+C01,Incorrect DFI Account Number,account_number,all,current,,,nacha_iso20022_2023|nacha_basic_2025
+C02,Incorrect Routing Number,routing_number,all,current,,,nacha_iso20022_2023|nacha_basic_2025
+C03,Incorrect Routing and DFI Account Numbers,routing_number|account_number,all,current,,,nacha_iso20022_2023|nacha_basic_2025
+C05,Incorrect Transaction Code,transaction_code,all,current,,,nacha_iso20022_2023|nacha_basic_2025
+C06,Incorrect DFI Account Number and Transaction Code,account_number|transaction_code,all,current,,,nacha_iso20022_2023|nacha_basic_2025
+C07,Incorrect Routing Number DFI Account Number and Transaction Code,routing_number|account_number|transaction_code,all,current,,,nacha_iso20022_2023|nacha_basic_2025
+C08,Incorrect Receiving DFI Identification,receiving_dfi_identification,IAT,current,,,nacha_iso20022_2023|nacha_basic_2025
+C09,Incorrect Individual or Receiver Identification Number,individual_or_receiver_id,all,current,,,nacha_iso20022_2023|nacha_basic_2025
+C13,Addenda Format Error,addenda_format,entries_with_addenda,current,,,nacha_iso20022_2023|nacha_basic_2025
+C14,Incorrect SEC Code for Outbound International Payment,sec_code,outbound_international,current,,,nacha_iso20022_2023|nacha_basic_2025

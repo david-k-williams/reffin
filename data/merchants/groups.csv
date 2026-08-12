@@ -1,0 +1,33 @@
+group_id,name,material_symbol,flutter_icon,description
+agriculture,Agriculture,agriculture,agriculture,Farming veterinary and agricultural services
+construction,Construction,construction,construction,Building contractors and construction trades
+air_travel,Air Travel,flight,flight,Airlines airports and air carriers
+car_rental,Car Rental,car_rental,car_rental,Car truck and recreational vehicle rental
+lodging,Lodging,hotel,hotel,Hotels motels resorts camps and timeshares
+transportation,Transportation,directions_transit,directions_transit,Passenger freight marine and travel services
+telecommunications,Telecommunications,cell_tower,cell_tower,Telephone network cable and streaming services
+utilities,Utilities,bolt,bolt,Electric gas water and sanitary utilities
+wholesale,Wholesale,warehouse,warehouse,Wholesale distributors and business supplies
+home_and_garden,Home and Garden,home_repair_service,home_repair_service,Home improvement furnishings and garden retail
+general_retail,General Retail,storefront,storefront,Department discount marketplace and general stores
+grocery,Grocery,local_grocery_store,local_grocery_store,Food markets bakeries and grocery stores
+automotive,Automotive,directions_car,directions_car,Vehicle sales fuel service and maintenance
+apparel,Apparel,checkroom,checkroom,Clothing footwear and accessories
+electronics,Electronics,devices,devices,Electronics computers appliances and related repair
+food_and_drink,Food and Drink,restaurant,restaurant,Restaurants caterers bars and fast food
+digital_goods,Digital Goods,cloud_download,cloud_download,Downloadable media games and applications
+health_and_pharmacy,Health and Pharmacy,local_pharmacy,local_pharmacy,Pharmacies medical goods and health retail
+specialty_retail,Specialty Retail,shopping_bag,shopping_bag,Specialized shops and direct marketing retail
+financial_services,Financial Services,account_balance,account_balance,Banking insurance securities payments and money movement
+real_estate,Real Estate,apartment,apartment,Property agents managers and rentals
+personal_services,Personal Services,content_cut,content_cut,Beauty laundry funeral and other personal services
+business_services,Business Services,business_center,business_center,Business support advertising data and rental services
+repair_services,Repair Services,build,build,Repair welding and maintenance services
+entertainment,Entertainment,attractions,attractions,Arts sports gaming attractions and recreation
+healthcare,Healthcare,medical_services,medical_services,Medical practitioners hospitals and care facilities
+education,Education,school,school,Schools colleges training and child care
+professional_services,Professional Services,work_outline,work_outline,Legal accounting engineering and other professions
+nonprofit_and_membership,Nonprofit and Membership,groups,groups,Charities associations religious and membership organizations
+government,Government,account_balance,account_balance,Courts taxes postal and government services
+other,Other,category,category,Unclassified special-purpose or vendor-only categories
+

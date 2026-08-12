@@ -1,0 +1,18 @@
+name: reffin_currencies
+description: Offline currency reference data from Reffin.
+version: 0.1.0
+publish_to: none
+repository: https://github.com/david-k-williams/reffin
+issue_tracker: https://github.com/david-k-williams/reffin/issues
+topics:
+  - currency
+  - finance
+  - money
+  - reference-data
+
+environment:
+  sdk: '>=3.8.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^6.0.0

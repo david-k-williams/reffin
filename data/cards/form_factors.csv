@@ -1,0 +1,5 @@
+id,name,material_symbol,description
+other,Other,more_horiz,A known form factor outside the named normalized values
+physical,Physical,credit_card,A card credential issued on a tangible card body
+unknown,Unknown,help_outline,The form factor was not supplied or could not be determined
+virtual,Virtual,devices,A card credential intended for use without a physical card body

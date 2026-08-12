@@ -1,0 +1,28 @@
+{
+  "name": "@reffin/iso20022",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Offline ISO 20022 reference codes from Reffin",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "NOTICE.md",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "prepack": "npm run build",
+    "test": "npm run build && node test/run.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

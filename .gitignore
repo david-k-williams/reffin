@@ -1,0 +1,40 @@
+.dart_tool/
+.packages
+build/
+dist/
+node_modules/
+packages/flutter/**/pubspec.lock
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Local environments and credentials. Keep shareable examples explicitly
+# trackable so contributors can document required configuration safely.
+.env
+.env.*
+!.env.example
+!.env.*.example
+.envrc
+.venv/
+venv/
+.netrc
+.pypirc
+.npmrc.local
+credentials.json
+credentials.local.json
+secrets.json
+secrets.local.json
+service-account*.json
+*.key
+*.pem
+*.private.pem
+*.p8
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Original source downloads are intentionally not committed. Normalized,
+# provenance-documented inputs live in each data/<domain> directory.
+data/downloads/

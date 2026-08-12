@@ -1,0 +1,5 @@
+code,name,direction,status,source
+200,Mixed Debits and Credits,mixed,current,nacha_developer_guide
+220,Credits Only,credit,current,nacha_developer_guide
+225,Debits Only,debit,current,nacha_developer_guide
+280,Automated Accounting Advices,accounting,current,nacha_basic_2025

@@ -1,0 +1,15 @@
+code,name,applies_to,status,source
+01,Legacy Cross-Border Payment Information,CBR|PBR,legacy,nacha_basic_2025
+02,Terminal Location Information,MTE|POS|SHR,current,nacha_basic_2025
+05,Payment-Related Information,ACK|ATX|CCD|CIE|CTX|DNE|ENR|PPD|TRX|WEB,current,nacha_basic_2025
+10,First Mandatory IAT Addenda,IAT,current,nacha_basic_2025|fedglobal_manual_2026
+11,Second Mandatory IAT Addenda,IAT,current,nacha_basic_2025|fedglobal_manual_2026
+12,Third Mandatory IAT Addenda,IAT,current,nacha_basic_2025|fedglobal_manual_2026
+13,Fourth Mandatory IAT Addenda,IAT,current,nacha_basic_2025|fedglobal_manual_2026
+14,Fifth Mandatory IAT Addenda,IAT,current,nacha_basic_2025|fedglobal_manual_2026
+15,Sixth Mandatory IAT Addenda,IAT,current,nacha_basic_2025|fedglobal_manual_2026
+16,Seventh Mandatory IAT Addenda,IAT,current,nacha_basic_2025|fedglobal_manual_2026
+17,IAT Remittance Information,IAT,current,nacha_basic_2025|fedglobal_manual_2026
+18,IAT Foreign Correspondent Bank Information,IAT,current,nacha_basic_2025|fedglobal_manual_2026
+98,Notification of Change Information,COR|refused_COR,current,nacha_basic_2025
+99,Return Information,return|dishonored_return|contested_return,current,nacha_basic_2025

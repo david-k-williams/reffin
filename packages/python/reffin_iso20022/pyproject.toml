@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reffin-iso20022"
+version = "0.1.0"
+description = "Offline ISO 20022 reference codes from Reffin"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = ["Private :: Do Not Upload"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+reffin_iso20022 = ["NOTICE.md", "py.typed"]

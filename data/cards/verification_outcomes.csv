@@ -1,0 +1,11 @@
+id,name,material_symbol,description
+match,Match,verified,The submitted value matched the reference used by the verification service
+no_match,No Match,cancel,The submitted value did not match the reference used by the verification service
+not_applicable,Not Applicable,remove_circle_outline,The verification check did not apply to this transaction or credential
+not_provided,Not Provided,horizontal_rule,A value was not supplied for verification
+not_supported,Not Supported,block,The verification service or source did not support the check
+not_verified,Not Verified,help,A conclusive verification result was not produced
+partial_match,Partial Match,rule,Only part of the submitted value matched the reference used by the verification service
+skipped,Skipped,skip_next,The verification check was intentionally not attempted
+system_error,System Error,error_outline,The verification check could not complete because of a system or communication error
+unknown,Unknown,help_outline,The raw result was missing or had no known normalized outcome

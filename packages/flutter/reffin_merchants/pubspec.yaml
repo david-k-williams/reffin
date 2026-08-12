@@ -1,0 +1,23 @@
+name: reffin_merchants
+description: Offline, vendor-aware Merchant Category Code reference data from Reffin.
+version: 0.1.0
+publish_to: none
+repository: https://github.com/david-k-williams/reffin
+issue_tracker: https://github.com/david-k-williams/reffin/issues
+topics:
+  - finance
+  - mcc
+  - payments
+  - reference-data
+
+environment:
+  sdk: '>=3.8.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0

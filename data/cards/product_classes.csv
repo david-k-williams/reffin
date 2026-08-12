@@ -1,0 +1,6 @@
+id,name,material_symbol,description
+commercial,Commercial,business,A card product intended primarily for organizational or business spending
+consumer,Consumer,person,A card product intended primarily for an individual or household
+government,Government,account_balance,A card product intended primarily for a public-sector program
+other,Other,more_horiz,A known product class outside the named normalized values
+unknown,Unknown,help_outline,The product class was not supplied or could not be determined

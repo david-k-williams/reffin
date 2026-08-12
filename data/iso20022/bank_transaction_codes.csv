@@ -1,0 +1,1568 @@
+domain_code,domain_name,family_code,family_name,subfamily_code,subfamily_name,status,status_date
+ACMT,Account Management,ACOP,Additional Miscellaneous Credit Operations,PSTE,Posting Error,new,2009-04-27
+ACMT,Account Management,ACOP,Additional Miscellaneous Credit Operations,BCKV,Back Value,new,2009-04-27
+ACMT,Account Management,ACOP,Additional Miscellaneous Credit Operations,ERTA,Exchange Rate Adjustment,new,2009-04-27
+ACMT,Account Management,ACOP,Additional Miscellaneous Credit Operations,FLTA,Float Adjustment,new,2009-04-27
+ACMT,Account Management,ACOP,Additional Miscellaneous Credit Operations,VALD,Value Date,new,2009-04-27
+ACMT,Account Management,ACOP,Additional Miscellaneous Credit Operations,YTDA,YTD Adjustment,new,2009-04-27
+ACMT,Account Management,ADOP,Additional Miscellaneous Debit Operations,BCKV,Back Value,new,2009-04-27
+ACMT,Account Management,ADOP,Additional Miscellaneous Debit Operations,ERTA,Exchange Rate Adjustment,new,2009-04-27
+ACMT,Account Management,ADOP,Additional Miscellaneous Debit Operations,FLTA,Float Adjustment,new,2009-04-27
+ACMT,Account Management,ADOP,Additional Miscellaneous Debit Operations,PSTE,Posting Error,new,2009-04-27
+ACMT,Account Management,ADOP,Additional Miscellaneous Debit Operations,VALD,Value Date,new,2009-04-27
+ACMT,Account Management,ADOP,Additional Miscellaneous Debit Operations,YTDA,YTD Adjustment,new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+ACMT,Account Management,MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+ACMT,Account Management,MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+ACMT,Account Management,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,ACCC,Account Closing,new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,ACCO,Account Opening,new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,ACCT,Account Transfer,new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,CHRG,Charges (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,COMM,Commission (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,COMI,Commission Including Taxes (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,CAJT,Credit Adjustments (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,DAJT,Debit Adjustments (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,FEES,Fees (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,INTR,Interests (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,NTAV,Not Available,new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,OTHR,Other,new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,RIMB,Reimbursement (Generic),new,2009-04-27
+ACMT,Account Management,OPCL,Opening & Closing,TAXE,Taxes (Generic),new,2009-04-27
+ACMT,Account Management,OTHR,Other,OTHR,Other,new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,CHRG,Charges (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,COMM,Commission (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,DSBR,Controlled Disbursement,corrected,2016-10-24
+CAMT,Cash Management,ACCB,Account Balancing,CAJT,Credit Adjustments (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,XBRD,Cross-Border,new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,DAJT,Debit Adjustments (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,FEES,Fees (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,INTR,Interests (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,NTAV,Not Available,new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,OTHR,Other,new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,ODFT,Overdraft,new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,RIMB,Reimbursement (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,SWEP,Sweeping,new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,TAXE,Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,TOPG,Topping,new,2009-04-27
+CAMT,Cash Management,ACCB,Account Balancing,ZABA,Zero Balancing,new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,CHRG,Charges (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,COMM,Commission (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,CAJT,Credit Adjustments (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,XBRD,Cross-Border,new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,DAJT,Debit Adjustments (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,FEES,Fees (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,INTR,Interests (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,NTAV,Not Available,new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,OTHR,Other,new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,RIMB,Reimbursement (Generic),new,2009-04-27
+CAMT,Cash Management,CAPL,Cash Pooling,TAXE,Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+CAMT,Cash Management,MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+CAMT,Cash Management,MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+CAMT,Cash Management,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+CAMT,Cash Management,OTHR,Other,OTHR,Other,new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,CHRG,Charges (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,COMM,Commission (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,CAJT,Credit Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,DAJT,Debit Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,FEES,Fees (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,INTR,Interests (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,NTAV,Not Available,new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,OTHR,Other,new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,RIMB,Reimbursement (Generic),new,2009-04-27
+CMDT,Commodities,DLVR,Delivery,TAXE,Taxes (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,CHRG,Charges (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,COMM,Commission (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,CAJT,Credit Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,DAJT,Debit Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,FEES,Fees (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,INTR,Interests (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,NTAV,Not Available,new,2009-04-27
+CMDT,Commodities,FTUR,Futures,OTHR,Other,new,2009-04-27
+CMDT,Commodities,FTUR,Futures,RIMB,Reimbursement (Generic),new,2009-04-27
+CMDT,Commodities,FTUR,Futures,TAXE,Taxes (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+CMDT,Commodities,MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+CMDT,Commodities,MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+CMDT,Commodities,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+CMDT,Commodities,OPTN,Options,CHRG,Charges (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,COMM,Commission (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,CAJT,Credit Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,DAJT,Debit Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,FEES,Fees (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,INTR,Interests (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,NTAV,Not Available,new,2009-04-27
+CMDT,Commodities,OPTN,Options,OTHR,Other,new,2009-04-27
+CMDT,Commodities,OPTN,Options,RIMB,Reimbursement (Generic),new,2009-04-27
+CMDT,Commodities,OPTN,Options,TAXE,Taxes (Generic),new,2009-04-27
+CMDT,Commodities,OTHR,Other,OTHR,Other,new,2009-04-27
+CMDT,Commodities,SPOT,Spots,CHRG,Charges (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,COMM,Commission (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,COMI,Commission Including Taxes (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,CAJT,Credit Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,DAJT,Debit Adjustments (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,FEES,Fees (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,INTR,Interests (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,NTAV,Not Available,new,2009-04-27
+CMDT,Commodities,SPOT,Spots,OTHR,Other,new,2009-04-27
+CMDT,Commodities,SPOT,Spots,RIMB,Reimbursement (Generic),new,2009-04-27
+CMDT,Commodities,SPOT,Spots,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,CAJT,Credit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,DAJT,Debit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,OTHR,Other,new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,LFUT,Listed Derivatives - Futures,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,CAJT,Credit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,DAJT,Debit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,OTHR,Other,new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,LOPT,Listed Derivatives - Options,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,CAJT,Credit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,DAJT,Debit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,OTHR,Other,new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,OBND,OTC Derivatives - Bonds,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,CAJT,Credit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,DAJT,Debit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,OTHR,Other,new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,OCRD,OTC Derivatives - Credit,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,CAJT,Credit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,DAJT,Debit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,OTHR,Other,new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,OEQT,OTC Derivatives - Equity,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,CAJT,Credit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,DAJT,Debit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,OTHR,Other,new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,OIRT,OTC Derivatives - Interest Rates,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,CAJT,Credit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,DAJT,Debit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,OTHR,Other,new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,OSED,OTC Derivatives - Structured Exotic Derivatives,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,CHRG,Charges (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,SWCC,Client Owned Collateral,new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,COMM,Commission (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,COMI,Commission Including Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,CAJT,Credit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,DAJT,Debit Adjustments (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,FEES,Fees (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,SWFP,Final Payment,new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,INTR,Interests (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,NTAV,Not Available,new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,OTHR,Other,new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,SWPP,Partial Payment,new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,RIMB,Reimbursement (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,SWRS,Reset Payment,new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,TAXE,Taxes (Generic),new,2009-04-27
+DERV,Derivatives,OSWP,OTC Derivatives – Swaps,SWUF,Upfront Payment,new,2009-04-27
+DERV,Derivatives,OTHR,Other,OTHR,Other,new,2009-04-27
+XTND,Extended Domain,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,CHRG,Charges (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,COMM,Commission (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,COMI,Commission Including Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,CAJT,Credit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,DAJT,Debit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,FEES,Fees (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,INTR,Interests (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,NTAV,Not Available,new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,OTHR,Other,new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,RIMB,Reimbursement (Generic),new,2009-04-27
+FORX,Foreign Exchange,FWRD,Forwards,TAXE,Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,CHRG,Charges (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,COMM,Commission (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,COMI,Commission Including Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,CAJT,Credit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,DAJT,Debit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,FEES,Fees (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,INTR,Interests (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,NTAV,Not Available,new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,OTHR,Other,new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,RIMB,Reimbursement (Generic),new,2009-04-27
+FORX,Foreign Exchange,FTUR,Futures,TAXE,Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+FORX,Foreign Exchange,MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+FORX,Foreign Exchange,MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,CHRG,Charges (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,COMM,Commission (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,COMI,Commission Including Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,CAJT,Credit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,DAJT,Debit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,FEES,Fees (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,INTR,Interests (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,NTAV,Not Available,new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,OTHR,Other,new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,RIMB,Reimbursement (Generic),new,2009-04-27
+FORX,Foreign Exchange,NDFX,Non Deliverable,TAXE,Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+FORX,Foreign Exchange,OTHR,Other,OTHR,Other,new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,CHRG,Charges (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,COMM,Commission (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,COMI,Commission Including Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,CAJT,Credit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,DAJT,Debit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,FEES,Fees (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,INTR,Interests (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,NTAV,Not Available,new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,OTHR,Other,new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,RIMB,Reimbursement (Generic),new,2009-04-27
+FORX,Foreign Exchange,SPOT,Spots,TAXE,Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,CHRG,Charges (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,COMM,Commission (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,COMI,Commission Including Taxes (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,CAJT,Credit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,DAJT,Debit Adjustments (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,FEES,Fees (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,INTR,Interests (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,NTAV,Not Available,new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,OTHR,Other,new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,RIMB,Reimbursement (Generic),new,2009-04-27
+FORX,Foreign Exchange,SWAP,Swaps,TAXE,Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,CHRG,Charges (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,COMM,Commission (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,COMI,Commission Including Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,CAJT,Credit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,DAJT,Debit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,DDWN,Drawdown,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,FEES,Fees (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,INTR,Interests (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,PPAY,Principal Payment,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,RIMB,Reimbursement (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,RNEW,Renewal,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",CSLN,Consumer Loans,TAXE,Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,CHRG,Charges (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,COMM,Commission (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,COMI,Commission Including Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,CAJT,Credit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,DAJT,Debit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,DPST,Deposit,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,FEES,Fees (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,INTR,Interests (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,RIMB,Reimbursement (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,RPMT,Repayment,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTDP,Fixed Term Deposits,TAXE,Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,CHRG,Charges (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,COMM,Commission (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,COMI,Commission Including Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,CAJT,Credit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,DAJT,Debit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,DDWN,Drawdown,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,FEES,Fees (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,INTR,Interests (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,PPAY,Principal Payment,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,RIMB,Reimbursement (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,RNEW,Renewal,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",FTLN,Fixed Term Loans,TAXE,Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,CHRG,Charges (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,COMM,Commission (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,COMI,Commission Including Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,CAJT,Credit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,DAJT,Debit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,DDWN,Drawdown,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,FEES,Fees (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,INTR,Interests (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,PPAY,Principal Payment,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,RIMB,Reimbursement (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,RNEW,Renewal,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",MGLN,Mortgage Loans,TAXE,Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,CHRG,Charges (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,COMM,Commission (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,COMI,Commission Including Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,CAJT,Credit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,DAJT,Debit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,DPST,Deposit,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,FEES,Fees (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,INTR,Interests (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,RIMB,Reimbursement (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,RPMT,Repayment,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTDP,Notice Deposits,TAXE,Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,CHRG,Charges (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,COMM,Commission (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,COMI,Commission Including Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,CAJT,Credit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,DAJT,Debit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,DDWN,Drawdown,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,FEES,Fees (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,INTR,Interests (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,PPAY,Principal Payment,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,RIMB,Reimbursement (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,RNEW,Renewal,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",NTLN,Notice Loans,TAXE,Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",OTHR,Other,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,CHRG,Charges (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,COMM,Commission (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,COMI,Commission Including Taxes (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,CAJT,Credit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,DAJT,Debit Adjustments (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,DDWN,Drawdown,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,FEES,Fees (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,INTR,Interests (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,NTAV,Not Available,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,OTHR,Other,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,PPAY,Principal Payment,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,RIMB,Reimbursement (Generic),new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,RNEW,Renewal,new,2009-04-27
+LDAS,"Loans, Deposits & Syndications",SYDN,Syndications,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,STOD,Bill of Exchange Settlement on Demand,new,2023-10-30
+PMNT,Payments,CNTR,Counter Transactions,BCDP,Branch Deposit,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,BCWD,Branch Withdrawl,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,CDPT,Cash Deposit,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,CWDL,Cash Withdrawal,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,CHKD,Check Deposit,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,FCDP,Foreign Currencies Deposit,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,FCWD,Foreign Currencies Withdrawal,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,MSCD,Miscellaneous Deposit,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,MIXD,Mixed Deposit,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,OTHR,Other,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,TCDP,Travellers Cheques Deposit,new,2009-04-27
+PMNT,Payments,CNTR,Counter Transactions,TCWD,Travellers Cheques Withdrawal,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,CDPT,Cash Deposit,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,CWDL,Cash Withdrawal,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,POSC,Credit Card Payment,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,XBCW,Cross-Border Cash Withdrawal,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,XBCP,Cross-Border Credit Card Payment,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,OTHR,Other,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,POSD,Point-of-Sale (POS) Payment - Debit Card,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,SMRT,Smart-Card Payment,new,2009-04-27
+PMNT,Payments,CCRD,Customer Card Transactions,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,DDFT,Discounted Draft,new,2009-04-27
+PMNT,Payments,DRFT,Drafts,UDFT,Dishonoured/Unpaid Draft,new,2009-04-27
+PMNT,Payments,DRFT,Drafts,DMCG,Draft Maturity Change,new,2009-04-27
+PMNT,Payments,DRFT,Drafts,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,DRFT,Drafts,OTHR,Other,new,2009-04-27
+PMNT,Payments,DRFT,Drafts,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,DRFT,Drafts,STAM,Settlement At Maturity,new,2009-04-27
+PMNT,Payments,DRFT,Drafts,STLR,Settlement Under Reserve,new,2009-04-27
+PMNT,Payments,DRFT,Drafts,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,ACON,ACH Concentration,new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,BACT,Branch Account Transfer,new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,COAT,Corporate Own Account Transfer,new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,XICT,Cross-Border Intra Company Transfer,new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,FIOA,Financial Institution Own Account Transfer,new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,ICCT,Intra Company Transfer,new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,OTHR,Other,new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,ICCN,Issued Cash Concentration Transactions,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,ARPD,ARP Debit,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,BCHQ,Bank Cheque,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CASH,Cash Letter,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CSHA,Cash Letter Adjustment,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CCCH,Certified Customer Cheque,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CCHQ,Cheque,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CQRV,Cheque Reversal,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,URCQ,Cheque Under Reserve,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CLCQ,Circular Cheque,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CDIS,Controlled Disbursement,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,CRCQ,Crossed Cheque,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,XBCQ,Foreign Cheque,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,XRCQ,Foreign Cheque Under Reserve,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,NPCC,Non Presented Circular Cheques,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,OPCQ,Open Cheque,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,ORCQ,Order Cheque,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,OTHR,Other,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,UPCQ,Unpaid Cheque,new,2009-04-27
+PMNT,Payments,ICHQ,Issued Cheques,XPCQ,Unpaid Foreign Cheque,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,ACOR,ACH Corporate Trade,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,ACDT,ACH Credit,updated,2017-10-23
+PMNT,Payments,ICDT,Issued Credit Transfers,ADBT,ACH Debit,updated,2017-10-23
+PMNT,Payments,ICDT,Issued Credit Transfers,APAC,ACH Pre-Authorised,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,ARET,ACH Return,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,AREV,ACH Reversal,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,ASET,ACH Settlement,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,ATXN,ACH Transaction,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,AUTT,Automatic Transfer,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,VCOM,Credit Transfer With Agreed Commercial Information,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,XBCT,Cross-Border Credit Transfer,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,XBSA,Cross-Border Payroll/Salary Payment,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,XBST,Cross-Border Standing Order,corrected,2016-10-24
+PMNT,Payments,ICDT,Issued Credit Transfers,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,DMCT,Domestic Credit Transfer,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,FICT,Financial Institution Credit Transfer,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,BOOK,Internal Book Transfer,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,ENCT,Nordic Payment Council Credit Transfer,new,2020-08-31
+PMNT,Payments,ICDT,Issued Credit Transfers,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,OTHR,Other,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,SALA,Payroll/Salary Payment,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,PRCT,Priority Credit Transfer,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,RPCR,Reversal Due To Payment Cancellation Request,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,RRTN,Reversal Due To Payment Return,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,XRTN,Cross Border Reversal Due to Payment Return,new,2021-02-26
+PMNT,Payments,ICDT,Issued Credit Transfers,SDVA,Same Day Value Credit Transfer,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,ESCT,SEPA Credit Transfer,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,STDO,Standing Order,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,TTLS,Treasury Tax And Loan Service,new,2009-04-27
+PMNT,Payments,ICDT,Issued Credit Transfers,COVE,Cover Transaction,new,2023-10-30
+PMNT,Payments,ICDT,Issued Credit Transfers,RCOV,Reversal due to a Cover Transaction Return,new,2023-10-30
+PMNT,Payments,IDDT,Issued Direct Debits,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,XBDD,Cross-Border Direct Debit,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,PMDD,Direct Debit Payment,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,URDD,Direct Debit Under Reserve,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,FIDD,Financial Institution Direct Debit Payment,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,OODD,One-Off Direct Debit,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,OTHR,Other,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,PADD,Pre-Authorised Direct Debit,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,RCDD,Reversal Due To Payment Cancellation Request,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,PRDD,Reversal Due To Payment Reversal,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,UPDD,Reversal Due To Return/Unpaid Direct Debit,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,BBDD,SEPA B2B Direct Debit,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,ESDD,SEPA Core Direct Debit,new,2009-04-27
+PMNT,Payments,IDDT,Issued Direct Debits,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,ACOR,ACH Corporate Trade,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,ACDT,ACH Credit,updated,2017-10-23
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,ADBT,ACH Debit,updated,2017-10-27
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,APAC,ACH Pre-Authorised,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,ARET,ACH Return,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,AREV,ACH Reversal,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,ASET,ACH Settlement,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,ATXN,ACH Transaction,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,AUTT,Automatic Transfer,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,CHRG,Charges (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,COMM,Commission (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,COME,Commission Excluding Taxes (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,COMI,Commission Including Taxes (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,CAJT,Credit Adjustments (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,VCOM,Credit Transfer With Agreed Commercial Information,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,XBCT,Cross-Border Credit Transfer,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,XBSA,Cross-Border Payroll/Salary Payment,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,XBST,Cross-Border Standing Order,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,DAJT,Debit Adjustments (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,DMCT,Domestic Credit Transfer,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,FEES,Fees (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,FICT,Financial Institution Credit Transfer,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,INTR,Interests (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,BOOK,Internal Book Transfer,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,COMT,Non Taxable Commissions (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,ENCT,Nordic Payment Council Credit Transfer,new,2020-08-31
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,NTAV,Not Available,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,OTHR,Other,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,SALA,Payroll/Salary Payment,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,PRCT,Priority Credit Transfer,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,RIMB,Reimbursement (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,RPCR,Reversal Due To Payment Cancellation Request,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,RRTN,Reversal Due To Payment Return,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,XRTN,Cross Border Reversal Due to Payment Return,new,2021-02-26
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,SDVA,Same Day Value Credit Transfer,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,ESCT,SEPA Credit Transfer,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,STDO,Standing Order,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,TAXE,Taxes (Generic),new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,TTLS,Treasury Tax And Loan Service,new,2017-06-30
+PMNT,Payments,IRCT,Issued Real-Time Credit Transfers,EICT,Icelandic Rulebook Council Credit Transfer,new,2025-05-30
+PMNT,Payments,LBOX,Lockbox Transactions,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,LBCA,Credit Adjustment,new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,LBDB,Debit,new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,LBDP,Deposit,new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,OTHR,Other,new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,LBOX,Lockbox Transactions,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,POSC,Credit Card Payment,new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,OTHR,Other,new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,POSP,Point-of-Sale (POS) Payment,new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,SMCD,Smart-Card Payment,new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,MCRD,Merchant Card Transactions,UPCT,Unpaid Card Transaction,new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,MDOP,Miscelleanous Debit Operations,IADD,Invoice Accepted with Differed Due Date,new,2015-08-31
+PMNT,Payments,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,OTHR,Other,OTHR,Other,new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,ACON,ACH Concentration,new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,BACT,Branch Account Transfer,new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,COAT,Corporate Own Account Transfer,new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,XICT,Cross-Border Intra Company Transfer,new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,FIOA,Financial Institution Own Account Transfer,new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,ICCT,Intra Company Transfer,new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,OTHR,Other,new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,RCCN,Received Cash Concentration Transactions,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,ARPD,ARP Debit,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,BCHQ,Bank Cheque,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CASH,Cash Letter,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CSHA,Cash Letter Adjustment,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CCCH,Certified Customer Cheque,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CCHQ,Cheque,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CQRV,Cheque Reversal,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,URCQ,Cheque Under Reserve,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CLCQ,Circular Cheque,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CDIS,Controlled Disbursement,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,CRCQ,Crossed Cheque,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,XBCQ,Foreign Cheque,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,XRCQ,Foreign Cheque Under Reserve,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,NPCC,Non Presented Circular Cheques,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,OPCQ,Open Cheque,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,ORCQ,Order Cheque,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,OTHR,Other,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,UPCQ,Unpaid Cheque,new,2009-04-27
+PMNT,Payments,RCHQ,Received Cheques,XPCQ,Unpaid Foreign Cheque,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,ACOR,ACH Corporate Trade,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,ACDT,ACH Credit,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,ADBT,ACH Debit,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,APAC,ACH Pre-Authorised,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,ARET,ACH Return,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,AREV,ACH Reversal,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,ASET,ACH Settlement,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,ATXN,ACH Transaction,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,AUTT,Automatic Transfer,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,VCOM,Credit Transfer With Agreed Commercial Information,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,XBCT,Cross-Border Credit Transfer,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,XBSA,Cross-Border Payroll/Salary Payment,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,XBST,Cross-Border Standing Order,corrected,2016-10-24
+PMNT,Payments,RCDT,Received Credit Transfers,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,DMCT,Domestic Credit Transfer,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,FICT,Financial Institution Credit Transfer,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,BOOK,Internal Book Transfer,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,ENCT,Nordic Payment Council Credit Transfer,new,2020-08-31
+PMNT,Payments,RCDT,Received Credit Transfers,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,OTHR,Other,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,SALA,Payroll/Salary Payment,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,PRCT,Priority Credit Transfer,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,RPCR,Reversal Due To Payment Cancellation Request,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,RRTN,Reversal Due To Payment Return,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,XRTN,Cross Border Reversal Due to Payment Return,new,2021-02-26
+PMNT,Payments,RCDT,Received Credit Transfers,SDVA,Same Day Value Credit Transfer,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,ESCT,SEPA Credit Transfer,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,STDO,Standing Order,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,TTLS,Treasury Tax And Loan Service,new,2009-04-27
+PMNT,Payments,RCDT,Received Credit Transfers,COVE,Cover Transaction,new,2023-10-30
+PMNT,Payments,RCDT,Received Credit Transfers,RCOV,Reversal due to a Cover Transaction Return,new,2023-10-30
+PMNT,Payments,RDDT,Received Direct Debits,CHRG,Charges (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,COMM,Commission (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,XBDD,Cross-Border Direct Debit,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,PMDD,Direct Debit,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,URDD,Direct Debit Under Reserve,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,FEES,Fees (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,FIDD,Financial Institution Direct Debit Payment,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,INTR,Interests (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,NTAV,Not Available,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,OODD,One-Off Direct Debit,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,OTHR,Other,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,PADD,Pre-Authorised Direct Debit,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,RIMB,Reimbursement (Generic),new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,RCDD,Reversal Due To Payment Cancellation Request,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,PRDD,Reversal Due To Payment Reversal,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,UPDD,Reversal Due To Return/Unpaid Direct Debit,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,BBDD,SEPA B2B Direct Debit,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,ESDD,SEPA Core Direct Debit,new,2009-04-27
+PMNT,Payments,RDDT,Received Direct Debits,TAXE,Taxes (Generic),new,2009-04-27
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,ACOR,ACH Corporate Trade,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,ACDT,ACH Credit,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,ADBT,ACH Debit,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,APAC,ACH Pre-Authorised,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,ARET,ACH Return,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,AREV,ACH Reversal,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,ASET,ACH Settlement,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,ATXN,ACH Transaction,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,AUTT,Automatic Transfer,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,CHRG,Charges (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,COMM,Commission (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,COME,Commission Excluding Taxes (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,COMI,Commission Including Taxes (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,CAJT,Credit Adjustments (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,VCOM,Credit Transfer With Agreed Commercial Information,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,XBCT,Cross-Border Credit Transfer,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,XBSA,Cross-Border Payroll/Salary Payment,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,XBST,Cross-Border Standing Order,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,DAJT,Debit Adjustments (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,DMCT,Domestic Credit Transfer,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,FEES,Fees (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,FICT,Financial Institution Credit Transfer,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,INTR,Interests (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,BOOK,Internal Book Transfer,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,COMT,Non Taxable Commissions (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,ENCT,Nordic Payment Council Credit Transfer,new,2020-08-31
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,NTAV,Not Available,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,OTHR,Other,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,SALA,Payroll/Salary Payment,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,PRCT,Priority Credit Transfer,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,RIMB,Reimbursement (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,RPCR,Reversal Due To Payment Cancellation Request,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,RRTN,Reversal Due To Payment Return,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,XRTN,Cross Border Reversal Due to Payment Return,new,2021-02-26
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,SDVA,Same Day Value Credit Transfer,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,ESCT,SEPA Credit Transfer,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,STDO,Standing Order,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,TAXE,Taxes (Generic),new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,TTLS,Treasury Tax And Loan Service,new,2017-06-30
+PMNT,Payments,RRCT,Received Real-Time Credit Transfers,EICT,Icelandic Rulebook Council Credit Transfer,new,2025-05-31
+PMET,Precious Metal,DLVR,Delivery,CHRG,Charges (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,COMM,Commission (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,FEES,Fees (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,INTR,Interests (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,NTAV,Not Available,new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,OTHR,Other,new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,RIMB,Reimbursement (Generic),new,2009-04-27
+PMET,Precious Metal,DLVR,Delivery,TAXE,Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,CHRG,Charges (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,COMM,Commission (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,FEES,Fees (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,INTR,Interests (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,NTAV,Not Available,new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,OTHR,Other,new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,RIMB,Reimbursement (Generic),new,2009-04-27
+PMET,Precious Metal,FTUR,Futures,TAXE,Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+PMET,Precious Metal,MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+PMET,Precious Metal,MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+PMET,Precious Metal,OPTN,Options,CHRG,Charges (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,COMM,Commission (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,FEES,Fees (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,INTR,Interests (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,NTAV,Not Available,new,2009-04-27
+PMET,Precious Metal,OPTN,Options,OTHR,Other,new,2009-04-27
+PMET,Precious Metal,OPTN,Options,RIMB,Reimbursement (Generic),new,2009-04-27
+PMET,Precious Metal,OPTN,Options,TAXE,Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,OTHR,Other,OTHR,Other,new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,CHRG,Charges (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,COMM,Commission (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,COMI,Commission Including Taxes (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,CAJT,Credit Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,DAJT,Debit Adjustments (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,FEES,Fees (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,INTR,Interests (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,NTAV,Not Available,new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,OTHR,Other,new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,RIMB,Reimbursement (Generic),new,2009-04-27
+PMET,Precious Metal,SPOT,Spots,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,CCSM,CCP Cleared Segregated Initial Margin,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,FWSB,MFA Segregated Broker Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,FWSC,MFA Segregated Client Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,MBSB,Mortgage Back Segregated Broker Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,MBSC,Mortgage Back Segregated Client Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,MGSC,Initial Futures Margin Segregated Client Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,OPSB,OTC Option Segregated Broker Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,OPSC,OTC Option Segregated Client Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,RPSB,Bi-lateral Repo Segregated Broker Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,RPSC,Bi-lateral Repo Segregated Client Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,SWSB,ISDA/CSA Segregated Broker Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,SWSC,ISDA/CSA Segregated Client Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,SWCC,Swap Client Owned Cash Collateral,new,2023-10-30
+SECU,Securities,COLL,Collateral Management,LBXX,LongBoxTransfer,new,2025-10-30
+SECU,Securities,CORP,Corporate Action,NWID,New issue distribution,new,2023-10-30
+SECU,Securities,CASH,Miscellaneous Securities Operations,CPEN,Cash Penalties,new,2023-10-30
+SECU,Securities,SETT,"Trade, Clearing and Settlement",RWPL,Redemption/Withdrawal,new,2023-10-30
+SECU,Securities,BLOC,Blocked Transactions,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,COME,Commission excluding taxes (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,COMI,Commission including taxes (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,CAJT,Credit Adjustments (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,DAJT,Debit Adjustments (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,XCHG,Exchange Traded,new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,XCHC,Exchange Traded CCP,new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,XCHN,Exchange Traded Non-CCP,new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,COMT,Non Taxable commissions (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,NTAV,Not available,new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,OTCG,OTC,new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,OTCC,OTC CCP,new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,OTCN,OTC Non-CCP,new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,OTHR,Other,new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,BLOC,Blocked Transactions,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,RPBC,Bi-lateral repo broker owned collateral,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,BFWD,Bond Forward,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,SHBC,Broker owned collateral Short Sale,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,CCPC,CCP Cleared Initial Margin,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,CCPM,CCP Cleared Variation Margin,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,SHCC,Client owned collateral Short Sale,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,OCCC,Client owned OCC pledged collateral,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,COMI,Commission Including Taxes (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,CMBO,Corporate Mark Broker Owned,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,CMCO,Corporate Mark Client Owned,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,CPRB,Corporate Rebate,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,CAJT,Credit Adjustments (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,CRDS,Credit DefaultSwap,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,CRTL,Credit Line,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,CRSP,Credit Support,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,CCIR,Cross Currency IRS,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,CRPR,Cross Product,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,DAJT,Debit Adjustments (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,EQBO,Equity Mark Broker Owned,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,EQCO,Equity Mark Client Owned,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,EQPT,Equity Option,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,EQUS,Equity Swap,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,EXTD,Exchange Traded Derivatives,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,EXPT,Exotic Option,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,FIXI,Fixed Income,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,FWBC,Forwards Broker Owned Collateral,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,FWCC,Forwards Client Owned Collateral,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,OPTN,FX Option,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,SLBC,Lending Broker Owned Cash Collateral,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,SLCC,Lending Client Owned Cash Collateral,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,MGCC,Margin Client Owned Cash Collateral,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,MARG,Margin Payments,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,NTAV,Not Available,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,OPBC,Option Broker Owned Collateral,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,OPCC,Option Client Owned Collateral,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,OTCD,OTC Derivatives,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,OTHR,Other,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,REPU,Repo,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,RPCC,Repo client owned collateral,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,RVPO,Reverse Repurchase Agreement,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,SLOA,SecuredLoan,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,SECB,Securities Borrowing,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,SBSC,Securities Buy Sell Sell Buy Back,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,SCRP,Securities Cross Products,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,SECL,Securities Lending,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,SLEB,Securities Lending And Borrowing,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,SHSL,Short Sell,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,SCIR,Single Currency IRS,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,SCIE,Single Currency IRS Exotic,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,SWBC,Swap Broker Owned Collateral,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,SWPT,Swaption,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,COLL,Collateral Management,TBBC,TBA Broker owned cash collateral,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,TBCC,TBA Client owned cash collateral,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,TBAS,To Be Announced,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,TRCP,Treasury Cross Product,new,2024-03-21
+SECU,Securities,COLL,Collateral Management,TRPO,Triparty Repo,new,2009-04-27
+SECU,Securities,COLL,Collateral Management,TRVO,Triparty Reverse Repo,new,2024-03-21
+SECU,Securities,CORP,Corporate Action,BONU,Bonus Issue/Capitalisation Issue,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,EXRI,Call On Intermediate Securities,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,CAPG,Capital Gains Distribution,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,DVCA,Cash Dividend,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,CSLI,Cash In Lieu,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,COMI,Commission Including Taxes (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,CONV,Conversion,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,CAJT,Credit Adjustments (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,DAJT,Debit Adjustments (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,DECR,Decrease in Value,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,DVOP,Dividend Option,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,DRIP,Dividend Reinvestment,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,DRAW,Drawing,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,DTCH,Dutch Auction,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,SHPR,Equity Premium Reserve,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,EXOF,Exchange,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,REDM,Final Maturity,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,MCAL,Full Call / Early Redemption,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,INTR,Interest Payment,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,PRII,Interest Payment with Principles,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,LIQU,Liquidation Dividend / Liquidation Payment,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,MRGR,Merger,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,NTAV,Not Available,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,ODLT,Odd Lot Sale/Purchase,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,OTHR,Other,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,PCAL,Partial Redemption With Reduction Of Nominal Value,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,PRED,Partial Redemption Without Reduction Of Nominal Value,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,PRIO,Priority Issue,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,BPUT,Put Redemption,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,RWPL,Redemption Withdrawing Plan,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,BIDS,Repurchase Offer/Issuer Bid/Reverse Rights.,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,RHTS,Rights Issue/Subscription Rights/Rights Offer,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,SSPL,Subscription Savings Plan,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,TREC,Tax Reclaim,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,CORP,Corporate Action,TEND,Tender,new,2009-04-27
+SECU,Securities,CORP,Corporate Action,EXWA,Warrant Exercise/Warrant Conversion,new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,COME,Commission excluding taxes (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,COMI,Commission including taxes (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,CAJT,Credit Adjustments (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,DAJT,Debit Adjustments (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,XCHG,Exchange Traded,new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,XCHC,Exchange Traded CCP,new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,XCHN,Exchange Traded Non-CCP,new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,COMT,Non Taxable commissions (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,NTAV,Not available,new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,OTCG,OTC,new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,OTCC,OTC CCP,new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,OTCN,OTC Non-CCP,new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,OTHR,Other,new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,OTHB,CSD Blocked transactions,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,BONU,Bonus Issue/Capitalisation Issue,corrected,2009-06-24
+SECU,Securities,CUST,Custody,EXRI,Call On Intermediate Securities,corrected,2009-06-24
+SECU,Securities,CUST,Custody,CAPG,Capital Gains Distribution,corrected,2009-06-24
+SECU,Securities,CUST,Custody,DVCA,Cash Dividend,corrected,2009-06-24
+SECU,Securities,CUST,Custody,CSLI,Cash In Lieu,new,2009-04-27
+SECU,Securities,CUST,Custody,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,COME,Commission excluding taxes (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,COMI,Commission including taxes (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,CONV,Conversion,corrected,2009-06-24
+SECU,Securities,CUST,Custody,CAJT,Credit Adjustments (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,DAJT,Debit Adjustments (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,DECR,Decrease in Value,corrected,2009-06-24
+SECU,Securities,CUST,Custody,DVOP,Dividend Option,corrected,2009-06-24
+SECU,Securities,CUST,Custody,DRIP,Dividend Reinvestment,corrected,2009-06-24
+SECU,Securities,CUST,Custody,DRAW,Drawing,corrected,2009-06-24
+SECU,Securities,CUST,Custody,DTCH,Dutch Auction,corrected,2009-06-24
+SECU,Securities,CUST,Custody,SHPR,Equity Premium Reserve,new,2009-04-27
+SECU,Securities,CUST,Custody,EXOF,Exchange,new,2009-04-27
+SECU,Securities,CUST,Custody,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,REDM,Final Maturity,new,2009-04-27
+SECU,Securities,CUST,Custody,MCAL,Full Call / Early Redemption,corrected,2009-06-24
+SECU,Securities,CUST,Custody,INTR,Interest Payment,corrected,2009-06-24
+SECU,Securities,CUST,Custody,PRII,Interest Payment with Principles,new,2009-04-27
+SECU,Securities,CUST,Custody,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,LIQU,Liquidation Dividend / Liquidation Payment,corrected,2009-06-24
+SECU,Securities,CUST,Custody,MRGR,Merger,corrected,2009-06-24
+SECU,Securities,CUST,Custody,COMT,Non Taxable commissions (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,NTAV,Not available,new,2009-04-27
+SECU,Securities,CUST,Custody,ODLT,Odd Lot Sale/Purchase,corrected,2009-06-24
+SECU,Securities,CUST,Custody,OTHR,Other,new,2009-04-27
+SECU,Securities,CUST,Custody,PCAL,Partial Redemption with reduction of nominal value,corrected,2009-06-24
+SECU,Securities,CUST,Custody,PRED,Partial Redemption Without Reduction of Nominal Value,corrected,2009-06-24
+SECU,Securities,CUST,Custody,PRIO,Priority Issue,new,2009-04-27
+SECU,Securities,CUST,Custody,BPUT,Put Redemption,corrected,2009-06-24
+SECU,Securities,CUST,Custody,RWPL,Redemption Withdrawing Plan,new,2009-04-27
+SECU,Securities,CUST,Custody,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,BIDS,Repurchase offer/Issuer Bid/Reverse Rights,new,2009-04-27
+SECU,Securities,CUST,Custody,RHTS,Rights Issue/Subscription Rights/Rights Offer,new,2009-04-27
+SECU,Securities,CUST,Custody,SSPL,Subscription Savings Plan,new,2009-04-27
+SECU,Securities,CUST,Custody,TREC,Tax Reclaim,new,2009-04-27
+SECU,Securities,CUST,Custody,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,CUST,Custody,TEND,Tender,new,2009-04-27
+SECU,Securities,CUST,Custody,EXWA,Warrant Exercise/Warrant Conversion,corrected,2009-06-24
+SECU,Securities,COLC,Custody Collection,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,COME,Commission excluding taxes (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,COMI,Commission including taxes (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,CAJT,Credit Adjustments (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,DAJT,Debit Adjustments (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,COMT,Non Taxable commissions (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,NTAV,Not available,new,2009-04-27
+SECU,Securities,COLC,Custody Collection,OTHR,Other,new,2009-04-27
+SECU,Securities,COLC,Custody Collection,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,COLC,Custody Collection,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,LACK,Lack,CHRG,Charges (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,COMM,Commission (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,COME,Commission excluding taxes (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,COMI,Commission including taxes (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,CAJT,Credit Adjustments (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,DAJT,Debit Adjustments (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,FEES,Fees (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,INTR,Interests (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,COMT,Non Taxable commissions (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,NTAV,Not available,corrected,2016-10-24
+SECU,Securities,LACK,Lack,OTHR,Other,corrected,2016-10-24
+SECU,Securities,LACK,Lack,RIMB,Reimbursement (Generic),corrected,2016-10-24
+SECU,Securities,LACK,Lack,TAXE,Taxes (Generic),corrected,2016-10-24
+SECU,Securities,MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,BKFE,Bank Fees,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,ERWI,Borrowing Fee,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,BROK,Brokerage Fee,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,CPEN,Cash Penalties,new,2022-05-31
+SECU,Securities,CASH,Miscellaneous Securities Operations,CHAR,Charge/Fees,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,CLAI,Compensation/Claims,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,CAJT,Credit Adjustments (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,DAJT,Debit Adjustments (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,GEN2,Deposit/Contribution,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,INFD,Fixed Deposit Interest Amount,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,FUTU,Future Variation Margin,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,FUCO,Futures Commission,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,RESI,Futures Residual Amount,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,PRIN,Interest Payment with Principles,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,ERWA,Lending Income,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,MNFE,Management Fees,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,NTAV,Not Available,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,OTHR,Other,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,OVCH,Overdraft Charge,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,STAM,Stamp Duty,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,SWAP,Swap Payment,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,SWEP,Sweep,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,TREC,Tax Reclaim,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,TRFE,Transaction Fees,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,UNCO,Underwriting Commission,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,GEN1,Withdrawal/Distribution,new,2009-04-27
+SECU,Securities,CASH,Miscellaneous Securities Operations,WITH,Withholding Tax,new,2009-04-27
+SECU,Securities,NSET,Non Settled,BSBO,Buy Sell Back,new,2009-04-27
+SECU,Securities,NSET,Non Settled,CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,COME,Commission excluding taxes (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,COMI,Commission including taxes (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,CAJT,Credit Adjustments (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,CROS,Cross Trade,new,2009-04-27
+SECU,Securities,NSET,Non Settled,DAJT,Debit Adjustments (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,ISSU,Depositary Receipt Issue,new,2009-04-27
+SECU,Securities,NSET,Non Settled,XCHG,Exchange Traded,new,2009-04-27
+SECU,Securities,NSET,Non Settled,XCHC,Exchange Traded CCP,new,2009-04-27
+SECU,Securities,NSET,Non Settled,XCHN,Exchange Traded Non-CCP,new,2009-04-27
+SECU,Securities,NSET,Non Settled,OWNE,External Account Transfer,new,2009-04-27
+SECU,Securities,NSET,Non Settled,FCTA,Factor Update,new,2009-04-27
+SECU,Securities,NSET,Non Settled,FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,INSP,Inspeci/Share Exchange,new,2009-04-27
+SECU,Securities,NSET,Non Settled,INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,OWNI,Internal Account Transfer,new,2009-04-27
+SECU,Securities,NSET,Non Settled,NETT,Netting,new,2009-04-27
+SECU,Securities,NSET,Non Settled,NSYN,Non Syndicated,new,2009-04-27
+SECU,Securities,NSET,Non Settled,COMT,Non Taxable commissions (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,NTAV,Not available,new,2009-04-27
+SECU,Securities,NSET,Non Settled,OTCG,OTC,new,2009-04-27
+SECU,Securities,NSET,Non Settled,OTCC,OTC CCP,new,2009-04-27
+SECU,Securities,NSET,Non Settled,OTCN,OTC Non-CCP,new,2009-04-27
+SECU,Securities,NSET,Non Settled,OTHR,Other,new,2009-04-27
+SECU,Securities,NSET,Non Settled,PAIR,Pair-Off,new,2009-04-27
+SECU,Securities,NSET,Non Settled,PLAC,Placement,new,2009-04-27
+SECU,Securities,NSET,Non Settled,PORT,Portfolio Move,new,2009-04-27
+SECU,Securities,NSET,Non Settled,PRUD,Principal Pay-down/pay-up,new,2009-04-27
+SECU,Securities,NSET,Non Settled,REDM,Redemption,new,2009-04-27
+SECU,Securities,NSET,Non Settled,REAA,Redemption Asset Allocation,new,2009-04-27
+SECU,Securities,NSET,Non Settled,RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,REPU,Repo,new,2009-04-27
+SECU,Securities,NSET,Non Settled,RVPO,Reverse Repo,new,2009-04-27
+SECU,Securities,NSET,Non Settled,SECB,Securities Borrowing,new,2009-04-27
+SECU,Securities,NSET,Non Settled,SECL,Securities Lending,new,2009-04-27
+SECU,Securities,NSET,Non Settled,BSBC,Sell Buy Back,new,2009-04-27
+SECU,Securities,NSET,Non Settled,SUBS,Subscription,new,2009-04-27
+SECU,Securities,NSET,Non Settled,SUAA,Subscription Asset Allocation,new,2009-04-27
+SECU,Securities,NSET,Non Settled,SWIC,Switch,new,2009-04-27
+SECU,Securities,NSET,Non Settled,SYND,Syndicated,new,2009-04-27
+SECU,Securities,NSET,Non Settled,TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,NSET,Non Settled,TBAC,TBA closing,new,2009-04-27
+SECU,Securities,NSET,Non Settled,TRAD,Trade,new,2009-04-27
+SECU,Securities,NSET,Non Settled,TRIN,Transfer In,new,2009-04-27
+SECU,Securities,NSET,Non Settled,TOUT,Transfer Out,new,2009-04-27
+SECU,Securities,NSET,Non Settled,TRPO,Triparty Repo,new,2009-04-27
+SECU,Securities,NSET,Non Settled,TRVO,Triparty Reverse Repo,new,2009-04-27
+SECU,Securities,NSET,Non Settled,TURN,Turnaround,new,2009-04-27
+SECU,Securities,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+SECU,Securities,OTHR,Other,OTHR,Other,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",BSBO,Buy Sell Back,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",CHRG,Charges (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",COMM,Commission (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",COME,Commission Excluding Taxes (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",COMI,Commission Including Taxes (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",CAJT,Credit Adjustments (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",CROS,Cross Trade,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",DAJT,Debit Adjustments (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",ISSU,Depositary Receipt Issue,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",XCHG,Exchange Traded,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",XCHC,Exchange Traded CCP,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",XCHN,Exchange Traded Non-CCP,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",OWNE,External Account Transfer,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",FCTA,Factor Update,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",FEES,Fees (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",INSP,Inspeci/Share Exchange,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",INTR,Interests (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",OWNI,Internal Account Transfer,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",NETT,Netting,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",NSYN,Non Syndicated,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",COMT,Non Taxable Commissions (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",NTAV,Not Available,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",OTCG,OTC,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",OTCC,OTC CCP,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",OTCN,OTC Non-CCP,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",OTHR,Other,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",PAIR,Pair-Off,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",PLAC,Placement,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",PORT,Portfolio Move,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",PRUD,Principal Pay-Down/Pay-Up,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",REDM,Redemption,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",REAA,Redemption Asset Allocation,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",RIMB,Reimbursement (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",REPU,Repo,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",RVPO,Reverse Repo,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",SECB,Securities Borrowing,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",SECL,Securities Lending,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",BSBC,Sell Buy Back,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",SUBS,Subscription,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",SUAA,Subscription Asset Allocation,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",SWIC,Switch,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",SYND,Syndicated,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",TAXE,Taxes (Generic),new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",TBAC,TBA Closing,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",TRAD,Trade,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",TRIN,Transfer In,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",TOUT,Transfer Out,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",TRPO,Triparty Repo,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",TRVO,Triparty Reverse Repo,new,2009-04-27
+SECU,Securities,SETT,"Trade, Clearing and Settlement",TURN,Turnaround,new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,CHRG,Charges (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,COMM,Commission (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,COMI,Commission Including Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,CAJT,Credit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,DAJT,Debit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,FEES,Fees (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,INTR,Interests (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,NTAV,Not Available,new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,OTHR,Other,new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,RIMB,Reimbursement (Generic),new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,STAC,Settlement After Collection,new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,STLR,Settlement Under Reserve,new,2009-04-27
+TRAD,Trade Services,CLNC,Clean Collection,TAXE,Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,CHRG,Charges (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,COMM,Commission (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,COMI,Commission Including Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,CAJT,Credit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,DAJT,Debit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,FEES,Fees (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,INTR,Interests (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,NTAV,Not Available,new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,OTHR,Other,new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,RIMB,Reimbursement (Generic),new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,STAC,Settlement After Collection,new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,STLR,Settlement Under Reserve,new,2009-04-27
+TRAD,Trade Services,DOCC,Documentary Collection,TAXE,Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,CHRG,Charges (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,COMM,Commission (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,COMI,Commission Including Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,CAJT,Credit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,DAJT,Debit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,FEES,Fees (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,FRZF,Freeze Of Funds,new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,INTR,Interests (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,NTAV,Not Available,new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,OTHR,Other,new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,RIMB,Reimbursement (Generic),new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,SABG,Settlement Against Bank Guarantee,new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,SOSE,Settlement Of Sight Export Document,new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,SOSI,Settlement Of Sight Import Document,new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,STLR,Settlement Under Reserve,new,2009-04-27
+TRAD,Trade Services,DCCT,Documentary Credit,TAXE,Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,CHRG,Charges (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,COMM,Commission (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,COMI,Commission Including Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,CAJT,Credit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,DAJT,Debit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,FEES,Fees (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,INTR,Interests (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,NTAV,Not Available,new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,OTHR,Other,new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,RIMB,Reimbursement (Generic),new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,STLM,Settlement,new,2009-04-27
+TRAD,Trade Services,GUAR,Guarantees,TAXE,Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,CHRG,Charges (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,COMM,Commission (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,FEES,Fees (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,INTR,Interests (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,NTAV,Not Available,new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,OTHR,Other,new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+TRAD,Trade Services,MCOP,Miscellaneous Credit Operations,TAXE,Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,ADJT,Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,CHRG,Charges (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,COMM,Commission (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,COMI,Commission Including Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,FEES,Fees (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,INTR,Interests (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,NTAV,Not Available,new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,OTHR,Other,new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,RIMB,Reimbursement (Generic),new,2009-04-27
+TRAD,Trade Services,MDOP,Miscellaneous Debit Operations,TAXE,Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,NTAV,Not Available,NTAV,Not Available,new,2009-04-27
+TRAD,Trade Services,OTHR,Other,OTHR,Other,new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,CHRG,Charges (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,COMM,Commission (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,COME,Commission Excluding Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,COMI,Commission Including Taxes (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,CAJT,Credit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,DAJT,Debit Adjustments (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,FEES,Fees (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,FRZF,Freeze Of Funds,new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,INTR,Interests (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,COMT,Non Taxable Commissions (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,NTAV,Not Available,new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,OTHR,Other,new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,RIMB,Reimbursement (Generic),new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,SABG,Settlement Against Bank Guarantee,new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,SOSE,Settlement Of Sight Export Document,new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,SOSI,Settlement Of Sight Import Document,new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,STLR,Settlement Under Reserve,new,2009-04-27
+TRAD,Trade Services,LOCT,Stand-By Letter Of Credit,TAXE,Taxes (Generic),new,2009-04-27

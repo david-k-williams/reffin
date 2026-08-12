@@ -1,0 +1,876 @@
+source_id,vendor_key,mcc,name
+python_iso18245_3b53842,0742,0742,Veterinary Services
+python_iso18245_3b53842,0763,0763,Agricultural Cooperatives
+python_iso18245_3b53842,0780,0780,Horticultural and Landscaping Services
+python_iso18245_3b53842,1520,1520,"General Contractors, residential and commercial"
+python_iso18245_3b53842,1711,1711,"Air Conditioning, Heating, and Plumbing Contractors"
+python_iso18245_3b53842,1731,1731,Electrical Contractors
+python_iso18245_3b53842,1740,1740,"Insulation, Masonry, Plastering, Stonework, and Tile Setting Contractors"
+python_iso18245_3b53842,1750,1750,Carpentry Contractors
+python_iso18245_3b53842,1761,1761,"Roofing and Siding, Sheet Metal Work Contractors"
+python_iso18245_3b53842,1771,1771,Concrete Work Contractors
+python_iso18245_3b53842,1799,1799,"Contractors, Special Trade; not elsewhere classified"
+python_iso18245_3b53842,2741,2741,Miscellaneous Publishing and Printing
+python_iso18245_3b53842,2791,2791,"Typesetting, Plate Making, and Related Services"
+python_iso18245_3b53842,2842,2842,"Sanitation, Polishing, and Specialty Cleaning Preparations"
+python_iso18245_3b53842,3000,3000,United Airlines
+python_iso18245_3b53842,3001,3001,American Airlines
+python_iso18245_3b53842,3002,3002,Pan American
+python_iso18245_3b53842,3003,3003,Eurofly
+python_iso18245_3b53842,3004,3004,Dragonair
+python_iso18245_3b53842,3005,3005,British Airways
+python_iso18245_3b53842,3006,3006,Japan Air Lines
+python_iso18245_3b53842,3007,3007,Air France
+python_iso18245_3b53842,3008,3008,Lufthansa
+python_iso18245_3b53842,3009,3009,Air Canada
+python_iso18245_3b53842,3010,3010,Royal Dutch Airlines (KLM)
+python_iso18245_3b53842,3011,3011,Aeroflot
+python_iso18245_3b53842,3012,3012,Qantas
+python_iso18245_3b53842,3013,3013,ITA AIRWAYS
+python_iso18245_3b53842,3014,3014,Saudi Arabian Airlines
+python_iso18245_3b53842,3015,3015,Swiss International Air Lines
+python_iso18245_3b53842,3016,3016,Scandinavian Airline System (SAS)
+python_iso18245_3b53842,3017,3017,South African Airways
+python_iso18245_3b53842,3018,3018,Varig (Brazil)
+python_iso18245_3b53842,3019,3019,Eastern Airlines
+python_iso18245_3b53842,3020,3020,Air India
+python_iso18245_3b53842,3021,3021,Air Algerie
+python_iso18245_3b53842,3022,3022,Philippine Airlines
+python_iso18245_3b53842,3023,3023,Mexicana
+python_iso18245_3b53842,3024,3024,Pakistan International
+python_iso18245_3b53842,3025,3025,Air New Zealand Limited International
+python_iso18245_3b53842,3026,3026,Emirates Airlines
+python_iso18245_3b53842,3027,3027,Union de Transports Aeriens
+python_iso18245_3b53842,3028,3028,Air Malta
+python_iso18245_3b53842,3029,3029,SN Brussels Airlines
+python_iso18245_3b53842,3030,3030,Aerolineas Argentinas
+python_iso18245_3b53842,3031,3031,Olympic Airways
+python_iso18245_3b53842,3032,3032,El Al
+python_iso18245_3b53842,3033,3033,Ansett Airlines
+python_iso18245_3b53842,3034,3034,Etihad Airways
+python_iso18245_3b53842,3035,3035,Tap (Portugal)
+python_iso18245_3b53842,3036,3036,VASP (Brazil)
+python_iso18245_3b53842,3037,3037,EgyptAir
+python_iso18245_3b53842,3038,3038,Kuwait Airways
+python_iso18245_3b53842,3039,3039,Avianca
+python_iso18245_3b53842,3040,3040,Gulf Air (Bahrain)
+python_iso18245_3b53842,3041,3041,Balkan: Bulgarian Airlines
+python_iso18245_3b53842,3042,3042,Finnair
+python_iso18245_3b53842,3043,3043,Aer Lingus
+python_iso18245_3b53842,3044,3044,Air Lanka
+python_iso18245_3b53842,3045,3045,Nigeria Airways
+python_iso18245_3b53842,3046,3046,Cruzeiro do Sul (Brazil)
+python_iso18245_3b53842,3047,3047,Turkish Airlines
+python_iso18245_3b53842,3048,3048,Royal Air Maroc
+python_iso18245_3b53842,3049,3049,Tunis Air
+python_iso18245_3b53842,3050,3050,Icelandair
+python_iso18245_3b53842,3051,3051,Austrian Airlines
+python_iso18245_3b53842,3052,3052,LAN Airlines
+python_iso18245_3b53842,3053,3053,AVIACO (Spain)
+python_iso18245_3b53842,3054,3054,LADECO (Chile)
+python_iso18245_3b53842,3055,3055,LAB (Bolivia)
+python_iso18245_3b53842,3056,3056,Jet Airways
+python_iso18245_3b53842,3057,3057,Virgin America
+python_iso18245_3b53842,3058,3058,Delta
+python_iso18245_3b53842,3059,3059,DBA Airlines
+python_iso18245_3b53842,3060,3060,Northwest Airlines
+python_iso18245_3b53842,3061,3061,Continental
+python_iso18245_3b53842,3062,3062,Hapag-Lloyd Express
+python_iso18245_3b53842,3063,3063,U.S. Airways
+python_iso18245_3b53842,3064,3064,Adria Airways
+python_iso18245_3b53842,3065,3065,Air Inter
+python_iso18245_3b53842,3066,3066,Southwest Airlines
+python_iso18245_3b53842,3067,3067,Vanguard Airlines
+python_iso18245_3b53842,3068,3068,Air Astana
+python_iso18245_3b53842,3069,3069,Sun Country Airlines
+python_iso18245_3b53842,3070,3070,Fly Dubai
+python_iso18245_3b53842,3071,3071,Air British Columbia
+python_iso18245_3b53842,3072,3072,Cebu Pacific
+python_iso18245_3b53842,3075,3075,Singapore Airlines
+python_iso18245_3b53842,3076,3076,Aeromexico
+python_iso18245_3b53842,3077,3077,Thai Airways
+python_iso18245_3b53842,3078,3078,China Airlines
+python_iso18245_3b53842,3079,3079,Jetstar Airways
+python_iso18245_3b53842,3080,3080,Swoop Inc.
+python_iso18245_3b53842,3081,3081,Xiamen Airlines
+python_iso18245_3b53842,3082,3082,Korean Airlines
+python_iso18245_3b53842,3083,3083,Air Afrique
+python_iso18245_3b53842,3084,3084,Eva Airways
+python_iso18245_3b53842,3085,3085,Midwest Express Airlines
+python_iso18245_3b53842,3087,3087,Metro Airlines
+python_iso18245_3b53842,3088,3088,Croatia Air
+python_iso18245_3b53842,3089,3089,Transaero
+python_iso18245_3b53842,3090,3090,Uni Airways
+python_iso18245_3b53842,3094,3094,Zambia Airways
+python_iso18245_3b53842,3096,3096,Air Zimbabwe
+python_iso18245_3b53842,3097,3097,Spanair
+python_iso18245_3b53842,3098,3098,Asiana Airlines
+python_iso18245_3b53842,3099,3099,Cathay Pacific
+python_iso18245_3b53842,3100,3100,Malaysian Airline System
+python_iso18245_3b53842,3102,3102,Iberia
+python_iso18245_3b53842,3103,3103,Garuda (Indonesia)
+python_iso18245_3b53842,3106,3106,Braathens S.A.F.E. (Norway)
+python_iso18245_3b53842,3111,3111,British Midland
+python_iso18245_3b53842,3112,3112,Windward Island
+python_iso18245_3b53842,3117,3117,Venezolana International de Aviacion
+python_iso18245_3b53842,3125,3125,Tan Airlines
+python_iso18245_3b53842,3127,3127,Taca International
+python_iso18245_3b53842,3129,3129,Surinam Airways
+python_iso18245_3b53842,3130,3130,Sunworld International Airways
+python_iso18245_3b53842,3131,3131,VLM Airlines
+python_iso18245_3b53842,3132,3132,Frontier Airlines
+python_iso18245_3b53842,3136,3136,Qatar Airways Company W.L.L.
+python_iso18245_3b53842,3144,3144,Virgin Atlantic
+python_iso18245_3b53842,3146,3146,Luxair
+python_iso18245_3b53842,3148,3148,"Air Littoral, S.A."
+python_iso18245_3b53842,3151,3151,Air Zaire
+python_iso18245_3b53842,3156,3156,GO FLY Ltd.
+python_iso18245_3b53842,3159,3159,Provincetown-Boston Airways
+python_iso18245_3b53842,3161,3161,All Nippon Airways
+python_iso18245_3b53842,3164,3164,Norontair
+python_iso18245_3b53842,3167,3167,Aero Continente
+python_iso18245_3b53842,3171,3171,Canadian Airlines
+python_iso18245_3b53842,3172,3172,Nation Air
+python_iso18245_3b53842,3174,3174,JetBlue Airways
+python_iso18245_3b53842,3175,3175,Middle East Air
+python_iso18245_3b53842,3177,3177,AirTran Airways
+python_iso18245_3b53842,3178,3178,Mesa Air
+python_iso18245_3b53842,3180,3180,Westjet Airlines
+python_iso18245_3b53842,3181,3181,Malev Hungarian Airlines
+python_iso18245_3b53842,3182,3182,LOT - Polish Airlines
+python_iso18245_3b53842,3183,3183,Oman Aviation Services
+python_iso18245_3b53842,3184,3184,LIAT
+python_iso18245_3b53842,3185,3185,LAV Linea Aeropostal Venezolana
+python_iso18245_3b53842,3186,3186,LAP Lineas Aereas Paraguayas
+python_iso18245_3b53842,3187,3187,LACSA (Costa Rica)
+python_iso18245_3b53842,3188,3188,Virgin Express
+python_iso18245_3b53842,3190,3190,Jugoslav Air
+python_iso18245_3b53842,3191,3191,Island Airlines
+python_iso18245_3b53842,3193,3193,Indian Airlines
+python_iso18245_3b53842,3196,3196,Hawaiian Air
+python_iso18245_3b53842,3197,3197,Havasu Airlines
+python_iso18245_3b53842,3200,3200,Guyana Airways
+python_iso18245_3b53842,3204,3204,Freedom Airlines
+python_iso18245_3b53842,3206,3206,China Eastern Airlines
+python_iso18245_3b53842,3211,3211,Norwegian Air Shuttle
+python_iso18245_3b53842,3212,3212,Dominicana de Aviacion
+python_iso18245_3b53842,3213,3213,Braathens Regional Airlines
+python_iso18245_3b53842,3217,3217,CSA Ceskoslovenske Aerolinie
+python_iso18245_3b53842,3219,3219,Compania Panamena de Aviacion (Copa)
+python_iso18245_3b53842,3220,3220,Compania Faucett
+python_iso18245_3b53842,3221,3221,Transportes Aeros Militares Ecuatorianos
+python_iso18245_3b53842,3222,3222,Command Airways
+python_iso18245_3b53842,3223,3223,Comair
+python_iso18245_3b53842,3226,3226,Skyways
+python_iso18245_3b53842,3228,3228,Cayman Airways
+python_iso18245_3b53842,3229,3229,SAETA (Sociedad Ecuatorianas De Transportes Aereo)
+python_iso18245_3b53842,3231,3231,SAHSA (Servicio Aero de Honduras)
+python_iso18245_3b53842,3234,3234,Caribbean Airlines
+python_iso18245_3b53842,3236,3236,Air Arabia Airline
+python_iso18245_3b53842,3239,3239,Bar Harbor Airlines
+python_iso18245_3b53842,3240,3240,Bahamasair
+python_iso18245_3b53842,3241,3241,Aviateca (Guatemala)
+python_iso18245_3b53842,3242,3242,Avensa
+python_iso18245_3b53842,3243,3243,Austrian Air Service
+python_iso18245_3b53842,3245,3245,EasyJet
+python_iso18245_3b53842,3246,3246,Ryanair
+python_iso18245_3b53842,3247,3247,Gol Airlines
+python_iso18245_3b53842,3248,3248,Tam Airlines
+python_iso18245_3b53842,3252,3252,ALM Antilean Airlines
+python_iso18245_3b53842,3253,3253,America West
+python_iso18245_3b53842,3256,3256,Alaska Airlines Inc.
+python_iso18245_3b53842,3260,3260,Spirit Airlines
+python_iso18245_3b53842,3261,3261,Air China
+python_iso18245_3b53842,3263,3263,Aero Servicio Carabobo
+python_iso18245_3b53842,3266,3266,Air Seychelles
+python_iso18245_3b53842,3267,3267,Air Panama International
+python_iso18245_3b53842,3280,3280,Air Jamaica
+python_iso18245_3b53842,3282,3282,Air Djibouti
+python_iso18245_3b53842,3285,3285,Aero Peru
+python_iso18245_3b53842,3286,3286,Aero Nicaraguenses
+python_iso18245_3b53842,3287,3287,Aero Coach Aviation
+python_iso18245_3b53842,3292,3292,Cyprus Airways
+python_iso18245_3b53842,3293,3293,Ecuatoriana
+python_iso18245_3b53842,3294,3294,Ethiopian Airlines
+python_iso18245_3b53842,3295,3295,Kenya Airways
+python_iso18245_3b53842,3296,3296,Air Berlin
+python_iso18245_3b53842,3297,3297,Tarom Romanian Air Transport
+python_iso18245_3b53842,3298,3298,Air Mauritius
+python_iso18245_3b53842,3299,3299,Wideroes Flyveselskap
+python_iso18245_3b53842,3300,3300,Azul Brazilian Airlines
+python_iso18245_3b53842,3301,3301,Wizz Airlines
+python_iso18245_3b53842,3302,3302,Flybe LTD
+python_iso18245_3b53842,3303,3303,Tigerair
+python_iso18245_3b53842,3308,3308,China Southern
+python_iso18245_3b53842,3351,3351,Affiliated Auto Rental
+python_iso18245_3b53842,3352,3352,American International
+python_iso18245_3b53842,3353,3353,Brooks Rent-A-Car
+python_iso18245_3b53842,3354,3354,Action Auto Rental
+python_iso18245_3b53842,3355,3355,SIXT Car Rental
+python_iso18245_3b53842,3357,3357,Hertz
+python_iso18245_3b53842,3359,3359,Payless Car Rental
+python_iso18245_3b53842,3360,3360,Snappy Car Rental
+python_iso18245_3b53842,3361,3361,Airways Rent-A-Car
+python_iso18245_3b53842,3362,3362,Altra Auto Rental
+python_iso18245_3b53842,3364,3364,Agency Rent-A-Car
+python_iso18245_3b53842,3366,3366,Budget Rent-A-Car
+python_iso18245_3b53842,3368,3368,Holiday Rent-A-Car
+python_iso18245_3b53842,3370,3370,Rent A Wreck
+python_iso18245_3b53842,3374,3374,Accent Rent-A-Car
+python_iso18245_3b53842,3376,3376,Ajax Rent-A-Car
+python_iso18245_3b53842,3380,3380,Triangle Rent-A-Car
+python_iso18245_3b53842,3381,3381,Europcar
+python_iso18245_3b53842,3385,3385,Tropical Rent-A-Car
+python_iso18245_3b53842,3386,3386,Showcase Rental Cars
+python_iso18245_3b53842,3387,3387,Alamo Rent-A-Car
+python_iso18245_3b53842,3388,3388,Merchants Rent-A-Car
+python_iso18245_3b53842,3389,3389,Avis Rent-A-Car
+python_iso18245_3b53842,3390,3390,Dollar Rent-A-Car
+python_iso18245_3b53842,3391,3391,Europe By Car
+python_iso18245_3b53842,3393,3393,National Car Rental
+python_iso18245_3b53842,3394,3394,Kemwell Group Rent-A-Car
+python_iso18245_3b53842,3395,3395,Thrifty Car Rental
+python_iso18245_3b53842,3396,3396,Tilden Rent-A-Car
+python_iso18245_3b53842,3398,3398,Econo Car Rent-A-Car
+python_iso18245_3b53842,3400,3400,Auto Host Car Rental
+python_iso18245_3b53842,3405,3405,Enterprise Rent-A-Car
+python_iso18245_3b53842,3409,3409,General Rent-A-Car
+python_iso18245_3b53842,3412,3412,A1 Rent-A-Car
+python_iso18245_3b53842,3420,3420,ANSA International
+python_iso18245_3b53842,3421,3421,Allstate Rent-A-Car
+python_iso18245_3b53842,3423,3423,Avcar Rent-A-Car
+python_iso18245_3b53842,3425,3425,Automate Rent-A-Car
+python_iso18245_3b53842,3427,3427,Avon Rent-A-Car
+python_iso18245_3b53842,3428,3428,Carey Rent-A-Car
+python_iso18245_3b53842,3429,3429,Insurance Rent-A-Car
+python_iso18245_3b53842,3430,3430,Major Rent-A-Car
+python_iso18245_3b53842,3431,3431,Replacement Rent-A-Car
+python_iso18245_3b53842,3432,3432,Reserve Rent-A-Car
+python_iso18245_3b53842,3433,3433,Ugly Duckling Rent-A-Car
+python_iso18245_3b53842,3434,3434,USA Rent-A-Car
+python_iso18245_3b53842,3435,3435,Value Rent-A-Car
+python_iso18245_3b53842,3436,3436,Autohansa Rent-A-Car
+python_iso18245_3b53842,3438,3438,Interent Rent-A-Car
+python_iso18245_3b53842,3439,3439,Milleville Rent-A-Car
+python_iso18245_3b53842,3441,3441,Advantage Rent-A-Car
+python_iso18245_3b53842,3501,3501,Holiday Inns
+python_iso18245_3b53842,3502,3502,Best Western Hotels
+python_iso18245_3b53842,3503,3503,Sheraton (Sheraton Hotels)
+python_iso18245_3b53842,3504,3504,Hilton
+python_iso18245_3b53842,3505,3505,Forte Hotels
+python_iso18245_3b53842,3506,3506,Golden Tulip Hotels
+python_iso18245_3b53842,3507,3507,Friendship Inns
+python_iso18245_3b53842,3508,3508,Quality Inns
+python_iso18245_3b53842,3509,3509,Marriott
+python_iso18245_3b53842,3510,3510,Days Inns
+python_iso18245_3b53842,3511,3511,Arabella Hotels
+python_iso18245_3b53842,3512,3512,Intercontinental Hotels
+python_iso18245_3b53842,3513,3513,Westin (Westin Hotels)
+python_iso18245_3b53842,3514,3514,Amerisuites
+python_iso18245_3b53842,3515,3515,Rodeway Inns
+python_iso18245_3b53842,3516,3516,LaQuinta Inns
+python_iso18245_3b53842,3517,3517,Americana Hotels
+python_iso18245_3b53842,3518,3518,Sol Hotels
+python_iso18245_3b53842,3519,3519,Pullman International Hotels
+python_iso18245_3b53842,3520,3520,Meridien Hotels
+python_iso18245_3b53842,3521,3521,Royal Lahaina Resort
+python_iso18245_3b53842,3522,3522,Tokyo Hotel
+python_iso18245_3b53842,3523,3523,Peninsula Hotels
+python_iso18245_3b53842,3524,3524,WelcomGroup Hotels
+python_iso18245_3b53842,3525,3525,Dunfey Hotels
+python_iso18245_3b53842,3526,3526,Prince Hotels
+python_iso18245_3b53842,3527,3527,Downtowner Passport
+python_iso18245_3b53842,3528,3528,Red Lion Inns
+python_iso18245_3b53842,3529,3529,CP (Canadian Pacific) Hotels
+python_iso18245_3b53842,3530,3530,Renaissance Hotels
+python_iso18245_3b53842,3531,3531,Kauai Coconut Beach Resort
+python_iso18245_3b53842,3532,3532,Royal Kona Resort
+python_iso18245_3b53842,3533,3533,Hotel Ibis
+python_iso18245_3b53842,3534,3534,Southern Pacific Hotel
+python_iso18245_3b53842,3535,3535,Hilton International
+python_iso18245_3b53842,3536,3536,AMFAC Hotels
+python_iso18245_3b53842,3537,3537,ANA Hotels
+python_iso18245_3b53842,3538,3538,Concorde Hotels
+python_iso18245_3b53842,3539,3539,Summerfield Suites Hotel
+python_iso18245_3b53842,3540,3540,Iberotel Hotels
+python_iso18245_3b53842,3541,3541,Hotel Okura
+python_iso18245_3b53842,3542,3542,Royal Hotels
+python_iso18245_3b53842,3543,3543,Four Seasons Hotels
+python_iso18245_3b53842,3544,3544,Ciga Hotels
+python_iso18245_3b53842,3545,3545,Shangri-La International
+python_iso18245_3b53842,3546,3546,Hotel Sierra
+python_iso18245_3b53842,3547,3547,Breakers Resort
+python_iso18245_3b53842,3548,3548,Hotels Melia
+python_iso18245_3b53842,3549,3549,Auberge des Governeures
+python_iso18245_3b53842,3550,3550,Regal 8 Inns
+python_iso18245_3b53842,3551,3551,Mirage Hotel and Casino
+python_iso18245_3b53842,3552,3552,Coast Hotel
+python_iso18245_3b53842,3553,3553,Park Inn by Radisson
+python_iso18245_3b53842,3554,3554,Pinehurst Resort
+python_iso18245_3b53842,3555,3555,Treasure Island Hotel and Casino
+python_iso18245_3b53842,3556,3556,Barton Creek Resort
+python_iso18245_3b53842,3557,3557,Manhattan East Suite Hotels
+python_iso18245_3b53842,3558,3558,Jolly Hotels
+python_iso18245_3b53842,3559,3559,Candlewood Suites
+python_iso18245_3b53842,3560,3560,Aladdin Resort and Casino
+python_iso18245_3b53842,3561,3561,Golden Nugget
+python_iso18245_3b53842,3562,3562,Comfort Inns
+python_iso18245_3b53842,3563,3563,Journey's End Motels
+python_iso18245_3b53842,3564,3564,Sam's Town Hotel and Casino
+python_iso18245_3b53842,3565,3565,Relax Inns
+python_iso18245_3b53842,3566,3566,Garden Place Hotel
+python_iso18245_3b53842,3567,3567,Soho Grand Hotel
+python_iso18245_3b53842,3568,3568,Ladbroke Hotels
+python_iso18245_3b53842,3569,3569,Tribeca Grand Hotel
+python_iso18245_3b53842,3570,3570,Forum Hotels
+python_iso18245_3b53842,3571,3571,Grand Wailea Resort
+python_iso18245_3b53842,3572,3572,Miyako Hotel
+python_iso18245_3b53842,3573,3573,Sandman Hotels
+python_iso18245_3b53842,3574,3574,Venture Inn
+python_iso18245_3b53842,3575,3575,Vagabond Hotels
+python_iso18245_3b53842,3576,3576,La Quinta Resort
+python_iso18245_3b53842,3577,3577,Mandarin Oriental Hotels
+python_iso18245_3b53842,3578,3578,Frankenmuth Bavarian
+python_iso18245_3b53842,3579,3579,Hotel Mercure
+python_iso18245_3b53842,3580,3580,Hotel Del Coronado
+python_iso18245_3b53842,3581,3581,Delta Hotels
+python_iso18245_3b53842,3582,3582,California Hotel and Casino
+python_iso18245_3b53842,3583,3583,Radisson BLU
+python_iso18245_3b53842,3584,3584,Princess Hotels International
+python_iso18245_3b53842,3585,3585,Hungar Hotels
+python_iso18245_3b53842,3586,3586,Sokos Hotel
+python_iso18245_3b53842,3587,3587,Doral Hotels
+python_iso18245_3b53842,3588,3588,Helmsley Hotels
+python_iso18245_3b53842,3589,3589,Doral Golf Resort
+python_iso18245_3b53842,3590,3590,Fairmont Hotels
+python_iso18245_3b53842,3591,3591,Sonesta Hotels
+python_iso18245_3b53842,3592,3592,Omni Hotels
+python_iso18245_3b53842,3593,3593,Cunard Hotels
+python_iso18245_3b53842,3594,3594,Arizona Biltmore
+python_iso18245_3b53842,3595,3595,Hospitality Inns
+python_iso18245_3b53842,3596,3596,Wynn Las Vegas
+python_iso18245_3b53842,3597,3597,Riverside Resort and Casino
+python_iso18245_3b53842,3598,3598,Regent International Hotel
+python_iso18245_3b53842,3599,3599,Pannonia Hotels
+python_iso18245_3b53842,3600,3600,Saddlebrook Resort: Tampa
+python_iso18245_3b53842,3601,3601,TradeWinds Resorts
+python_iso18245_3b53842,3602,3602,Hudson Hotel
+python_iso18245_3b53842,3603,3603,Noah's Hotel
+python_iso18245_3b53842,3604,3604,Hilton Garden Inn
+python_iso18245_3b53842,3605,3605,Jurys Doyle Hotel Group
+python_iso18245_3b53842,3606,3606,Jefferson Hotel
+python_iso18245_3b53842,3607,3607,Fontainebleau Resort
+python_iso18245_3b53842,3608,3608,Gaylord Opryland
+python_iso18245_3b53842,3609,3609,Gaylord Palms
+python_iso18245_3b53842,3610,3610,Gaylord Texan
+python_iso18245_3b53842,3611,3611,C MON INN
+python_iso18245_3b53842,3612,3612,Movenpick Hotels
+python_iso18245_3b53842,3613,3613,Microtel Inn and Suites
+python_iso18245_3b53842,3614,3614,AmericInn
+python_iso18245_3b53842,3615,3615,Travelodge
+python_iso18245_3b53842,3616,3616,Hermitage Hotel
+python_iso18245_3b53842,3617,3617,America's Best Value Inn
+python_iso18245_3b53842,3618,3618,Great Wolf
+python_iso18245_3b53842,3619,3619,aloft (aloft hotels)
+python_iso18245_3b53842,3620,3620,Binion's Horseshoe Club
+python_iso18245_3b53842,3621,3621,Extended Stay
+python_iso18245_3b53842,3622,3622,Merlin Hotel Group
+python_iso18245_3b53842,3623,3623,Dorint Hotels
+python_iso18245_3b53842,3624,3624,Lady Luck Hotel and Casino
+python_iso18245_3b53842,3625,3625,Hotel Universale
+python_iso18245_3b53842,3626,3626,Studio Plus
+python_iso18245_3b53842,3627,3627,Extended Stay America
+python_iso18245_3b53842,3628,3628,Excalibur Hotel and Casino
+python_iso18245_3b53842,3629,3629,Dan Hotels
+python_iso18245_3b53842,3630,3630,Tokyu Hotels
+python_iso18245_3b53842,3631,3631,Sleep Inns
+python_iso18245_3b53842,3632,3632,The Phoenician
+python_iso18245_3b53842,3633,3633,Rank Hotels
+python_iso18245_3b53842,3634,3634,Swissotel
+python_iso18245_3b53842,3635,3635,Reso Hotel
+python_iso18245_3b53842,3636,3636,Sarova Hotels
+python_iso18245_3b53842,3637,3637,Ramada Inns
+python_iso18245_3b53842,3638,3638,Howard Johnson
+python_iso18245_3b53842,3639,3639,Mount Charlotte Thistle
+python_iso18245_3b53842,3640,3640,Hyatt Hotels
+python_iso18245_3b53842,3641,3641,Sofitel Hotels
+python_iso18245_3b53842,3642,3642,Novotel Hotels
+python_iso18245_3b53842,3643,3643,Steigenberger Hotels
+python_iso18245_3b53842,3644,3644,EconoLodges
+python_iso18245_3b53842,3645,3645,Queens Moat Houses
+python_iso18245_3b53842,3646,3646,Swallow Hotels
+python_iso18245_3b53842,3647,3647,Husa Hotels
+python_iso18245_3b53842,3648,3648,De Vera Hotels
+python_iso18245_3b53842,3649,3649,Radisson
+python_iso18245_3b53842,3650,3650,Red Roof Inns
+python_iso18245_3b53842,3651,3651,Imperial London Hotels
+python_iso18245_3b53842,3652,3652,Embassy Hotels
+python_iso18245_3b53842,3653,3653,Penta Hotels
+python_iso18245_3b53842,3654,3654,Loews Hotels
+python_iso18245_3b53842,3655,3655,Scandic Hotels
+python_iso18245_3b53842,3656,3656,Sara Hotels
+python_iso18245_3b53842,3657,3657,Oberoi Hotels
+python_iso18245_3b53842,3658,3658,New Otani Hotels
+python_iso18245_3b53842,3659,3659,Taj Hotels International
+python_iso18245_3b53842,3660,3660,Knights Inn
+python_iso18245_3b53842,3661,3661,Metropole Hotels
+python_iso18245_3b53842,3662,3662,Circus Circus Hotel and Casino
+python_iso18245_3b53842,3663,3663,Hoteles El Presidente
+python_iso18245_3b53842,3664,3664,Flag Inns
+python_iso18245_3b53842,3665,3665,Hampton Inn Hotels
+python_iso18245_3b53842,3666,3666,Stakis Hotels
+python_iso18245_3b53842,3667,3667,Luxor Hotel and Casino
+python_iso18245_3b53842,3668,3668,Maritim Hotels
+python_iso18245_3b53842,3669,3669,Eldorado Hotel and Casino
+python_iso18245_3b53842,3670,3670,Arcade Hotels
+python_iso18245_3b53842,3671,3671,Arctia Hotels
+python_iso18245_3b53842,3672,3672,Campanile Hotels
+python_iso18245_3b53842,3673,3673,IBUSZ Hotels
+python_iso18245_3b53842,3674,3674,Rantasipi Hotels
+python_iso18245_3b53842,3675,3675,Interhotel CEDOK
+python_iso18245_3b53842,3676,3676,Monte Carlo Hotel and Casino
+python_iso18245_3b53842,3677,3677,Climat de France Hotels
+python_iso18245_3b53842,3678,3678,Cumulus Hotels
+python_iso18245_3b53842,3679,3679,Silver Legacy Hotel and Casino
+python_iso18245_3b53842,3680,3680,Hoteis Othan
+python_iso18245_3b53842,3681,3681,Adams Mark Hotels
+python_iso18245_3b53842,3682,3682,Sahara Hotel and Casino
+python_iso18245_3b53842,3683,3683,Bradbury Suites
+python_iso18245_3b53842,3684,3684,Budget Hosts Inns
+python_iso18245_3b53842,3685,3685,Budgetel Inns
+python_iso18245_3b53842,3686,3686,Susse Chalet
+python_iso18245_3b53842,3687,3687,Clarion Hotels
+python_iso18245_3b53842,3688,3688,Compri Hotels
+python_iso18245_3b53842,3689,3689,Consort Hotels
+python_iso18245_3b53842,3690,3690,Courtyard by Marriott
+python_iso18245_3b53842,3691,3691,Dillon Inn
+python_iso18245_3b53842,3692,3692,Doubletree
+python_iso18245_3b53842,3693,3693,Drury Inn
+python_iso18245_3b53842,3694,3694,Economy Inns of America
+python_iso18245_3b53842,3695,3695,Embassy Suites
+python_iso18245_3b53842,3696,3696,Excel Inn
+python_iso18245_3b53842,3697,3697,Fairfield Hotels
+python_iso18245_3b53842,3698,3698,Harley Hotels
+python_iso18245_3b53842,3699,3699,Midway Motor Lodge
+python_iso18245_3b53842,3700,3700,Motel 6
+python_iso18245_3b53842,3701,3701,La Mansion Del Rio
+python_iso18245_3b53842,3702,3702,Registry Hotels
+python_iso18245_3b53842,3703,3703,Residence Inn
+python_iso18245_3b53842,3704,3704,Royce Hotels
+python_iso18245_3b53842,3705,3705,Sandman Inn
+python_iso18245_3b53842,3706,3706,Shilo Inn
+python_iso18245_3b53842,3707,3707,Shoney's Inn
+python_iso18245_3b53842,3708,3708,Virgin River Hotel and Casino
+python_iso18245_3b53842,3709,3709,Super 8 Motels
+python_iso18245_3b53842,3710,3710,The Ritz-Carlton
+python_iso18245_3b53842,3711,3711,Flag Inns (Australia)
+python_iso18245_3b53842,3712,3712,Buffalo Bill's Hotel and Casino
+python_iso18245_3b53842,3713,3713,Quality Pacific Hotel
+python_iso18245_3b53842,3714,3714,Four Seasons (Australia) Hotels
+python_iso18245_3b53842,3715,3715,Fairfield Inn
+python_iso18245_3b53842,3716,3716,Carlton Hotels
+python_iso18245_3b53842,3717,3717,City Lodge Hotels
+python_iso18245_3b53842,3718,3718,Karos Hotels
+python_iso18245_3b53842,3719,3719,Protea Hotels
+python_iso18245_3b53842,3720,3720,Southern Sun Hotels
+python_iso18245_3b53842,3721,3721,Conrad Hotels
+python_iso18245_3b53842,3722,3722,Wyndham
+python_iso18245_3b53842,3723,3723,Rica Hotels
+python_iso18245_3b53842,3724,3724,Inter Nor Hotels
+python_iso18245_3b53842,3725,3725,Sea Pines Resort
+python_iso18245_3b53842,3726,3726,Rio Suites
+python_iso18245_3b53842,3727,3727,Broadmoor Hotel
+python_iso18245_3b53842,3728,3728,Bally's Hotel and Casino
+python_iso18245_3b53842,3729,3729,John Ascuagas Nugget
+python_iso18245_3b53842,3730,3730,MGM Grand Hotel
+python_iso18245_3b53842,3731,3731,Harrahs Hotels and Casinos
+python_iso18245_3b53842,3732,3732,Opryland Hotel
+python_iso18245_3b53842,3733,3733,Boca Raton Resort
+python_iso18245_3b53842,3734,3734,Harvey Bristol Hotels
+python_iso18245_3b53842,3735,3735,Masters Economy Inns
+python_iso18245_3b53842,3736,3736,Colorado Belle Edgewater Resort
+python_iso18245_3b53842,3737,3737,Riviera Hotel and Casino
+python_iso18245_3b53842,3738,3738,Tropicana Resort and Casino
+python_iso18245_3b53842,3739,3739,Woodside Hotels and Resorts
+python_iso18245_3b53842,3740,3740,TownePlace Suites
+python_iso18245_3b53842,3741,3741,Millennium Hotels
+python_iso18245_3b53842,3742,3742,Club Med
+python_iso18245_3b53842,3743,3743,Biltmore Hotel and Suites
+python_iso18245_3b53842,3744,3744,Carefree Resorts
+python_iso18245_3b53842,3745,3745,St. Regis Hotel
+python_iso18245_3b53842,3746,3746,Eliot Hotels
+python_iso18245_3b53842,3747,3747,Club Corp/Club Resorts
+python_iso18245_3b53842,3748,3748,Wellesley Inns
+python_iso18245_3b53842,3749,3749,Beverly Hills Hotel
+python_iso18245_3b53842,3750,3750,Crowne Plaza Hotels
+python_iso18245_3b53842,3751,3751,Homewood Suites
+python_iso18245_3b53842,3752,3752,Peabody Hotels
+python_iso18245_3b53842,3753,3753,Greenbriar Resorts
+python_iso18245_3b53842,3754,3754,Amelia Island Plantation
+python_iso18245_3b53842,3755,3755,Homestead
+python_iso18245_3b53842,3756,3756,Toyoko Inn
+python_iso18245_3b53842,3757,3757,Canyon Ranch
+python_iso18245_3b53842,3758,3758,Kahala Mandarin Oriental Hotel
+python_iso18245_3b53842,3759,3759,Orchid at Mauna Lani
+python_iso18245_3b53842,3760,3760,Halekulani Hotel/Waikiki Parc
+python_iso18245_3b53842,3761,3761,Primadonna Hotel and Casino
+python_iso18245_3b53842,3762,3762,Whiskey Pete's Hotel and Casino
+python_iso18245_3b53842,3763,3763,Chateau Elan Winery and Resort
+python_iso18245_3b53842,3764,3764,Beau Rivage Hotel and Casino
+python_iso18245_3b53842,3765,3765,Bellagio Hotel and Casino
+python_iso18245_3b53842,3766,3766,Fremont Hotel and Casino
+python_iso18245_3b53842,3767,3767,Main Street Hotel and Casino
+python_iso18245_3b53842,3768,3768,Silver Star Hotel and Casino
+python_iso18245_3b53842,3769,3769,Stratosphere Hotel and Casino
+python_iso18245_3b53842,3770,3770,SpringHill Suites
+python_iso18245_3b53842,3771,3771,Caesars Hotel and Casino
+python_iso18245_3b53842,3772,3772,Nemacolin Woodlands
+python_iso18245_3b53842,3773,3773,Venetian Resort Hotel and Casino
+python_iso18245_3b53842,3774,3774,"New York, New York Hotel and Casino"
+python_iso18245_3b53842,3775,3775,Sands Resort
+python_iso18245_3b53842,3776,3776,Nevele Grande Resort and Country Club
+python_iso18245_3b53842,3777,3777,Mandalay Bay Resort
+python_iso18245_3b53842,3778,3778,Four Points Hotels
+python_iso18245_3b53842,3779,3779,W Hotels
+python_iso18245_3b53842,3780,3780,Disney Resorts
+python_iso18245_3b53842,3781,3781,Patricia Grand Resort Hotels
+python_iso18245_3b53842,3782,3782,Rosen Hotels and Resorts
+python_iso18245_3b53842,3783,3783,Town and Country Resort & Convention Center
+python_iso18245_3b53842,3784,3784,First Hospitality Hotels
+python_iso18245_3b53842,3785,3785,Outrigger Hotels & Resorts
+python_iso18245_3b53842,3786,3786,Ohana Hotels of Hawaii
+python_iso18245_3b53842,3787,3787,Caribe Royale Resort Suites & Villas
+python_iso18245_3b53842,3788,3788,Ala Moana Hotel
+python_iso18245_3b53842,3789,3789,Smugglers' Notch Resort
+python_iso18245_3b53842,3790,3790,Raffles Hotels
+python_iso18245_3b53842,3791,3791,Staybridge Suites
+python_iso18245_3b53842,3792,3792,Claridge Casino Hotel
+python_iso18245_3b53842,3793,3793,The Flamingo Hotels
+python_iso18245_3b53842,3794,3794,Grand Casino Hotels
+python_iso18245_3b53842,3795,3795,Paris Las Vegas Hotel
+python_iso18245_3b53842,3796,3796,Peppermill Hotel Casino
+python_iso18245_3b53842,3797,3797,Atlantic City Hilton
+python_iso18245_3b53842,3798,3798,Embassy Vacation Resort
+python_iso18245_3b53842,3799,3799,Hale Koa Hotel
+python_iso18245_3b53842,3800,3800,Homestead Suites
+python_iso18245_3b53842,3801,3801,Wilderness Hotel and Golf Resort
+python_iso18245_3b53842,3802,3802,The Palace Hotel
+python_iso18245_3b53842,3803,3803,The Wigwam Golf Resort and Spa
+python_iso18245_3b53842,3804,3804,The Diplomat Country Club and Spa
+python_iso18245_3b53842,3805,3805,The Atlantic
+python_iso18245_3b53842,3806,3806,Princeville Resort
+python_iso18245_3b53842,3807,3807,Element
+python_iso18245_3b53842,3808,3808,LXR (Luxury Resorts)
+python_iso18245_3b53842,3809,3809,Settle Inn
+python_iso18245_3b53842,3810,3810,La Costa Resort
+python_iso18245_3b53842,3811,3811,Premier Inn
+python_iso18245_3b53842,3812,3812,Hyatt Place
+python_iso18245_3b53842,3813,3813,Hotel Indigo
+python_iso18245_3b53842,3814,3814,The Roosevelt Hotel NY
+python_iso18245_3b53842,3815,3815,Holiday Inn Nickelodeon
+python_iso18245_3b53842,3816,3816,Home2 Suites by Hilton
+python_iso18245_3b53842,3817,3817,Affinia
+python_iso18245_3b53842,3818,3818,MainStay Suites
+python_iso18245_3b53842,3819,3819,Oxford Suites
+python_iso18245_3b53842,3820,3820,Jumeirah Essex House
+python_iso18245_3b53842,3821,3821,Caribe Royale
+python_iso18245_3b53842,3823,3823,Grand Sierra Resort
+python_iso18245_3b53842,3824,3824,Aria (Aria Resort and Casino)
+python_iso18245_3b53842,3825,3825,Vdara (Vdara Hotel and Spa)
+python_iso18245_3b53842,3826,3826,Autograph
+python_iso18245_3b53842,3827,3827,Galt House
+python_iso18245_3b53842,3828,3828,Cosmopolitan of Las Vegas
+python_iso18245_3b53842,3829,3829,Country Inn by Carlson
+python_iso18245_3b53842,3830,3830,Park Plaza Hotel
+python_iso18245_3b53842,3831,3831,Waldorf
+python_iso18245_3b53842,3832,3832,Curio Hotels
+python_iso18245_3b53842,3833,3833,Canopy Hotels
+python_iso18245_3b53842,3834,3834,Baymont Inn and Suites
+python_iso18245_3b53842,3835,3835,Dolce Hotels and Resorts
+python_iso18245_3b53842,3836,3836,Hawthorn Suites by Wyndham
+python_iso18245_3b53842,3837,3837,Hoshino Resorts
+python_iso18245_3b53842,3838,3838,Kimpton Hotels
+python_iso18245_3b53842,3839,3839,Kyoritsu Hotels
+python_iso18245_3b53842,4011,4011,Railroads; Freight
+python_iso18245_3b53842,4111,4111,"Transportation: Suburban and Local Commuter Passenger, including Ferries"
+python_iso18245_3b53842,4112,4112,Passenger Railways
+python_iso18245_3b53842,4119,4119,Ambulance Services
+python_iso18245_3b53842,4121,4121,Limousines and Taxicabs
+python_iso18245_3b53842,4131,4131,Bus Lines
+python_iso18245_3b53842,4214,4214,"Motor Freight Carriers, Trucking: Local/Long Distance, Moving and Storage Companies, Local Delivery"
+python_iso18245_3b53842,4215,4215,"Courier Services: Air and Ground, Freight Forwarders"
+python_iso18245_3b53842,4225,4225,"Public Warehousing; Farm Products, Refrigerated Goods, Household Goods Storage"
+python_iso18245_3b53842,4411,4411,Cruise Lines
+python_iso18245_3b53842,4457,4457,Boat Leases and Boat Rentals
+python_iso18245_3b53842,4468,4468,"Marinas, Marine Service/Supplies"
+python_iso18245_3b53842,4511,4511,"Air Carriers, Airlines: Not Elsewhere Classified"
+python_iso18245_3b53842,4582,4582,"Airports, Airport Terminals, Flying Fields"
+python_iso18245_3b53842,4722,4722,Travel Agencies and Tour Operators
+python_iso18245_3b53842,4784,4784,"Bridge and Road Fees, Tolls"
+python_iso18245_3b53842,4789,4789,Transportation Services: not elsewhere classified
+python_iso18245_3b53842,4812,4812,Telecommunication Equipment Including Telephone Sales
+python_iso18245_3b53842,4813,4813,Key-entry Telecom Merchant providing single local and long-distance phone calls using a central access number in a non-face-to-face environment using key entry
+python_iso18245_3b53842,4814,4814,Telecommunication Services including but not limited to prepaid phone services and recurring phone services
+python_iso18245_3b53842,4816,4816,Computer Network/Information Services
+python_iso18245_3b53842,4821,4821,Telegraph Services
+python_iso18245_3b53842,4829,4829,Money Transfer
+python_iso18245_3b53842,4899,4899,"Cable, Satellite, and Other Pay Television and Radio Services"
+python_iso18245_3b53842,4900,4900,"Utilities: Electric, Gas, Heating Oil, Sanitary, Water"
+python_iso18245_3b53842,5013,5013,Motor Vehicle Supplies and New Parts
+python_iso18245_3b53842,5021,5021,Office and Commercial Furniture
+python_iso18245_3b53842,5039,5039,Construction Materials: not elsewhere classified
+python_iso18245_3b53842,5044,5044,"Office, Photographic, Photocopy, and Microfilm Equipment"
+python_iso18245_3b53842,5045,5045,"Computers, Computer Peripheral Equipment, Software"
+python_iso18245_3b53842,5046,5046,Commercial Equipment: not elsewhere classified
+python_iso18245_3b53842,5047,5047,Dental/Laboratory/Medical/Ophthalmic Hospital Equipment and Supplies
+python_iso18245_3b53842,5051,5051,Metal Service Centers and Offices
+python_iso18245_3b53842,5065,5065,Electrical Parts and Equipment
+python_iso18245_3b53842,5072,5072,Hardware Equipment and Supplies
+python_iso18245_3b53842,5074,5074,Plumbing and Heating Equipment
+python_iso18245_3b53842,5085,5085,Industrial Supplies: not elsewhere classified
+python_iso18245_3b53842,5094,5094,"Precious Stones and Metals, Watches and Jewelry"
+python_iso18245_3b53842,5099,5099,Durable Goods: not elsewhere classified
+python_iso18245_3b53842,5111,5111,"Stationery, Office Supplies, Printing and Writing Paper"
+python_iso18245_3b53842,5122,5122,"Drugs, Drug Proprietors, and Druggists Sundries"
+python_iso18245_3b53842,5131,5131,"Piece Goods, Notions, and Other Dry Goods"
+python_iso18245_3b53842,5137,5137,"Men's, Women's, and Children's Uniforms and Commercial Clothing"
+python_iso18245_3b53842,5139,5139,Commercial Footwear
+python_iso18245_3b53842,5169,5169,Chemicals and Allied Products: not elsewhere classified
+python_iso18245_3b53842,5172,5172,Petroleum and Petroleum Products
+python_iso18245_3b53842,5192,5192,"Books, Periodicals, and Newspapers"
+python_iso18245_3b53842,5193,5193,"Florists Supplies, Nursery Stock, and Flowers"
+python_iso18245_3b53842,5198,5198,"Paints, Varnishes, and Supplies"
+python_iso18245_3b53842,5199,5199,Nondurable Goods: not elsewhere classified
+python_iso18245_3b53842,5200,5200,Home Supply Warehouse Stores
+python_iso18245_3b53842,5211,5211,"Building Materials, Lumber Stores"
+python_iso18245_3b53842,5231,5231,"Glass, Paint, Wallpaper Stores"
+python_iso18245_3b53842,5251,5251,Hardware Stores
+python_iso18245_3b53842,5261,5261,Lawn and Garden Supply Stores
+python_iso18245_3b53842,5271,5271,Mobile Home Dealers
+python_iso18245_3b53842,5300,5300,Wholesale Clubs
+python_iso18245_3b53842,5309,5309,Duty Free Stores
+python_iso18245_3b53842,5310,5310,Discount Stores
+python_iso18245_3b53842,5311,5311,Department Stores
+python_iso18245_3b53842,5331,5331,Variety Stores
+python_iso18245_3b53842,5399,5399,Miscellaneous General Merchandise Stores
+python_iso18245_3b53842,5411,5411,"Grocery Stores, Supermarkets"
+python_iso18245_3b53842,5422,5422,"Freezer, Locker Meat Provisioners"
+python_iso18245_3b53842,5441,5441,"Candy, Nut, Confectionery Stores"
+python_iso18245_3b53842,5451,5451,Dairy Products Stores
+python_iso18245_3b53842,5462,5462,Bakeries
+python_iso18245_3b53842,5499,5499,"Miscellaneous Food Stores: Convenience Stores, Markets, Specialty Stores"
+python_iso18245_3b53842,5511,5511,"Automobile and Truck Dealers: Sales, Service, Repairs, Parts, and Leasing"
+python_iso18245_3b53842,5521,5521,Automobile and Truck Dealers: (Used Only): Sales
+python_iso18245_3b53842,5531,5531,"Auto Store, Home Supply Stores"
+python_iso18245_3b53842,5532,5532,Automotive Tire Stores
+python_iso18245_3b53842,5533,5533,"Automotive Parts, Accessories Stores"
+python_iso18245_3b53842,5541,5541,Service Stations (with or without Ancillary Services)
+python_iso18245_3b53842,5542,5542,"Fuel Dispenser, Automated"
+python_iso18245_3b53842,5551,5551,Boat Dealers
+python_iso18245_3b53842,5552,5552,Electric Vehicle Charging
+python_iso18245_3b53842,5561,5561,"Camper Dealers, Recreational and Utility Trailers"
+python_iso18245_3b53842,5571,5571,Motorcycle Shops and Dealers
+python_iso18245_3b53842,5592,5592,Motor Home Dealers
+python_iso18245_3b53842,5598,5598,Snowmobile Dealers
+python_iso18245_3b53842,5599,5599,"Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers: not elsewhere classified"
+python_iso18245_3b53842,5611,5611,Men's and Boys' Clothing and Accessories Stores
+python_iso18245_3b53842,5621,5621,Women's Ready to Wear Stores
+python_iso18245_3b53842,5631,5631,Women's Accessory and Specialty Stores
+python_iso18245_3b53842,5641,5641,Children's and Infants' Wear Stores
+python_iso18245_3b53842,5651,5651,Family Clothing Stores
+python_iso18245_3b53842,5655,5655,"Sports Apparel, Riding Apparel Stores"
+python_iso18245_3b53842,5661,5661,Shoe Stores
+python_iso18245_3b53842,5681,5681,Furriers and Fur Shops
+python_iso18245_3b53842,5691,5691,Men's and Women's Clothing Stores
+python_iso18245_3b53842,5697,5697,"Alterations, Mending, Seamstresses, Tailors"
+python_iso18245_3b53842,5698,5698,Wig and Toupee Shops
+python_iso18245_3b53842,5699,5699,Accessory and Apparel Stores: Miscellaneous
+python_iso18245_3b53842,5712,5712,"Equipment, Furniture, and Home Furnishings Stores (except Appliances)"
+python_iso18245_3b53842,5713,5713,Floor Covering Stores
+python_iso18245_3b53842,5714,5714,"Drapery, Upholstery, and Window Coverings Stores"
+python_iso18245_3b53842,5718,5718,"Fireplace, Fireplace Screens and Accessories Stores"
+python_iso18245_3b53842,5719,5719,Miscellaneous House Furnishing Specialty Shops
+python_iso18245_3b53842,5722,5722,Household Appliance Stores
+python_iso18245_3b53842,5732,5732,Electronic Sales
+python_iso18245_3b53842,5733,5733,"Music Stores: Musical Instruments, Pianos, Sheet Music"
+python_iso18245_3b53842,5734,5734,Computer Software Stores
+python_iso18245_3b53842,5735,5735,Record Shops
+python_iso18245_3b53842,5811,5811,Caterers
+python_iso18245_3b53842,5812,5812,"Eating Places, Restaurants"
+python_iso18245_3b53842,5813,5813,"Bars, Cocktail Lounges, Discotheques, Nightclubs, and Taverns: Drinking Places (Alcoholic Beverages)"
+python_iso18245_3b53842,5814,5814,Fast Food Restaurants
+python_iso18245_3b53842,5815,5815,"Digital Goods: Audiovisual Media Including Books, Movies, and Music"
+python_iso18245_3b53842,5816,5816,Digital Goods: Games
+python_iso18245_3b53842,5817,5817,Digital Goods: Software Applications (Excluding Games)
+python_iso18245_3b53842,5818,5818,Digital Goods: Multi-Category
+python_iso18245_3b53842,5912,5912,"Drug Stores, Pharmacies"
+python_iso18245_3b53842,5921,5921,"Package Stores, Beer, Wine, and Liquor"
+python_iso18245_3b53842,5931,5931,"Second Hand Stores, Used Merchandise Stores"
+python_iso18245_3b53842,5932,5932,"Antique Shops: Sales, Repairs, and Restoration Services"
+python_iso18245_3b53842,5933,5933,Pawn Shops
+python_iso18245_3b53842,5935,5935,Salvage and Wrecking Yards
+python_iso18245_3b53842,5937,5937,Antique Reproduction Stores
+python_iso18245_3b53842,5940,5940,Bicycle Shops: Sales and Service
+python_iso18245_3b53842,5941,5941,Sporting Goods Stores
+python_iso18245_3b53842,5942,5942,Book Stores
+python_iso18245_3b53842,5943,5943,"Office, School Supply, and Stationery Stores"
+python_iso18245_3b53842,5944,5944,"Clock, Jewelry, Watch, and Silverware Store"
+python_iso18245_3b53842,5945,5945,"Game, Toy, and Hobby Shops"
+python_iso18245_3b53842,5946,5946,Camera and Photographic Supply Stores
+python_iso18245_3b53842,5947,5947,"Card, Gift, Novelty, and Souvenir Shops"
+python_iso18245_3b53842,5948,5948,Leather Goods and Luggage Stores
+python_iso18245_3b53842,5949,5949,"Fabric, Needlework, Piece Goods, and Sewing Stores"
+python_iso18245_3b53842,5950,5950,Crystal and Glassware Stores
+python_iso18245_3b53842,5960,5960,Direct Marketing: Insurance Services
+python_iso18245_3b53842,5962,5962,Direct Marketing: Travel-Related Arrangement Services
+python_iso18245_3b53842,5963,5963,Door-to-Door Sales
+python_iso18245_3b53842,5964,5964,Direct Marketing: Catalog Merchants
+python_iso18245_3b53842,5965,5965,Direct Marketing: Combination Catalog and Retail Merchants
+python_iso18245_3b53842,5966,5966,Direct Marketing: Outbound Telemarketing Merchants
+python_iso18245_3b53842,5967,5967,Direct Marketing: Inbound Telemarketing Merchants
+python_iso18245_3b53842,5968,5968,Direct Marketing: Continuity/Subscription Merchants
+python_iso18245_3b53842,5969,5969,Direct Marketing: Other Direct Marketers: not elsewhere classified
+python_iso18245_3b53842,5970,5970,"Artist Supply Stores, Craft Shops"
+python_iso18245_3b53842,5971,5971,Art Dealers and Galleries
+python_iso18245_3b53842,5972,5972,Stamp and Coin Stores: Philatelic and Numismatic Supplies
+python_iso18245_3b53842,5973,5973,Religious Goods Stores
+python_iso18245_3b53842,5975,5975,"Hearing Aids: Sales, Service, Supply Stores"
+python_iso18245_3b53842,5976,5976,Orthopedic Goods: Artificial Limb Stores
+python_iso18245_3b53842,5977,5977,Cosmetic Stores
+python_iso18245_3b53842,5978,5978,"Typewriter Stores: Rentals, Sales, Service"
+python_iso18245_3b53842,5983,5983,"Fuel Dealers: Coal, Fuel Oil, Liquefied Petroleum, Wood"
+python_iso18245_3b53842,5992,5992,Florists
+python_iso18245_3b53842,5993,5993,Cigar Stores and Stands
+python_iso18245_3b53842,5994,5994,News Dealers and Newsstands
+python_iso18245_3b53842,5995,5995,Pet Shops: Pet Food and Supplies
+python_iso18245_3b53842,5996,5996,Swimming Pools: Sales and Supplies
+python_iso18245_3b53842,5997,5997,Electric Razor Stores: Sales and Service
+python_iso18245_3b53842,5998,5998,Tent and Awning Shops
+python_iso18245_3b53842,5999,5999,Miscellaneous and Specialty Retail Stores
+python_iso18245_3b53842,6010,6010,Manual Cash Disbursements: Customer Financial Institution
+python_iso18245_3b53842,6011,6011,Automated Cash Disbursements: Customer Financial Institution
+python_iso18245_3b53842,6012,6012,Merchandise and Services: Customer Financial Institution
+python_iso18245_3b53842,6050,6050,Quasi Cash: Customer Financial Institution
+python_iso18245_3b53842,6051,6051,Quasi Cash: Merchant
+python_iso18245_3b53842,6211,6211,Securities: Brokers/Dealers
+python_iso18245_3b53842,6300,6300,"Insurance Sales, Underwriting, and Premiums"
+python_iso18245_3b53842,6513,6513,Real Estate Agents and Managers: Rentals
+python_iso18245_3b53842,6532,6532,Payment Transaction: Customer Financial Institution
+python_iso18245_3b53842,6533,6533,Payment Transaction: Merchant
+python_iso18245_3b53842,6536,6536,MoneySend Intracountry
+python_iso18245_3b53842,6537,6537,MoneySend Intercountry
+python_iso18245_3b53842,6538,6538,Funding Transactions for MoneySend
+python_iso18245_3b53842,6540,6540,Funding Transactions
+python_iso18245_3b53842,7011,7011,"Lodging: Hotels, Motels, Resorts: not elsewhere classified"
+python_iso18245_3b53842,7012,7012,Timeshares
+python_iso18245_3b53842,7032,7032,Recreational and Sporting Camps
+python_iso18245_3b53842,7033,7033,Campgrounds and Trailer Parks
+python_iso18245_3b53842,7210,7210,"Cleaning, Garment, and Laundry Services"
+python_iso18245_3b53842,7211,7211,Laundry Services: Family and Commercial
+python_iso18245_3b53842,7216,7216,Dry Cleaners
+python_iso18245_3b53842,7217,7217,Carpet and Upholstery Cleaning
+python_iso18245_3b53842,7221,7221,Photographic Studios
+python_iso18245_3b53842,7230,7230,Barber and Beauty Shops
+python_iso18245_3b53842,7251,7251,"Hat Cleaning Shops, Shoe Repair Shops, Shoe Shine Parlors"
+python_iso18245_3b53842,7261,7261,Funeral Service and Crematories
+python_iso18245_3b53842,7273,7273,Dating Services
+python_iso18245_3b53842,7276,7276,Tax Preparation Service
+python_iso18245_3b53842,7277,7277,"Debt, Marriage, Personal: Counseling Service"
+python_iso18245_3b53842,7278,7278,"Buying/Shopping Clubs, Services"
+python_iso18245_3b53842,7295,7295,Housekeeping Service (China)
+python_iso18245_3b53842,7296,7296,"Clothing Rental: Costumes, Uniforms, and Formal Wear"
+python_iso18245_3b53842,7297,7297,Massage Parlors
+python_iso18245_3b53842,7298,7298,Health and Beauty Spas
+python_iso18245_3b53842,7299,7299,Other Services: not elsewhere classified
+python_iso18245_3b53842,7311,7311,Advertising Services
+python_iso18245_3b53842,7321,7321,Consumer Credit Reporting Agencies
+python_iso18245_3b53842,7322,7322,Debt Collection Agency
+python_iso18245_3b53842,7333,7333,"Commercial Art, Graphics, Photography"
+python_iso18245_3b53842,7338,7338,"Quick Copy, Reproduction, and Blueprinting Services"
+python_iso18245_3b53842,7339,7339,Stenographic and Secretarial Support Services
+python_iso18245_3b53842,7342,7342,Exterminating and Disinfecting Services
+python_iso18245_3b53842,7349,7349,"Cleaning and Maintenance, Janitorial Services"
+python_iso18245_3b53842,7361,7361,"Employment Agencies, Temporary Help Services"
+python_iso18245_3b53842,7372,7372,"Computer Programming, Data Processing, and Integrated Systems Design Services"
+python_iso18245_3b53842,7375,7375,Information Retrieval Services
+python_iso18245_3b53842,7379,7379,"Computer Maintenance, Repair, and Services: not elsewhere classified"
+python_iso18245_3b53842,7392,7392,"Consulting, Management, and Public Relations Services"
+python_iso18245_3b53842,7393,7393,"Detective Agencies, Protective Agencies, Security Services including Armored Cars, Guard Dogs"
+python_iso18245_3b53842,7394,7394,"Equipment Rental and Leasing Services, Furniture Rental, Tool Rental"
+python_iso18245_3b53842,7395,7395,"Photo Developing, Photofinishing Laboratories"
+python_iso18245_3b53842,7399,7399,Business Services: not elsewhere classified
+python_iso18245_3b53842,7512,7512,Automobile Rental Agency: not elsewhere classified
+python_iso18245_3b53842,7513,7513,Truck Rental
+python_iso18245_3b53842,7519,7519,Motor Home and Recreational Vehicle Rental
+python_iso18245_3b53842,7523,7523,Automobile Parking Lots and Garages
+python_iso18245_3b53842,7531,7531,Automotive Body Repair Shops
+python_iso18245_3b53842,7534,7534,Tire Retreading and Repair Shops
+python_iso18245_3b53842,7535,7535,Automotive Paint Shops
+python_iso18245_3b53842,7538,7538,Automotive Service Shops
+python_iso18245_3b53842,7542,7542,Car Washes
+python_iso18245_3b53842,7549,7549,Towing Services
+python_iso18245_3b53842,7622,7622,Electronic Repair Shops
+python_iso18245_3b53842,7623,7623,Air Conditioning and Refrigeration Repair Shops
+python_iso18245_3b53842,7629,7629,"Appliance Repair Shops, Electrical and Small"
+python_iso18245_3b53842,7631,7631,"Clock, Jewelry, and Watch Repair Shops"
+python_iso18245_3b53842,7641,7641,"Furniture: Reupholstery and Repair, Refinishing"
+python_iso18245_3b53842,7692,7692,Welding Repair
+python_iso18245_3b53842,7699,7699,Miscellaneous Repair Shops and Related Services
+python_iso18245_3b53842,7800,7800,Government Owned Lottery (U.S. Region Only)
+python_iso18245_3b53842,7801,7801,Internet Gambling (U.S. Region Only)
+python_iso18245_3b53842,7802,7802,Government Licensed Horse/Dog Racing (U.S. Region Only)
+python_iso18245_3b53842,7829,7829,Motion Picture and Video Tape Production and Distribution
+python_iso18245_3b53842,7832,7832,Motion Picture Theaters
+python_iso18245_3b53842,7841,7841,Video Entertainment Rental Stores
+python_iso18245_3b53842,7911,7911,"Dance Halls, Schools, and Studios"
+python_iso18245_3b53842,7922,7922,"Theatrical Producers (except Motion Pictures), Ticket Agencies"
+python_iso18245_3b53842,7929,7929,"Bands, Orchestras, and Miscellaneous Entertainers: not elsewhere classified"
+python_iso18245_3b53842,7932,7932,Pool and Billiard Establishments
+python_iso18245_3b53842,7933,7933,Bowling Alleys
+python_iso18245_3b53842,7941,7941,"Athletic Fields, Commercial Sports, Professional Sports Clubs, Sports Promoters"
+python_iso18245_3b53842,7991,7991,Tourist Attractions and Exhibits
+python_iso18245_3b53842,7992,7992,"Golf Courses, Public"
+python_iso18245_3b53842,7993,7993,Video Amusement Game Supplies
+python_iso18245_3b53842,7994,7994,Video Game Arcades/Establishments
+python_iso18245_3b53842,7995,7995,Gambling Transactions
+python_iso18245_3b53842,7996,7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers"
+python_iso18245_3b53842,7997,7997,"Clubs: Country Clubs, Membership (Athletic, Recreation, Sports), Private Golf Courses"
+python_iso18245_3b53842,7998,7998,"Aquariums, Dolphinariums, Zoos, and Seaquariums"
+python_iso18245_3b53842,7999,7999,Recreation Services: not elsewhere classified
+python_iso18245_3b53842,8011,8011,Doctors: not elsewhere classified
+python_iso18245_3b53842,8021,8021,"Dentists, Orthodontists"
+python_iso18245_3b53842,8031,8031,Osteopathic Physicians
+python_iso18245_3b53842,8041,8041,Chiropractors
+python_iso18245_3b53842,8042,8042,"Optometrists, Ophthalmologists"
+python_iso18245_3b53842,8043,8043,"Opticians, Optical Goods, and Eyeglasses"
+python_iso18245_3b53842,8049,8049,"Chiropodists, Podiatrists"
+python_iso18245_3b53842,8050,8050,Nursing and Personal Care Facilities
+python_iso18245_3b53842,8062,8062,Hospitals
+python_iso18245_3b53842,8071,8071,Dental and Medical Laboratories
+python_iso18245_3b53842,8099,8099,"Health Practitioners, Medical Services: not elsewhere classified"
+python_iso18245_3b53842,8111,8111,"Attorneys, Legal Services"
+python_iso18245_3b53842,8211,8211,"Schools, Elementary and Secondary"
+python_iso18245_3b53842,8220,8220,"Colleges, Universities, Professional Schools, and Junior Colleges"
+python_iso18245_3b53842,8241,8241,"Schools, Correspondence"
+python_iso18245_3b53842,8244,8244,"Schools, Business and Secretarial"
+python_iso18245_3b53842,8249,8249,"Schools, Trade and Vocational"
+python_iso18245_3b53842,8299,8299,Schools and Educational Services: not elsewhere classified
+python_iso18245_3b53842,8351,8351,Child Care Services
+python_iso18245_3b53842,8398,8398,"Organizations, Charitable and Social Service"
+python_iso18245_3b53842,8641,8641,"Associations: Civic, Social, and Fraternal"
+python_iso18245_3b53842,8651,8651,"Organizations, Political"
+python_iso18245_3b53842,8661,8661,"Organizations, Religious"
+python_iso18245_3b53842,8675,8675,Automobile Associations
+python_iso18245_3b53842,8699,8699,"Organizations, Membership: not elsewhere classified"
+python_iso18245_3b53842,8734,8734,Testing Laboratories (Non-Medical)
+python_iso18245_3b53842,8911,8911,"Architectural, Engineering, and Surveying Services"
+python_iso18245_3b53842,8931,8931,"Accounting, Auditing, and Bookkeeping Services"
+python_iso18245_3b53842,8999,8999,Professional Services: not elsewhere classified
+python_iso18245_3b53842,9211,9211,Court Costs including Alimony and Child Support
+python_iso18245_3b53842,9222,9222,Fines
+python_iso18245_3b53842,9223,9223,Bail and Bond Payments
+python_iso18245_3b53842,9311,9311,Tax Payments
+python_iso18245_3b53842,9399,9399,Government Services: not elsewhere classified
+python_iso18245_3b53842,9402,9402,Postal Services: Government Only
+python_iso18245_3b53842,9405,9405,Intra-Government Purchases: Government Only
+python_iso18245_3b53842,9406,9406,"Government-owned Lottery (global, excluding U.S. region)"

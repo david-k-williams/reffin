@@ -1,0 +1,68 @@
+name: Data correction
+description: Propose a sourced correction to reference data or generated labels.
+title: "[Data]: "
+body:
+  - type: markdown
+    attributes:
+      value: Data corrections need a stable, authoritative source that reviewers can verify.
+
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Domain
+      options:
+        - Merchants
+        - Cards
+        - Currencies
+        - Industries
+        - ACH
+        - ISO 20022
+    validations:
+      required: true
+
+  - type: input
+    id: code
+    attributes:
+      label: Code or identifier
+      description: Include the vendor or code set when the same code can have multiple meanings.
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Current value
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed value
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Authoritative source
+      description: Link directly to the source and include its publication or effective date when available.
+      placeholder: https://example.org/reference
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Explain edition, jurisdiction, vendor, status, or backward-compatibility considerations.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues for this correction.
+          required: true
+        - label: The proposed source may be redistributed or referenced in this project.
+          required: true

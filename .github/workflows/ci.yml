@@ -1,0 +1,135 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generated-and-python:
+    name: Generated data and Python
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.11"
+
+      - name: Verify generated files are current
+        run: python -B tools/generate.py --check
+
+      - name: Enforce generated-size budgets
+        run: python -B tools/check_generated_sizes.py
+
+      - name: Run Python tests
+        shell: bash
+        run: |
+          set -euo pipefail
+          for package in packages/python/reffin_*; do
+            PYTHONPATH="$package/src" python -m unittest discover \
+              -s "$package/tests" \
+              -v
+          done
+
+  typescript:
+    name: TypeScript
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run workspace tests
+        run: npm run test:typescript
+
+  flutter:
+    name: Flutter - ${{ matrix.name }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: ACH
+            package: packages/flutter/reffin_ach
+          - name: Cards
+            package: packages/flutter/reffin_cards
+          - name: Currencies
+            package: packages/flutter/reffin_currencies
+          - name: Industries
+            package: packages/flutter/reffin_industries
+          - name: ISO 20022
+            package: packages/flutter/reffin_iso20022
+          - name: Merchants
+            package: packages/flutter/reffin_merchants
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@1a449444c387b1966244ae4d4f8c696479add0b2 # v2.23.0
+        with:
+          channel: stable
+          cache: true
+
+      - name: Resolve dependencies
+        working-directory: ${{ matrix.package }}
+        run: flutter pub get
+
+      - name: Run tests
+        working-directory: ${{ matrix.package }}
+        run: flutter test --no-pub
+
+      - name: Run static analysis
+        working-directory: ${{ matrix.package }}
+        run: flutter analyze --no-pub
+
+  ci-success:
+    name: CI success
+    if: always()
+    needs:
+      - generated-and-python
+      - typescript
+      - flutter
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Verify all CI jobs passed
+        env:
+          GENERATED_AND_PYTHON_RESULT: ${{ needs.generated-and-python.result }}
+          TYPESCRIPT_RESULT: ${{ needs.typescript.result }}
+          FLUTTER_RESULT: ${{ needs.flutter.result }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$GENERATED_AND_PYTHON_RESULT" = success
+          test "$TYPESCRIPT_RESULT" = success
+          test "$FLUTTER_RESULT" = success

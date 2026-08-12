@@ -1,0 +1,261 @@
+source_id,vendor_key,mcc,name
+python_iso18245_3b53842,0742,0742,Veterinary services
+python_iso18245_3b53842,0743,0743,Wine producers
+python_iso18245_3b53842,0744,0744,Champagne producers
+python_iso18245_3b53842,0780,0780,Landscaping and horticultural services
+python_iso18245_3b53842,1711,1711,"Heating, plumbing and air-conditioning contractors"
+python_iso18245_3b53842,1731,1731,Electrical contractors
+python_iso18245_3b53842,1740,1740,"Masonry, stonework, tile setting, plastering and insulation contractors"
+python_iso18245_3b53842,1750,1750,Carpentry contractors
+python_iso18245_3b53842,1761,1761,"Roofing, siding and sheet metal work contractors"
+python_iso18245_3b53842,1771,1771,Concrete work contractors
+python_iso18245_3b53842,1799,1799,Special trade contractors - not elsewhere classified
+python_iso18245_3b53842,2741,2741,Miscellaneous publishing and printing services
+python_iso18245_3b53842,2791,2791,"Typesetting, platemaking and related services"
+python_iso18245_3b53842,2842,2842,"Speciality cleaning, polishing and sanitation preparations"
+python_iso18245_3b53842,4011,4011,Railroads
+python_iso18245_3b53842,4111,4111,"Local and suburban commuter passenger transportation, including ferries"
+python_iso18245_3b53842,4112,4112,Passenger railways
+python_iso18245_3b53842,4119,4119,Ambulance services
+python_iso18245_3b53842,4121,4121,Taxi-cabs and limousines
+python_iso18245_3b53842,4131,4131,Bus lines
+python_iso18245_3b53842,4214,4214,"Motor freight carriers and trucking - local and long distance, moving and storage companies and local delivery"
+python_iso18245_3b53842,4215,4215,Courier services - air and ground and freight forwarders
+python_iso18245_3b53842,4225,4225,"Public warehousing and storage - farm products, refrigerated goods and household goods"
+python_iso18245_3b53842,4411,4411,Steamships and cruise lines
+python_iso18245_3b53842,4457,4457,Boat rentals and leasing
+python_iso18245_3b53842,4468,4468,"Marinas, marine service and supplies"
+python_iso18245_3b53842,4511,4511,Airlines and air carriers
+python_iso18245_3b53842,4582,4582,"Airports, flying fields and airport terminals"
+python_iso18245_3b53842,4722,4722,Travel agencies and tour operators
+python_iso18245_3b53842,4784,4784,Tolls and bridge fees
+python_iso18245_3b53842,4789,4789,Transportation services - not elsewhere classified
+python_iso18245_3b53842,4812,4812,Telecommunication equipment and telephone sales
+python_iso18245_3b53842,4814,4814,Telecommunication services
+python_iso18245_3b53842,4815,4815,Monthly summary telephone charges
+python_iso18245_3b53842,4816,4816,Computer network information services
+python_iso18245_3b53842,4821,4821,Telegraph services
+python_iso18245_3b53842,4899,4899,Cable and other pay television services
+python_iso18245_3b53842,4900,4900,"Utilities - electric, gas, water and sanitary"
+python_iso18245_3b53842,5013,5013,Motor vehicle supplies and new parts
+python_iso18245_3b53842,5021,5021,Office and commercial furniture
+python_iso18245_3b53842,5039,5039,Construction materials - not elsewhere classified
+python_iso18245_3b53842,5044,5044,"Office, photographic, photocopy and microfilm equipment"
+python_iso18245_3b53842,5045,5045,"Computers, computer peripheral equipment - not elsewhere classified"
+python_iso18245_3b53842,5046,5046,Commercial equipment - not elsewhere classified
+python_iso18245_3b53842,5047,5047,Dental laboratory medical ophthalmic hospital equipment and supplies
+python_iso18245_3b53842,5051,5051,Metal service centres and offices
+python_iso18245_3b53842,5065,5065,Electrical parts and equipment
+python_iso18245_3b53842,5072,5072,Hardware equipment and supplies
+python_iso18245_3b53842,5074,5074,Plumbing and heating equipment and supplies
+python_iso18245_3b53842,5085,5085,Industrial supplies - not elsewhere classified
+python_iso18245_3b53842,5094,5094,"Precious stones and metals, watches and jewellery"
+python_iso18245_3b53842,5099,5099,Durable goods - not elsewhere classified
+python_iso18245_3b53842,5111,5111,"Stationery, office supplies and printing and writing paper"
+python_iso18245_3b53842,5122,5122,"Drugs, drug proprietors"
+python_iso18245_3b53842,5131,5131,"Piece goods, notions and other dry goods"
+python_iso18245_3b53842,5137,5137,"Men's, women's and children's uniforms and commercial clothing"
+python_iso18245_3b53842,5139,5139,Commercial footwear
+python_iso18245_3b53842,5169,5169,Chemicals and allied products - not elsewhere classified
+python_iso18245_3b53842,5192,5192,"Books, periodicals and newspapers"
+python_iso18245_3b53842,5193,5193,"Florists' supplies, nursery stock and flowers"
+python_iso18245_3b53842,5198,5198,"Paints, varnishes and supplies"
+python_iso18245_3b53842,5199,5199,Non-durable goods - not elsewhere classified
+python_iso18245_3b53842,5200,5200,Home supply warehouse outlets
+python_iso18245_3b53842,5211,5211,Lumber and building materials outlets
+python_iso18245_3b53842,5231,5231,"Glass, paint and wallpaper shops"
+python_iso18245_3b53842,5251,5251,Hardware shops
+python_iso18245_3b53842,5261,5261,"Lawn and garden supplies outlets, including nurseries"
+python_iso18245_3b53842,5271,5271,Mobile home dealers
+python_iso18245_3b53842,5300,5300,Wholesale clubs
+python_iso18245_3b53842,5309,5309,Duty-free shops
+python_iso18245_3b53842,5310,5310,Discount shops
+python_iso18245_3b53842,5311,5311,Department stores
+python_iso18245_3b53842,5331,5331,Variety stores
+python_iso18245_3b53842,5399,5399,Miscellaneous general merchandise
+python_iso18245_3b53842,5411,5411,Groceries and supermarkets
+python_iso18245_3b53842,5422,5422,Freezer and locker meat provisioners
+python_iso18245_3b53842,5441,5441,"Candy, nut and confectionery shops"
+python_iso18245_3b53842,5451,5451,Dairies
+python_iso18245_3b53842,5462,5462,Bakeries
+python_iso18245_3b53842,5499,5499,Miscellaneous food shops - convenience and speciality retail outlets
+python_iso18245_3b53842,5511,5511,"Car and truck dealers (new and used) sales, services, repairs, parts and leasing"
+python_iso18245_3b53842,5521,5521,"Car and truck dealers (used only) sales, service, repairs, parts and leasing"
+python_iso18245_3b53842,5531,5531,Auto and home supply outlets
+python_iso18245_3b53842,5532,5532,Automotive tyre outlets
+python_iso18245_3b53842,5533,5533,Automotive parts and accessories outlets
+python_iso18245_3b53842,5541,5541,Service stations (with or without ancillary services)
+python_iso18245_3b53842,5542,5542,Automated fuel dispensers
+python_iso18245_3b53842,5551,5551,Boat dealers
+python_iso18245_3b53842,5561,5561,"Camper, recreational and utility trailer dealers"
+python_iso18245_3b53842,5571,5571,Motorcycle shops and dealers
+python_iso18245_3b53842,5592,5592,Motor home dealers
+python_iso18245_3b53842,5598,5598,Snowmobile dealers
+python_iso18245_3b53842,5599,5599,"Miscellaneous automotive, aircraft and farm equipment dealers -not elsewhere classified"
+python_iso18245_3b53842,5611,5611,Men's and boys' clothing and accessory shops
+python_iso18245_3b53842,5621,5621,Women's ready-to-wear shops
+python_iso18245_3b53842,5631,5631,Women's accessory and speciality shops
+python_iso18245_3b53842,5641,5641,Children's and infants' wear shops
+python_iso18245_3b53842,5651,5651,Family clothing shops
+python_iso18245_3b53842,5655,5655,Sports and riding apparel shops
+python_iso18245_3b53842,5661,5661,Shoe shops
+python_iso18245_3b53842,5681,5681,Furriers and fur shops
+python_iso18245_3b53842,5691,5691,Men's and women's clothing shops
+python_iso18245_3b53842,5697,5697,"Tailors, seamstresses, mending and alterations"
+python_iso18245_3b53842,5698,5698,Wig and toupee shops
+python_iso18245_3b53842,5699,5699,Miscellaneous apparel and accessory shops
+python_iso18245_3b53842,5712,5712,"Furniture, home furnishings and equipment shops and manufacturers, except appliances"
+python_iso18245_3b53842,5713,5713,Floor covering services
+python_iso18245_3b53842,5714,5714,"Drapery, window covering and upholstery shops"
+python_iso18245_3b53842,5715,5715,Alcoholic beverage wholesalers
+python_iso18245_3b53842,5718,5718,"Fireplaces, fireplace screens and accessories shops"
+python_iso18245_3b53842,5719,5719,Miscellaneous home furnishing speciality shops
+python_iso18245_3b53842,5722,5722,Household appliance shops
+python_iso18245_3b53842,5732,5732,Electronics shops
+python_iso18245_3b53842,5733,5733,"Music shops - musical instruments, pianos and sheet music"
+python_iso18245_3b53842,5734,5734,Computer software outlets
+python_iso18245_3b53842,5735,5735,Record shops
+python_iso18245_3b53842,5811,5811,Caterers
+python_iso18245_3b53842,5812,5812,Eating places and restaurants
+python_iso18245_3b53842,5813,5813,"Drinking places (alcoholic beverages) - bars, taverns, night-clubs, cocktail lounges and discotheques"
+python_iso18245_3b53842,5814,5814,Fast food restaurants
+python_iso18245_3b53842,5815,5815,"Digital Goods-Media, Books, Movies, Music"
+python_iso18245_3b53842,5816,5816,Digital Goods-Games
+python_iso18245_3b53842,5817,5817,Furriers and fur shopsDigital Goods-Software Applications (excluding games)
+python_iso18245_3b53842,5818,5818,Digital Goods-Multi-Category
+python_iso18245_3b53842,5912,5912,Drug stores and pharmacies
+python_iso18245_3b53842,5921,5921,"Package shops - beer, wine and liquor"
+python_iso18245_3b53842,5931,5931,Used merchandise and second-hand shops
+python_iso18245_3b53842,5935,5935,Wrecking and salvage yards
+python_iso18245_3b53842,5937,5937,Antique reproduction shops
+python_iso18245_3b53842,5940,5940,Bicycle shops - sales and service
+python_iso18245_3b53842,5941,5941,Sporting goods shops
+python_iso18245_3b53842,5942,5942,Bookshops
+python_iso18245_3b53842,5943,5943,"Stationery, office and school supply shops"
+python_iso18245_3b53842,5944,5944,"Jewellery, watch, clock and silverware shops"
+python_iso18245_3b53842,5945,5945,"Hobby, toy and game shops"
+python_iso18245_3b53842,5946,5946,Camera and photographic supply shops
+python_iso18245_3b53842,5947,5947,"Gift, card, novelty and souvenir shops"
+python_iso18245_3b53842,5948,5948,Luggage and leather goods shops
+python_iso18245_3b53842,5949,5949,"Sewing, needlework, fabric and piece goods shops"
+python_iso18245_3b53842,5950,5950,Glassware and crystal shops
+python_iso18245_3b53842,5962,5962,Telemarketing - travel-related arrangement services
+python_iso18245_3b53842,5963,5963,Door-to-door sales
+python_iso18245_3b53842,5964,5964,Direct marketing - catalogue merchants
+python_iso18245_3b53842,5965,5965,Direct marketing - combination catalogue and retail merchants
+python_iso18245_3b53842,5966,5966,Direct marketing - outbound telemarketing merchants
+python_iso18245_3b53842,5967,5967,Direct marketing - inbound telemarketing merchants
+python_iso18245_3b53842,5968,5968,Direct marketing - continuity subscription merchants
+python_iso18245_3b53842,5969,5969,Direct marketing direct marketers - not elsewhere classified
+python_iso18245_3b53842,5970,5970,Artist supply and craft shops
+python_iso18245_3b53842,5971,5971,Art dealers and galleries
+python_iso18245_3b53842,5972,5972,Stamp and coin shops
+python_iso18245_3b53842,5973,5973,Religious goods and shops
+python_iso18245_3b53842,5975,5975,"Hearing aids - sales, service and supplies"
+python_iso18245_3b53842,5976,5976,Orthopaedic goods and prosthetic devices
+python_iso18245_3b53842,5977,5977,Cosmetic shops
+python_iso18245_3b53842,5978,5978,"Typewriter outlets - sales, service and rentals"
+python_iso18245_3b53842,5983,5983,"Fuel dealers - fuel oil, wood, coal and liquefied petroleum"
+python_iso18245_3b53842,5992,5992,Florists
+python_iso18245_3b53842,5993,5993,Cigar shops and stands
+python_iso18245_3b53842,5994,5994,Newsagents and news-stands
+python_iso18245_3b53842,5995,5995,"Pet shops, pet food and supplies"
+python_iso18245_3b53842,5996,5996,"Swimming pools - sales, supplies and services"
+python_iso18245_3b53842,5997,5997,Electric razor shops - sales and service
+python_iso18245_3b53842,5998,5998,Tent and awning shops
+python_iso18245_3b53842,5999,5999,Miscellaneous and speciality retail outlets
+python_iso18245_3b53842,7011,7011,"Lodging - hotels, motels and resorts"
+python_iso18245_3b53842,7032,7032,Sporting and recreational camps
+python_iso18245_3b53842,7033,7033,Trailer parks and camp-sites
+python_iso18245_3b53842,7210,7210,"Laundry, cleaning and garment services"
+python_iso18245_3b53842,7211,7211,Laundry services - family and commercial
+python_iso18245_3b53842,7216,7216,Dry cleaners
+python_iso18245_3b53842,7217,7217,Carpet and upholstery cleaning
+python_iso18245_3b53842,7221,7221,Photographic studios
+python_iso18245_3b53842,7230,7230,Beauty and barber shops
+python_iso18245_3b53842,7251,7251,"Shoe repair shops, shoe shine parlours and hat cleaning shops"
+python_iso18245_3b53842,7261,7261,Funeral services and crematoriums
+python_iso18245_3b53842,7273,7273,Dating and escort services
+python_iso18245_3b53842,7278,7278,Buying and shopping services and clubs
+python_iso18245_3b53842,7295,7295,Babysitting and housekeeping services
+python_iso18245_3b53842,7296,7296,"Clothing rentals - costumes, uniforms and formal wear"
+python_iso18245_3b53842,7297,7297,Massage parlours
+python_iso18245_3b53842,7298,7298,Health and beauty spas
+python_iso18245_3b53842,7299,7299,Miscellaneous personal services - not elsewhere classified
+python_iso18245_3b53842,7311,7311,Advertising services
+python_iso18245_3b53842,7333,7333,"Commercial photography, art and graphics"
+python_iso18245_3b53842,7338,7338,"Quick copy, reproduction and blueprinting services"
+python_iso18245_3b53842,7339,7339,Stenographic and secretarial support services
+python_iso18245_3b53842,7342,7342,Exterminating and disinfecting services
+python_iso18245_3b53842,7349,7349,"Cleaning, maintenance and janitorial services"
+python_iso18245_3b53842,7361,7361,Employment agencies and temporary help services
+python_iso18245_3b53842,7372,7372,"Computer programming, data processing and integrated systems design services"
+python_iso18245_3b53842,7375,7375,Information retrieval services
+python_iso18245_3b53842,7379,7379,Computer maintenance and repair services - not elsewhere classified
+python_iso18245_3b53842,7392,7392,"Management, consulting and public relations services"
+python_iso18245_3b53842,7393,7393,"Detective agencies, protective agencies and security services, including armoured cars and guard dogs"
+python_iso18245_3b53842,7394,7394,"Equipment, tool, furniture and appliance rentals and leasing"
+python_iso18245_3b53842,7395,7395,Photofinishing laboratories and photo developing
+python_iso18245_3b53842,7399,7399,Business services - not elsewhere classified
+python_iso18245_3b53842,7511,7511,Reserved for national use
+python_iso18245_3b53842,7512,7512,Automobile rentals
+python_iso18245_3b53842,7513,7513,Truck and utility trailer rentals
+python_iso18245_3b53842,7519,7519,Motor home and recreational vehicle rentals
+python_iso18245_3b53842,7523,7523,Parking lots and garages
+python_iso18245_3b53842,7531,7531,Automotive body repair shops
+python_iso18245_3b53842,7534,7534,Tyre retreading and repair shops
+python_iso18245_3b53842,7535,7535,Automotive paint shops
+python_iso18245_3b53842,7538,7538,Automotive service shops (non-dealer)
+python_iso18245_3b53842,7542,7542,Car washes
+python_iso18245_3b53842,7549,7549,Towing services
+python_iso18245_3b53842,7622,7622,Electronics repair shops
+python_iso18245_3b53842,7623,7623,Air conditioning and refrigeration repair shops
+python_iso18245_3b53842,7629,7629,Electrical and small appliance repair shops
+python_iso18245_3b53842,7631,7631,"Watch, clock and jewellery repair shops"
+python_iso18245_3b53842,7641,7641,"Furniture reupholstery, repair and refinishing"
+python_iso18245_3b53842,7692,7692,Welding services
+python_iso18245_3b53842,7699,7699,Miscellaneous repair shops and related services
+python_iso18245_3b53842,7829,7829,Motion picture and video tape production and distribution
+python_iso18245_3b53842,7832,7832,Motion picture theatres
+python_iso18245_3b53842,7841,7841,Video tape rentals
+python_iso18245_3b53842,7911,7911,"Dance halls, studios and schools"
+python_iso18245_3b53842,7922,7922,Theatrical producers (except motion pictures) and ticket agencies
+python_iso18245_3b53842,7929,7929,"Bands, orchestras and miscellaneous entertainers - not elsewhere classified"
+python_iso18245_3b53842,7932,7932,Billiard and pool establishments
+python_iso18245_3b53842,7933,7933,Bowling alleys
+python_iso18245_3b53842,7941,7941,"Commercial sports, professional sports clubs, athletic fields and sports promoters"
+python_iso18245_3b53842,7991,7991,Tourist attractions and exhibits
+python_iso18245_3b53842,7992,7992,Public golf courses
+python_iso18245_3b53842,7993,7993,Video amusement game supplies
+python_iso18245_3b53842,7994,7994,Video game arcades and establishments
+python_iso18245_3b53842,7996,7996,"Amusement parks, circuses, carnivals and fortune tellers"
+python_iso18245_3b53842,7997,7997,"Membership clubs (sports, recreation, athletic), country clubs and private golf courses"
+python_iso18245_3b53842,7998,7998,"Aquariums, seaquariums and dolphinariums"
+python_iso18245_3b53842,7999,7999,Recreation services - not elsewhere classified
+python_iso18245_3b53842,8011,8011,Doctors and physicians - not elsewhere classified
+python_iso18245_3b53842,8021,8021,Dentists and orthodontists
+python_iso18245_3b53842,8031,8031,Osteopaths
+python_iso18245_3b53842,8041,8041,Chiropractors
+python_iso18245_3b53842,8042,8042,Optometrists and ophthalmologists
+python_iso18245_3b53842,8043,8043,"Opticians, optical goods and eyeglasses"
+python_iso18245_3b53842,8049,8049,Podiatrists and chiropodists
+python_iso18245_3b53842,8050,8050,Nursing and personal care facilities
+python_iso18245_3b53842,8062,8062,Hospitals
+python_iso18245_3b53842,8071,8071,Medical and dental laboratories
+python_iso18245_3b53842,8099,8099,Medical services and health practitioners - not elsewhere classified
+python_iso18245_3b53842,8111,8111,Legal services and attorneys
+python_iso18245_3b53842,8211,8211,Elementary and secondary schools
+python_iso18245_3b53842,8220,8220,"Colleges, universities, professional schools and junior colleges"
+python_iso18245_3b53842,8241,8241,Correspondence schools
+python_iso18245_3b53842,8244,8244,Business and secretarial schools
+python_iso18245_3b53842,8249,8249,Trade and vocational schools
+python_iso18245_3b53842,8299,8299,Schools and educational services - not elsewhere classified
+python_iso18245_3b53842,8351,8351,Child care services
+python_iso18245_3b53842,8641,8641,"Civic, social and fraternal associations"
+python_iso18245_3b53842,8675,8675,Automobile associations
+python_iso18245_3b53842,8699,8699,Membership organizations - not elsewhere classified
+python_iso18245_3b53842,8734,8734,Testing laboratories (non-medical)
+python_iso18245_3b53842,8911,8911,"Architectural, engineering and surveying services"
+python_iso18245_3b53842,8931,8931,"Accounting, auditing and bookkeeping services"
+python_iso18245_3b53842,8999,8999,Professional services - not elsewhere classified
+python_iso18245_3b53842,9399,9399,Government Services - not elsewhere classified

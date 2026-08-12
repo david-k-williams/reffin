@@ -1,0 +1,13 @@
+division_id,division_code,name,material_symbol,description
+agriculture_forestry_fishing,A,"Agriculture, Forestry, and Fishing Division",agriculture,"Agriculture, forestry, fishing, hunting, and related services"
+all_industries,Z,All Industries,category,Aggregate covering every SIC division
+construction,C,Construction Division,construction,Building construction and special trade contractors
+finance_insurance_real_estate,H,"Finance, Insurance, and Real Estate Division",account_balance,"Depository institutions, finance, insurance, and real estate"
+manufacturing,D,Manufacturing Division,factory,Manufacturing of durable and nondurable goods
+mining,B,Mining Division,terrain,"Metal, coal, oil and gas, and nonmetallic mineral extraction"
+nonclassifiable,K,Nonclassifiable Establishments,help_outline,Establishments that cannot be classified elsewhere
+public_administration,J,Public Administration Division,account_balance,Executive legislative judicial and public administration
+retail_trade,G,Retail Trade Division,storefront,Retailers selling merchandise and related services
+services,I,Services Division,work,Business personal professional social and other services
+transportation_communications_utilities,E,Transportation and Public Utilities Division,local_shipping,"Transportation, communications, and public utilities"
+wholesale_trade,F,Wholesale Trade Division,warehouse,Wholesalers and distributors of merchandise

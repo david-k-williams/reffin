@@ -1,0 +1,81 @@
+name: Bug report
+description: Report incorrect library behavior or a reproducible failure.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve Reffin. Please omit account data, credentials, and other sensitive information.
+
+  - type: dropdown
+    id: package
+    attributes:
+      label: Package
+      options:
+        - Merchants
+        - Cards
+        - Currencies
+        - Industries
+        - ACH
+        - ISO 20022
+        - Code generation or repository tooling
+    validations:
+      required: true
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - Python
+        - TypeScript
+        - Flutter or Dart
+        - Not language-specific
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      placeholder: 0.1.0 or a commit SHA
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Include the smallest example and the exact command needed to reproduce the problem.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Include the complete error message or output when useful.
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include the operating system and relevant Python, Node.js, Dart, or Flutter versions.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues for this problem.
+          required: true
+        - label: I removed private financial data, credentials, and secrets from this report.
+          required: true

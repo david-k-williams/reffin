@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reffin-currencies"
+version = "0.1.0"
+description = "Offline currency reference data from Reffin"
+requires-python = ">=3.11"
+classifiers = ["Private :: Do Not Upload"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+reffin_currencies = ["py.typed"]

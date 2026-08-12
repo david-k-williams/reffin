@@ -1,0 +1,16 @@
+{
+  "name": "reffin-workspace",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Offline reference data for payments and finance",
+  "workspaces": [
+    "packages/typescript/*"
+  ],
+  "scripts": {
+    "generate": "python3 tools/generate.py",
+    "check:generated": "python3 tools/generate.py --check",
+    "check:sizes": "python3 tools/check_generated_sizes.py",
+    "test": "python3 tools/check_all.py",
+    "test:typescript": "npm --workspaces --if-present test"
+  }
+}

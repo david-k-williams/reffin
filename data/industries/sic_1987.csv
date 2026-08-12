@@ -1,0 +1,1525 @@
+code,title,level,parent,division
+Z,All Industries,division,,Z
+A,"Agriculture, Forestry, and Fishing Division",division,Z,A
+B,Mining Division,division,Z,B
+C,Construction Division,division,Z,C
+D,Manufacturing Division,division,Z,D
+E,Transportation and Public Utilities Division,division,Z,E
+F,Wholesale Trade Division,division,Z,F
+G,Retail Trade Division,division,Z,G
+H,"Finance, Insurance, and Real Estate Division",division,Z,H
+I,Services Division,division,Z,I
+J,Public Administration Division,division,Z,J
+K,Nonclassifiable Establishments,division,Z,K
+01,Agricultural Production Crops,major_group,A,A
+011,Cash Grains,industry_group,01,A
+0111,Wheat,industry,011,A
+0112,Rice,industry,011,A
+0115,Corn,industry,011,A
+0116,Soybeans,industry,011,A
+0119,"Cash grains, nec",industry,011,A
+013,"Field Crops, Except Cash Grains",industry_group,01,A
+0131,Cotton,industry,013,A
+0132,Tobacco,industry,013,A
+0133,Sugarcane and sugar beets,industry,013,A
+0134,Irish potatoes,industry,013,A
+0139,"Field crops, except cash grains, nec",industry,013,A
+016,Vegetables and Melons,industry_group,01,A
+0161,Vegetables and melons,industry,016,A
+017,Fruits and Tree Nuts,industry_group,01,A
+0171,Berry crops,industry,017,A
+0172,Grapes,industry,017,A
+0173,Tree nuts,industry,017,A
+0174,Citrus fruits,industry,017,A
+0175,Deciduous tree fruits,industry,017,A
+0179,"Fruits and tree nuts, nec",industry,017,A
+018,Horticultural Specialties,industry_group,01,A
+0181,Ornamental nursery products,industry,018,A
+0182,Food crops grown under cover,industry,018,A
+019,"General Farms, Primarily Crop",industry_group,01,A
+0191,"General farms, primarily crop",industry,019,A
+02,Agricultural Production Livestock,major_group,A,A
+021,"Livestock, Except Dairy and Poultry",industry_group,02,A
+0211,Beef cattle feedlots,industry,021,A
+0212,"Beef cattle, except feedlots",industry,021,A
+0213,Hogs,industry,021,A
+0214,Sheep and goats,industry,021,A
+0219,"General livestock, nec",industry,021,A
+024,Dairy Farms,industry_group,02,A
+0241,Dairy farms,industry,024,A
+025,Poultry and Eggs,industry_group,02,A
+0251,"Broiler, fryer, and roaster chickens",industry,025,A
+0252,Chicken eggs,industry,025,A
+0253,Turkeys and turkey eggs,industry,025,A
+0254,Poultry hatcheries,industry,025,A
+0259,"Poultry and eggs, nec",industry,025,A
+027,Animal Specialties,industry_group,02,A
+0271,Fur-bearing animals and rabbits,industry,027,A
+0272,Horses and other equines,industry,027,A
+0273,Animal aquaculture,industry,027,A
+0279,"Animal specialties, nec",industry,027,A
+029,"General Farms, Primarily Animal",industry_group,02,A
+0291,"General farms, primarily animal",industry,029,A
+07,Agricultural Services,major_group,A,A
+071,Soil Preparation Services,industry_group,07,A
+0711,Soil preparation services,industry,071,A
+072,Crop Services,industry_group,07,A
+0721,Crop planting and protecting,industry,072,A
+0722,Crop harvesting,industry,072,A
+0723,Crop preparation services for market,industry,072,A
+0724,Cotton ginning,industry,072,A
+074,Veterinary Services,industry_group,07,A
+0740,Veterinary Services,qcew_rollup,074,A
+0741,Veterinary services for livestock,industry,074,A
+0742,"Veterinary services, specialties",industry,074,A
+075,"Animal Services, Except Veterinary",industry_group,07,A
+0751,"Livestock services, exc. veterinary",industry,075,A
+0752,Animal specialty services,industry,075,A
+076,Farm Labor and Management Services,industry_group,07,A
+0761,Farm labor contractors,industry,076,A
+0762,Farm management services,industry,076,A
+078,Landscape and Horticultural Services,industry_group,07,A
+0780,Landscape and Horticultural Services,qcew_rollup,078,A
+0781,Landscape counseling and planning,industry,078,A
+0782,Lawn and garden services,industry,078,A
+0783,Ornamental shrub and tree services,industry,078,A
+08,Forestry,major_group,A,A
+081,Timber Tracts,industry_group,08,A
+0811,Timber tracts,industry,081,A
+083,Forest Products,industry_group,08,A
+0831,Forest products,industry,083,A
+085,Forestry Services,industry_group,08,A
+0851,Forestry services,industry,085,A
+09,"Fishing, Hunting, and Trapping",major_group,A,A
+091,Commercial Fishing,industry_group,09,A
+0912,Finfish,industry,091,A
+0913,Shellfish,industry,091,A
+0919,Miscellaneous marine products,industry,091,A
+092,Fish Hatcheries and Preserves,industry_group,09,A
+0921,Fish hatcheries and preserves,industry,092,A
+097,"Hunting, Trapping, Game Propagation",industry_group,09,A
+0971,"Hunting, trapping, game propagation",industry,097,A
+10,Metal Mining,major_group,B,B
+101,Iron Ores,industry_group,10,B
+1011,Iron ores,industry,101,B
+102,Copper Ores,industry_group,10,B
+1021,Copper ores,industry,102,B
+103,Lead and Zinc Ores,industry_group,10,B
+1031,Lead and zinc ores,industry,103,B
+104,Gold and Silver Ores,industry_group,10,B
+1041,Gold ores,industry,104,B
+1044,Silver ores,industry,104,B
+106,"Ferroalloy Ores, Except Vanadium",industry_group,10,B
+1061,"Ferroalloy ores, except vanadium",industry,106,B
+108,Metal Mining Services,industry_group,10,B
+1081,Metal mining services,industry,108,B
+109,Miscellaneous Metal Ores,industry_group,10,B
+1094,Uranium-radium-vanadium ores,industry,109,B
+1099,"Metal ores, nec",industry,109,B
+12,Coal Mining,major_group,B,B
+122,Bituminous Coal and Lignite Mining,industry_group,12,B
+1221,Bituminous coal and lignite surface,industry,122,B
+1222,Bituminous coal underground,industry,122,B
+123,Anthracite Mining,industry_group,12,B
+1231,Anthracite mining,industry,123,B
+124,Coal Mining Services,industry_group,12,B
+1241,Coal mining services,industry,124,B
+13,Oil and Gas Extraction,major_group,B,B
+131,Crude Petroleum and Natural Gas,industry_group,13,B
+1311,Crude petroleum and natural gas,industry,131,B
+132,Natural Gas Liquids,industry_group,13,B
+1321,Natural gas liquids,industry,132,B
+138,Oil and Gas Field Services,industry_group,13,B
+1381,Drilling oil and gas wells,industry,138,B
+1382,Oil and gas exploration services,industry,138,B
+1389,"Oil and gas field services, nec",industry,138,B
+14,"Nonmetallic Minerals, Except Fuels",major_group,B,B
+141,Dimension Stone,industry_group,14,B
+1411,Dimension stone,industry,141,B
+142,Crushed and Broken Stone,industry_group,14,B
+1422,Crushed and broken limestone,industry,142,B
+1423,Crushed and broken granite,industry,142,B
+1429,"Crushed and broken stone, nec",industry,142,B
+144,Sand and Gravel,industry_group,14,B
+1442,Construction sand and gravel,industry,144,B
+1446,Industrial sand,industry,144,B
+145,"Clay, Ceramic, & Refractory Minerals",industry_group,14,B
+1455,Kaolin and ball clay,industry,145,B
+1459,"Clay and related minerals, nec",industry,145,B
+147,Chemical and Fertilizer Minerals,industry_group,14,B
+1474,"Potash, soda, and borate minerals",industry,147,B
+1475,Phosphate rock,industry,147,B
+1479,"Chemical and fertilizer mining, nec",industry,147,B
+148,Nonmetallic Minerals Services,industry_group,14,B
+1481,Nonmetallic minerals services,industry,148,B
+149,Miscellaneous Nonmetallic Minerals,industry_group,14,B
+1499,Miscellaneous nonmetallic minerals,industry,149,B
+15,General Building Contractors,major_group,C,C
+152,Residential Building Construction,industry_group,15,C
+1520,Residential Building Construction,qcew_rollup,152,C
+1521,Single-family housing construction,industry,152,C
+1522,"Residential construction, nec",industry,152,C
+153,Operative Builders,industry_group,15,C
+1531,Operative builders,industry,153,C
+154,Nonresidential Building Construction,industry_group,15,C
+1540,Nonresidential Building Construction,qcew_rollup,154,C
+1541,Industrial buildings and warehouses,industry,154,C
+1542,"Nonresidential construction, nec",industry,154,C
+16,"Heavy Construction, ex. Building",major_group,C,C
+161,Highway and Street Construction,industry_group,16,C
+1611,Highway and street construction,industry,161,C
+162,"Heavy Construction, Except Highway",industry_group,16,C
+1622,"Bridge, tunnel, & elevated highway",industry,162,C
+1623,"Water, sewer, and utility lines",industry,162,C
+1629,"Heavy construction, nec",industry,162,C
+17,Special Trade Contractors,major_group,C,C
+171,"Plumbing, Heating, Air-Conditioning",industry_group,17,C
+1711,"Plumbing, heating, air-conditioning",industry,171,C
+172,Painting and Paper Hanging,industry_group,17,C
+1721,Painting and paper hanging,industry,172,C
+173,Electrical Work,industry_group,17,C
+1731,Electrical work,industry,173,C
+174,"Masonry, Stonework, and Plastering",industry_group,17,C
+1741,Masonry and other stonework,industry,174,C
+1742,"Plastering, drywall, and insulation",industry,174,C
+1743,"Terrazzo, tile, marble, mosaic work",industry,174,C
+175,Carpentry and Floor Work,industry_group,17,C
+1751,Carpentry work,industry,175,C
+1752,"Floor laying and floor work, nec",industry,175,C
+176,"Roofing, Siding, and Sheet Metal Work",industry_group,17,C
+1761,"Roofing, siding, and sheet metal work",industry,176,C
+177,Concrete Work,industry_group,17,C
+1771,Concrete work,industry,177,C
+178,Water Well Drilling,industry_group,17,C
+1781,Water well drilling,industry,178,C
+179,Misc. Special Trade Contractors,industry_group,17,C
+1791,Structural steel erection,industry,179,C
+1793,Glass and glazing work,industry,179,C
+1794,Excavation work,industry,179,C
+1795,Wrecking and demolition work,industry,179,C
+1796,"Installing building equipment, nec",industry,179,C
+1799,"Special trade contractors, nec",industry,179,C
+20,Food and Kindred Products,major_group,D,D
+201,Meat Products,industry_group,20,D
+2011,Meat packing plants,industry,201,D
+2013,Sausages and other prepared meats,industry,201,D
+2015,Poultry slaughtering and processing,industry,201,D
+202,Dairy Products,industry_group,20,D
+2021,Creamery butter,industry,202,D
+2022,"Cheese, natural and processed",industry,202,D
+2023,"Dry, condensed, evaporated products",industry,202,D
+2024,Ice cream and frozen desserts,industry,202,D
+2026,Fluid milk,industry,202,D
+203,Preserved Fruits and Vegetables,industry_group,20,D
+2032,Canned specialties,industry,203,D
+2033,Canned fruits and vegetables,industry,203,D
+2034,"Dehydrated fruits, vegetables, soups",industry,203,D
+2035,"Pickles, sauces, and salad dressings",industry,203,D
+2037,Frozen fruits and vegetables,industry,203,D
+2038,"Frozen specialties, nec",industry,203,D
+204,Grain Mill Products,industry_group,20,D
+2041,Flour and other grain mill products,industry,204,D
+2043,Cereal breakfast foods,industry,204,D
+2044,Rice milling,industry,204,D
+2045,Prepared flour mixes and doughs,industry,204,D
+2046,Wet corn milling,industry,204,D
+2047,Dog and cat food,industry,204,D
+2048,"Prepared feeds, nec",industry,204,D
+205,Bakery Products,industry_group,20,D
+2051,"Bread, cake, and related products",industry,205,D
+2052,Cookies and crackers,industry,205,D
+2053,"Frozen bakery products, except bread",industry,205,D
+206,Sugar and Confectionery Products,industry_group,20,D
+2061,Raw cane sugar,industry,206,D
+2062,Cane sugar refining,industry,206,D
+2063,Beet sugar,industry,206,D
+2064,Candy & other confectionery products,industry,206,D
+2066,Chocolate and cocoa products,industry,206,D
+2067,Chewing gum,industry,206,D
+2068,Salted and roasted nuts and seeds,industry,206,D
+207,Fats and Oils,industry_group,20,D
+2074,Cottonseed oil mills,industry,207,D
+2075,Soybean oil mills,industry,207,D
+2076,"Vegetable oil mills, nec",industry,207,D
+2077,Animal and marine fats and oils,industry,207,D
+2079,"Edible fats and oils, nec",industry,207,D
+208,Beverages,industry_group,20,D
+2082,Malt beverages,industry,208,D
+2083,Malt,industry,208,D
+2084,"Wines, brandy, and brandy spirits",industry,208,D
+2085,Distilled and blended liquors,industry,208,D
+2086,Bottled and canned soft drinks,industry,208,D
+2087,"Flavoring extracts and syrups, nec",industry,208,D
+209,Misc. Food and Kindred Products,industry_group,20,D
+2091,Canned and cured fish and seafoods,industry,209,D
+2092,Fresh or frozen prepared fish,industry,209,D
+2095,Roasted coffee,industry,209,D
+2096,Potato chips and similar snacks,industry,209,D
+2097,Manufactured ice,industry,209,D
+2098,Macaroni and spaghetti,industry,209,D
+2099,"Food preparations, nec",industry,209,D
+21,Tobacco Products,major_group,D,D
+211,Cigarettes,industry_group,21,D
+2111,Cigarettes,industry,211,D
+212,Cigars,industry_group,21,D
+2121,Cigars,industry,212,D
+213,Chewing and Smoking Tobacco,industry_group,21,D
+2131,Chewing and smoking tobacco,industry,213,D
+214,Tobacco Stemming and Redrying,industry_group,21,D
+2141,Tobacco stemming and redrying,industry,214,D
+22,Textile Mill Products,major_group,D,D
+221,"Broadwoven Fabric Mills, Cotton",industry_group,22,D
+2211,"Broadwoven fabric mills, cotton",industry,221,D
+222,"Broadwoven Fabric Mills, Manmade",industry_group,22,D
+2221,"Broadwoven fabric mills, manmade",industry,222,D
+223,"Broadwoven Fabric Mills, Wool",industry_group,22,D
+2231,"Broadwoven fabric mills, wool",industry,223,D
+224,Narrow Fabric Mills,industry_group,22,D
+2241,Narrow fabric mills,industry,224,D
+225,Knitting Mills,industry_group,22,D
+2251,"Women's hosiery, except socks",industry,225,D
+2252,"Hosiery, nec",industry,225,D
+2253,Knit outerwear mills,industry,225,D
+2254,Knit underwear mills,industry,225,D
+2257,Weft knit fabric mills,industry,225,D
+2258,Lace & warp knit fabric mills,industry,225,D
+2259,"Knitting mills, nec",industry,225,D
+226,"Textile Finishing, Except Wool",industry_group,22,D
+2261,"Finishing plants, cotton",industry,226,D
+2262,"Finishing plants, manmade",industry,226,D
+2269,"Finishing plants, nec",industry,226,D
+227,Carpets and Rugs,industry_group,22,D
+2273,Carpets and rugs,industry,227,D
+228,Yarn and Thread Mills,industry_group,22,D
+2281,Yarn spinning mills,industry,228,D
+2282,Throwing and winding mills,industry,228,D
+2284,Thread mills,industry,228,D
+229,Miscellaneous Textile Goods,industry_group,22,D
+2295,"Coated fabrics, not rubberized",industry,229,D
+2296,Tire cord and fabrics,industry,229,D
+2297,Nonwoven fabrics,industry,229,D
+2298,Cordage and twine,industry,229,D
+2299,"Textile goods, nec",industry,229,D
+23,Apparel and Other Textile Products,major_group,D,D
+231,Men's and Boys' Suits and Coats,industry_group,23,D
+2311,Men's and boys' suits and coats,industry,231,D
+232,Men's and Boys' Furnishings,industry_group,23,D
+2321,Men's and boys' shirts,industry,232,D
+2322,Men's & boys' underwear & nightwear,industry,232,D
+2323,Men's and boys' neckwear,industry,232,D
+2325,Men's and boys' trousers and slacks,industry,232,D
+2326,Men's and boys' work clothing,industry,232,D
+2329,"Men's and boys' clothing, nec",industry,232,D
+233,Women's and Misses' Outerwear,industry_group,23,D
+2331,Women's & misses' blouses & shirts,industry,233,D
+2335,"Women's, junior's, & misses' dresses",industry,233,D
+2337,Women's and misses' suits and coats,industry,233,D
+2339,"Women's and misses' outerwear, nec",industry,233,D
+234,Women's and children's Undergarments,industry_group,23,D
+2341,Women's and children's underwear,industry,234,D
+2342,"Bras, girdles, and allied garments",industry,234,D
+235,"Hats, Caps, and Millinery",industry_group,23,D
+2353,"Hats, caps, and millinery",industry,235,D
+236,Girls' and children's Outerwear,industry_group,23,D
+2361,"Girls' & children's dresses, blouses",industry,236,D
+2369,"Girls' and children's outerwear, nec",industry,236,D
+237,Fur Goods,industry_group,23,D
+2371,Fur goods,industry,237,D
+238,Miscellaneous Apparel and Accessories,industry_group,23,D
+2381,Fabric dress and work gloves,industry,238,D
+2384,Robes and dressing gowns,industry,238,D
+2385,Waterproof outerwear,industry,238,D
+2386,Leather and sheep-lined clothing,industry,238,D
+2387,Apparel belts,industry,238,D
+2389,"Apparel and accessories, nec",industry,238,D
+239,Misc. Fabricated Textile Products,industry_group,23,D
+2391,Curtains and draperies,industry,239,D
+2392,"Housefurnishings, nec",industry,239,D
+2393,Textile bags,industry,239,D
+2394,Canvas and related products,industry,239,D
+2395,Pleating and stitching,industry,239,D
+2396,Automotive and apparel trimmings,industry,239,D
+2397,Schiffli machine embroideries,industry,239,D
+2399,"Fabricated textile products, nec",industry,239,D
+24,Lumber and Wood Products,major_group,D,D
+241,Logging,industry_group,24,D
+2411,Logging,industry,241,D
+242,Sawmills and Planing Mills,industry_group,24,D
+2421,"Sawmills and planing mills, general",industry,242,D
+2426,Hardwood dimension & flooring mills,industry,242,D
+2429,"Special product sawmills, nec",industry,242,D
+243,"Millwork, Plywood & Structural Members",industry_group,24,D
+2431,Millwork,industry,243,D
+2434,Wood kitchen cabinets,industry,243,D
+2435,Hardwood veneer and plywood,industry,243,D
+2436,Softwood veneer and plywood,industry,243,D
+2439,"Structural wood members, nec",industry,243,D
+244,Wood Containers,industry_group,24,D
+2441,Nailed wood boxes and shook,industry,244,D
+2448,Wood pallets and skids,industry,244,D
+2449,"Wood containers, nec",industry,244,D
+245,Wood Buildings and Mobile Homes,industry_group,24,D
+2451,Mobile homes,industry,245,D
+2452,Prefabricated wood buildings,industry,245,D
+249,Miscellaneous Wood Products,industry_group,24,D
+2491,Wood preserving,industry,249,D
+2493,Reconstituted wood products,industry,249,D
+2499,"Wood products, nec",industry,249,D
+25,Furniture and Fixtures,major_group,D,D
+251,Household Furniture,industry_group,25,D
+2511,Wood household furniture,industry,251,D
+2512,Upholstered household furniture,industry,251,D
+2514,Metal household furniture,industry,251,D
+2515,Mattresses and bedsprings,industry,251,D
+2517,Wood TV and radio cabinets,industry,251,D
+2519,"Household furniture, nec",industry,251,D
+252,Office Furniture,industry_group,25,D
+2521,Wood office furniture,industry,252,D
+2522,"Office furniture, except wood",industry,252,D
+253,Public Building & Related Furniture,industry_group,25,D
+2531,Public building & related furniture,industry,253,D
+254,Partitions and Fixtures,industry_group,25,D
+2541,Wood partitions and fixtures,industry,254,D
+2542,"Partitions and fixtures, except wood",industry,254,D
+259,Miscellaneous Furniture and Fixtures,industry_group,25,D
+2591,Drapery hardware & blinds & shades,industry,259,D
+2599,"Furniture and fixtures, nec",industry,259,D
+26,Paper and Allied Products,major_group,D,D
+261,Pulp Mills,industry_group,26,D
+2611,Pulp mills,industry,261,D
+262,Paper Mills,industry_group,26,D
+2621,Paper mills,industry,262,D
+263,Paperboard Mills,industry_group,26,D
+2631,Paperboard mills,industry,263,D
+265,Paperboard Containers and Boxes,industry_group,26,D
+2652,Setup paperboard boxes,industry,265,D
+2653,Corrugated and solid fiber boxes,industry,265,D
+2655,"Fiber cans, drums & similar products",industry,265,D
+2656,Sanitary food containers,industry,265,D
+2657,Folding paperboard boxes,industry,265,D
+267,Misc. Converted Paper Products,industry_group,26,D
+2671,"Paper coated & laminated, packaging",industry,267,D
+2672,"Paper coated and laminated, nec",industry,267,D
+2673,"Bags: plastics, laminated, & coated",industry,267,D
+2674,Bags: uncoated paper & multiwall,industry,267,D
+2675,Die-cut paper and board,industry,267,D
+2676,Sanitary paper products,industry,267,D
+2677,Envelopes,industry,267,D
+2678,Stationery products,industry,267,D
+2679,"Converted paper products, nec",industry,267,D
+27,Printing and Publishing,major_group,D,D
+271,Newspapers,industry_group,27,D
+2711,Newspapers,industry,271,D
+272,Periodicals,industry_group,27,D
+2721,Periodicals,industry,272,D
+273,Books,industry_group,27,D
+2731,Book publishing,industry,273,D
+2732,Book printing,industry,273,D
+274,Miscellaneous Publishing,industry_group,27,D
+2741,Miscellaneous publishing,industry,274,D
+275,Commercial Printing,industry_group,27,D
+2752,"Commercial printing, lithographic",industry,275,D
+2754,"Commercial printing, gravure",industry,275,D
+2759,"Commercial printing, nec",industry,275,D
+276,Manifold Business Forms,industry_group,27,D
+2761,Manifold business forms,industry,276,D
+277,Greeting Cards,industry_group,27,D
+2771,Greeting cards,industry,277,D
+278,Blankbooks and Bookbinding,industry_group,27,D
+2782,Blankbooks and looseleaf binders,industry,278,D
+2789,Bookbinding and related work,industry,278,D
+279,Printing Trade Services,industry_group,27,D
+2791,Typesetting,industry,279,D
+2796,Platemaking services,industry,279,D
+28,Chemicals and Allied Products,major_group,D,D
+281,Industrial Inorganic Chemicals,industry_group,28,D
+2812,Alkalies and chlorine,industry,281,D
+2813,Industrial gases,industry,281,D
+2816,Inorganic pigments,industry,281,D
+2819,"Industrial inorganic chemicals, nec",industry,281,D
+282,Plastics Materials and Synthetics,industry_group,28,D
+2821,Plastics materials and resins,industry,282,D
+2822,Synthetic rubber,industry,282,D
+2823,Cellulosic manmade fibers,industry,282,D
+2824,"Organic fibers, noncellulosic",industry,282,D
+283,Drugs,industry_group,28,D
+2833,Medicinals and botanicals,industry,283,D
+2834,Pharmaceutical preparations,industry,283,D
+2835,Diagnostic substances,industry,283,D
+2836,Biological products exc. diagnostic,industry,283,D
+284,"Soap, Cleaners, and Toilet Goods",industry_group,28,D
+2841,Soap and other detergents,industry,284,D
+2842,Polishes and sanitation goods,industry,284,D
+2843,Surface active agents,industry,284,D
+2844,Toilet preparations,industry,284,D
+285,Paints and Allied Products,industry_group,28,D
+2851,Paints and allied products,industry,285,D
+286,Industrial Organic Chemicals,industry_group,28,D
+2861,Gum and wood chemicals,industry,286,D
+2865,Cyclic crudes and intermediates,industry,286,D
+2869,"Industrial organic chemicals, nec",industry,286,D
+287,Agricultural Chemicals,industry_group,28,D
+2873,Nitrogenous fertilizers,industry,287,D
+2874,Phosphatic fertilizers,industry,287,D
+2875,"Fertilizers, mixing only",industry,287,D
+2879,"Agricultural chemicals, nec",industry,287,D
+289,Miscellaneous Chemical Products,industry_group,28,D
+2891,Adhesives and sealants,industry,289,D
+2892,Explosives,industry,289,D
+2893,Printing ink,industry,289,D
+2895,Carbon black,industry,289,D
+2899,"Chemical preparations, nec",industry,289,D
+29,Petroleum and Coal Products,major_group,D,D
+291,Petroleum Refining,industry_group,29,D
+2911,Petroleum refining,industry,291,D
+295,Asphalt Paving and Roofing Materials,industry_group,29,D
+2951,Asphalt paving mixtures and blocks,industry,295,D
+2952,Asphalt felts and coatings,industry,295,D
+299,Misc. Petroleum and Coal Products,industry_group,29,D
+2992,Lubricating oils and greases,industry,299,D
+2999,"Petroleum and coal products, nec",industry,299,D
+30,Rubber and Misc. Plastics Products,major_group,D,D
+301,Tires and Inner Tubes,industry_group,30,D
+3011,Tires and inner tubes,industry,301,D
+302,Rubber and Plastics Footwear,industry_group,30,D
+3021,Rubber and plastics footwear,industry,302,D
+305,Hose & Belting & Gaskets & Packing,industry_group,30,D
+3052,Rubber & plastics hose & belting,industry,305,D
+3053,"Gaskets, packing and sealing devices",industry,305,D
+306,"Fabricated Rubber Products, NEC",industry_group,30,D
+3061,Mechanical rubber goods,industry,306,D
+3069,"Fabricated rubber products, nec",industry,306,D
+308,"Miscellaneous Plastics Products, NEC",industry_group,30,D
+3081,Unsupported plastics film & sheet,industry,308,D
+3082,Unsupported plastics profile shapes,industry,308,D
+3083,Laminated plastics plate & sheet,industry,308,D
+3084,Plastics pipe,industry,308,D
+3085,Plastics bottles,industry,308,D
+3086,Plastics foam products,industry,308,D
+3087,Custom compound purchased resins,industry,308,D
+3088,Plastics plumbing fixtures,industry,308,D
+3089,"Plastics products, nec",industry,308,D
+31,Leather and Leather Products,major_group,D,D
+311,Leather Tanning and Finishing,industry_group,31,D
+3111,Leather tanning and finishing,industry,311,D
+313,Footwear Cut Stock,industry_group,31,D
+3131,Footwear cut stock,industry,313,D
+314,"Footwear, Except Rubber",industry_group,31,D
+3142,House slippers,industry,314,D
+3143,"Men's footwear, except athletic",industry,314,D
+3144,"Women's footwear, except athletic",industry,314,D
+3149,"Footwear, except rubber, nec",industry,314,D
+315,Leather Gloves and Mittens,industry_group,31,D
+3151,Leather gloves and mittens,industry,315,D
+316,Luggage,industry_group,31,D
+3161,Luggage,industry,316,D
+317,Handbags and Personal Leather Goods,industry_group,31,D
+3171,Women's handbags and purses,industry,317,D
+3172,"Personal leather goods, nec",industry,317,D
+319,"Leather Goods, NEC",industry_group,31,D
+3199,"Leather goods, nec",industry,319,D
+32,"Stone, Clay, and Glass Products",major_group,D,D
+321,Flat Glass,industry_group,32,D
+3211,Flat glass,industry,321,D
+322,"Glass and Glassware, Pressed or Blown",industry_group,32,D
+3221,Glass containers,industry,322,D
+3229,"Pressed and blown glass, nec",industry,322,D
+323,Products of Purchased Glass,industry_group,32,D
+3231,Products of purchased glass,industry,323,D
+324,"Cement, Hydraulic",industry_group,32,D
+3241,"Cement, hydraulic",industry,324,D
+325,Structural Clay Products,industry_group,32,D
+3251,Brick and structural clay tile,industry,325,D
+3253,Ceramic wall and floor tile,industry,325,D
+3255,Clay refractories,industry,325,D
+3259,"Structural clay products, nec",industry,325,D
+326,Pottery and Related Products,industry_group,32,D
+3261,Vitreous plumbing fixtures,industry,326,D
+3262,Vitreous china table & kitchenware,industry,326,D
+3263,Semivitreous table & kitchenware,industry,326,D
+3264,Porcelain electrical supplies,industry,326,D
+3269,"Pottery products, nec",industry,326,D
+327,"Concrete, Gypsum, and Plaster Products",industry_group,32,D
+3271,Concrete block and brick,industry,327,D
+3272,"Concrete products, nec",industry,327,D
+3273,Ready-mixed concrete,industry,327,D
+3274,Lime,industry,327,D
+3275,Gypsum products,industry,327,D
+328,Cut Stone and Stone Products,industry_group,32,D
+3281,Cut stone and stone products,industry,328,D
+329,Misc. Nonmetallic Mineral Products,industry_group,32,D
+3291,Abrasive products,industry,329,D
+3292,Asbestos products,industry,329,D
+3295,"Minerals, ground or treated",industry,329,D
+3296,Mineral wool,industry,329,D
+3297,Nonclay refractories,industry,329,D
+3299,"Nonmetallic mineral products, nec",industry,329,D
+33,Primary Metal Industries,major_group,D,D
+331,Blast Furnace and Basic Steel Products,industry_group,33,D
+3312,Blast furnaces and steel mills,industry,331,D
+3313,Electrometallurgical products,industry,331,D
+3315,Steel wire and related products,industry,331,D
+3316,Cold finishing of steel shapes,industry,331,D
+3317,Steel pipe and tubes,industry,331,D
+332,Iron and Steel Foundries,industry_group,33,D
+3321,Gray and ductile iron foundries,industry,332,D
+3322,Malleable iron foundries,industry,332,D
+3324,Steel investment foundries,industry,332,D
+3325,"Steel foundries, nec",industry,332,D
+333,Primary Nonferrous Metals,industry_group,33,D
+3331,Primary copper,industry,333,D
+3334,Primary aluminum,industry,333,D
+3339,"Primary nonferrous metals, nec",industry,333,D
+334,Secondary Nonferrous Metals,industry_group,33,D
+3341,Secondary nonferrous metals,industry,334,D
+335,Nonferrous Rolling and Drawing,industry_group,33,D
+3351,Copper rolling and drawing,industry,335,D
+3353,"Aluminum sheet, plate, and foil",industry,335,D
+3354,Aluminum extruded products,industry,335,D
+3355,"Aluminum rolling and drawing, nec",industry,335,D
+3356,"Nonferrous rolling and drawing, nec",industry,335,D
+3357,Nonferrous wiredrawing & insulating,industry,335,D
+336,Nonferrous Foundries (Castings),industry_group,33,D
+3363,Aluminum die-castings,industry,336,D
+3364,Nonferrous die-casting exc. aluminum,industry,336,D
+3365,Aluminum foundries,industry,336,D
+3366,Copper foundries,industry,336,D
+3369,"Nonferrous foundries, nec",industry,336,D
+339,Miscellaneous Primary Metal Products,industry_group,33,D
+3398,Metal heat treating,industry,339,D
+3399,"Primary metal products, nec",industry,339,D
+34,Fabricated Metal Products,major_group,D,D
+341,Metal Cans and Shipping Containers,industry_group,34,D
+3411,Metal cans,industry,341,D
+3412,"Metal barrels, drums, and pails",industry,341,D
+342,"Cutlery, Handtools, and Hardware",industry_group,34,D
+3421,Cutlery,industry,342,D
+3423,"Hand and edge tools, nec",industry,342,D
+3425,Saw blades and handsaws,industry,342,D
+3429,"Hardware, nec",industry,342,D
+343,"Plumbing and Heating, Except Electric",industry_group,34,D
+3431,Metal sanitary ware,industry,343,D
+3432,Plumbing fixture fittings and trim,industry,343,D
+3433,"Heating equipment, except electric",industry,343,D
+344,Fabricated Structural Metal Products,industry_group,34,D
+3441,Fabricated structural metal,industry,344,D
+3442,"Metal doors, sash, and trim",industry,344,D
+3443,Fabricated plate work (boiler shops),industry,344,D
+3444,Sheet metalwork,industry,344,D
+3446,Architectural metal work,industry,344,D
+3448,Prefabricated metal buildings,industry,344,D
+3449,Miscellaneous metal work,industry,344,D
+345,"Screw Machine Products, Bolts, Etc.",industry_group,34,D
+3451,Screw machine products,industry,345,D
+3452,"Bolts, nuts, rivets, and washers",industry,345,D
+346,Metal Forgings and Stampings,industry_group,34,D
+3462,Iron and steel forgings,industry,346,D
+3463,Nonferrous forgings,industry,346,D
+3465,Automotive stampings,industry,346,D
+3466,Crowns and closures,industry,346,D
+3469,"Metal stampings, nec",industry,346,D
+347,"Metal Services, NEC",industry_group,34,D
+3471,Plating and polishing,industry,347,D
+3479,Metal coating and allied services,industry,347,D
+348,"Ordnance and Accessories, NEC",industry_group,34,D
+3482,Small arms ammunition,industry,348,D
+3483,"Ammunition, exc. for small arms, nec",industry,348,D
+3484,Small arms,industry,348,D
+3489,"Ordnance and accessories, nec",industry,348,D
+349,Misc. Fabricated Metal Products,industry_group,34,D
+3491,Industrial valves,industry,349,D
+3492,Fluid power valves & hose fittings,industry,349,D
+3493,"Steel springs, except wire",industry,349,D
+3494,"Valves and pipe fittings, nec",industry,349,D
+3495,Wire springs,industry,349,D
+3496,Misc. fabricated wire products,industry,349,D
+3497,Metal foil and leaf,industry,349,D
+3498,Fabricated pipe and fittings,industry,349,D
+3499,"Fabricated metal products, nec",industry,349,D
+35,Industrial Machinery and Equipment,major_group,D,D
+351,Engines and Turbines,industry_group,35,D
+3511,Turbines and turbine generator sets,industry,351,D
+3519,"Internal combustion engines, nec",industry,351,D
+352,Farm and Garden Machinery,industry_group,35,D
+3523,Farm machinery and equipment,industry,352,D
+3524,Lawn and garden equipment,industry,352,D
+353,Construction and Related Machinery,industry_group,35,D
+3531,Construction machinery,industry,353,D
+3532,Mining machinery,industry,353,D
+3533,Oil and gas field machinery,industry,353,D
+3534,Elevators and moving stairways,industry,353,D
+3535,Conveyors and conveying equipment,industry,353,D
+3536,"Hoists, cranes, and monorails",industry,353,D
+3537,Industrial trucks and tractors,industry,353,D
+354,Metalworking Machinery,industry_group,35,D
+3541,"Machine tools, metal cutting types",industry,354,D
+3542,"Machine tools, metal forming types",industry,354,D
+3543,Industrial patterns,industry,354,D
+3544,"Special dies, tools, jigs & fixtures",industry,354,D
+3545,Machine tool accessories,industry,354,D
+3546,Power-driven handtools,industry,354,D
+3547,Rolling mill machinery,industry,354,D
+3548,Welding apparatus,industry,354,D
+3549,"Metalworking machinery, nec",industry,354,D
+355,Special Industry Machinery,industry_group,35,D
+3552,Textile machinery,industry,355,D
+3553,Woodworking machinery,industry,355,D
+3554,Paper industries machinery,industry,355,D
+3555,Printing trades machinery,industry,355,D
+3556,Food products machinery,industry,355,D
+3559,"Special industry machinery, nec",industry,355,D
+356,General Industrial Machinery,industry_group,35,D
+3561,Pumps and pumping equipment,industry,356,D
+3562,Ball and roller bearings,industry,356,D
+3563,Air and gas compressors,industry,356,D
+3564,Blowers and fans,industry,356,D
+3565,Packaging machinery,industry,356,D
+3566,"Speed changers, drives, and gears",industry,356,D
+3567,Industrial furnaces and ovens,industry,356,D
+3568,"Power transmission equipment, nec",industry,356,D
+3569,"General industrial machinery, nec",industry,356,D
+357,Computer and Office Equipment,industry_group,35,D
+3571,Electronic computers,industry,357,D
+3572,Computer storage devices,industry,357,D
+3575,Computer terminals,industry,357,D
+3577,"Computer peripheral equipment, nec",industry,357,D
+3578,Calculating and accounting equipment,industry,357,D
+3579,"Office machines, nec",industry,357,D
+358,Refrigeration and Service Machinery,industry_group,35,D
+3581,Automatic vending machines,industry,358,D
+3582,Commercial laundry equipment,industry,358,D
+3585,Refrigeration and heating equipment,industry,358,D
+3586,Measuring and dispensing pumps,industry,358,D
+3589,"Service industry machinery, nec",industry,358,D
+359,"Industrial Machinery, NEC",industry_group,35,D
+3592,"Carburetors, pistons, rings, valves",industry,359,D
+3593,Fluid power cylinders & actuators,industry,359,D
+3594,Fluid power pumps and motors,industry,359,D
+3596,"Scales and balances, exc. laboratory",industry,359,D
+3599,"Industrial machinery, nec",industry,359,D
+36,Electronic & Other Electric Equipment,major_group,D,D
+361,Electric Distribution Equipment,industry_group,36,D
+3612,"Transformers, except electronic",industry,361,D
+3613,Switchgear and switchboard apparatus,industry,361,D
+362,Electrical Industrial Apparatus,industry_group,36,D
+3621,Motors and generators,industry,362,D
+3624,Carbon and graphite products,industry,362,D
+3625,Relays and industrial controls,industry,362,D
+3629,"Electrical industrial apparatus, nec",industry,362,D
+363,Household Appliances,industry_group,36,D
+3631,Household cooking equipment,industry,363,D
+3632,Household refrigerators and freezers,industry,363,D
+3633,Household laundry equipment,industry,363,D
+3634,Electric housewares and fans,industry,363,D
+3635,Household vacuum cleaners,industry,363,D
+3639,"Household appliances, nec",industry,363,D
+364,Electric Lighting and Wiring Equipment,industry_group,36,D
+3641,Electric lamps,industry,364,D
+3643,Current-carrying wiring devices,industry,364,D
+3644,Noncurrent-carrying wiring devices,industry,364,D
+3645,Residential lighting fixtures,industry,364,D
+3646,Commercial lighting fixtures,industry,364,D
+3647,Vehicular lighting equipment,industry,364,D
+3648,"Lighting equipment, nec",industry,364,D
+365,Household Audio and Video Equipment,industry_group,36,D
+3651,Household audio and video equipment,industry,365,D
+3652,Prerecorded records and tapes,industry,365,D
+366,Communications Equipment,industry_group,36,D
+3661,Telephone and telegraph apparatus,industry,366,D
+3663,Radio & TV communications equipment,industry,366,D
+3669,"Communications equipment, nec",industry,366,D
+367,Electronic Components and Accessories,industry_group,36,D
+3671,Electron tubes,industry,367,D
+3672,Printed circuit boards,industry,367,D
+3674,Semiconductors and related devices,industry,367,D
+3675,Electronic capacitors,industry,367,D
+3676,Electronic resistors,industry,367,D
+3677,Electronic coils and transformers,industry,367,D
+3678,Electronic connectors,industry,367,D
+3679,"Electronic components, nec",industry,367,D
+369,Misc. Electrical Equipment & Supplies,industry_group,36,D
+3691,Storage batteries,industry,369,D
+3692,"Primary batteries, dry and wet",industry,369,D
+3694,Engine electrical equipment,industry,369,D
+3695,Magnetic and optical recording media,industry,369,D
+3699,"Electrical equipment & supplies, nec",industry,369,D
+37,Transportation Equipment,major_group,D,D
+371,Motor Vehicles and Equipment,industry_group,37,D
+3711,Motor vehicles and car bodies,industry,371,D
+3713,Truck and bus bodies,industry,371,D
+3714,Motor vehicle parts and accessories,industry,371,D
+3715,Truck trailers,industry,371,D
+3716,Motor homes,industry,371,D
+372,Aircraft and Parts,industry_group,37,D
+3721,Aircraft,industry,372,D
+3724,Aircraft engines and engine parts,industry,372,D
+3728,"Aircraft parts and equipment, nec",industry,372,D
+373,Ship and Boat Building and Repairing,industry_group,37,D
+3731,Ship building and repairing,industry,373,D
+3732,Boat building and repairing,industry,373,D
+374,Railroad Equipment,industry_group,37,D
+3743,Railroad equipment,industry,374,D
+375,"Motorcycles, Bicycles, and Parts",industry_group,37,D
+3751,"Motorcycles, bicycles, and parts",industry,375,D
+376,"Guided Missiles, Space Vehicles, Parts",industry_group,37,D
+3761,Guided missiles and space vehicles,industry,376,D
+3764,Space propulsion units and parts,industry,376,D
+3769,"Space vehicle equipment, nec",industry,376,D
+379,Miscellaneous Transportation Equipment,industry_group,37,D
+3792,Travel trailers and campers,industry,379,D
+3795,Tanks and tank components,industry,379,D
+3799,"Transportation equipment, nec",industry,379,D
+38,Instruments and Related Products,major_group,D,D
+381,Search and Navigation Equipment,industry_group,38,D
+3812,Search and navigation equipment,industry,381,D
+382,Measuring and Controlling Devices,industry_group,38,D
+3821,Laboratory apparatus and furniture,industry,382,D
+3822,Environmental controls,industry,382,D
+3823,Process control instruments,industry,382,D
+3824,Fluid meters and counting devices,industry,382,D
+3825,Instruments to measure electricity,industry,382,D
+3826,Analytical instruments,industry,382,D
+3827,Optical instruments and lenses,industry,382,D
+3829,"Measuring & controlling devices, nec",industry,382,D
+384,Medical Instruments and Supplies,industry_group,38,D
+3841,Surgical and medical instruments,industry,384,D
+3842,Surgical appliances and supplies,industry,384,D
+3843,Dental equipment and supplies,industry,384,D
+3844,X-ray apparatus and tubes,industry,384,D
+3845,Electromedical equipment,industry,384,D
+385,Ophthalmic Goods,industry_group,38,D
+3851,Ophthalmic goods,industry,385,D
+386,Photographic Equipment and Supplies,industry_group,38,D
+3861,Photographic equipment and supplies,industry,386,D
+387,"Watches, Clocks, Watchcases & Parts",industry_group,38,D
+3873,"Watches, clocks, watchcases & parts",industry,387,D
+39,Miscellaneous Manufacturing Industries,major_group,D,D
+391,"Jewelry, Silverware, and Plated Ware",industry_group,39,D
+3911,"Jewelry, precious metal",industry,391,D
+3914,Silverware and plated ware,industry,391,D
+3915,Jewelers' materials & lapidary work,industry,391,D
+393,Musical Instruments,industry_group,39,D
+3931,Musical instruments,industry,393,D
+394,Toys and Sporting Goods,industry_group,39,D
+3942,Dolls and stuffed toys,industry,394,D
+3944,"Games, toys, and children's vehicles",industry,394,D
+3949,"Sporting and athletic goods, nec",industry,394,D
+395,"Pens, Pencils, Office, & Art Supplies",industry_group,39,D
+3951,Pens and mechanical pencils,industry,395,D
+3952,Lead pencils and art goods,industry,395,D
+3953,Marking devices,industry,395,D
+3955,Carbon paper and inked ribbons,industry,395,D
+396,Costume Jewelry and Notions,industry_group,39,D
+3961,Costume jewelry,industry,396,D
+3965,"Fasteners, buttons, needles, & pins",industry,396,D
+399,Miscellaneous Manufactures,industry_group,39,D
+3991,Brooms and brushes,industry,399,D
+3993,Signs and advertising specialities,industry,399,D
+3995,Burial caskets,industry,399,D
+3996,"Hard surface floor coverings, nec",industry,399,D
+3999,"Manufacturing industries, nec",industry,399,D
+40,Railroad Transportation,major_group,E,E
+401,Railroads,industry_group,40,E
+4011,"Railroads, line-haul operating",industry,401,E
+4013,Switching and terminal services,industry,401,E
+41,Local and Interurban Passenger Transit,major_group,E,E
+411,Local and Suburban Transportation,industry_group,41,E
+4111,Local and suburban transit,industry,411,E
+4119,"Local passenger transportation, nec",industry,411,E
+412,Taxicabs,industry_group,41,E
+4121,Taxicabs,industry,412,E
+413,Intercity and Rural Bus Transportation,industry_group,41,E
+4131,Intercity & rural bus transportation,industry,413,E
+414,Bus Charter Service,industry_group,41,E
+4141,Local bus charter service,industry,414,E
+4142,"Bus charter service, except local",industry,414,E
+415,School Buses,industry_group,41,E
+4151,School buses,industry,415,E
+417,Bus Terminal and Service Facilities,industry_group,41,E
+4173,Bus terminal and service facilities,industry,417,E
+42,Trucking and Warehousing,major_group,E,E
+421,"Trucking & Courier Services, ex. Air",industry_group,42,E
+4210,"Trucking & Courier Services, ex. Air",qcew_rollup,421,E
+4212,"Local trucking, without storage",industry,421,E
+4213,"Trucking, except local",industry,421,E
+4214,Local trucking with storage,industry,421,E
+4215,"Courier services, except by air",industry,421,E
+422,Public Warehousing and Storage,industry_group,42,E
+4221,Farm product warehousing and storage,industry,422,E
+4222,Refrigerated warehousing and storage,industry,422,E
+4225,General warehousing and storage,industry,422,E
+4226,"Special warehousing and storage, nec",industry,422,E
+423,Trucking Terminal Facilities,industry_group,42,E
+4231,Trucking terminal facilities,industry,423,E
+43,U.s. Postal Service,major_group,E,E
+431,U.S. Postal Service,industry_group,43,E
+4311,U.S. Postal Service,industry,431,E
+44,Water Transportation,major_group,E,E
+441,Deep Sea Foreign Trans. of Freight,industry_group,44,E
+4412,Deep sea foreign trans. of freight,industry,441,E
+442,Deep Sea Domestic Trans. of Freight,industry_group,44,E
+4424,Deep sea domestic trans. of freight,industry,442,E
+443,Freight Trans. on the Great Lakes,industry_group,44,E
+4432,Freight trans. on the Great Lakes,industry,443,E
+444,"Water Transportation of Freight, NEC",industry_group,44,E
+4449,"Water transportation of freight, nec",industry,444,E
+448,Water Transportation of Passengers,industry_group,44,E
+4481,"Deep sea passenger trans., ex. ferry",industry,448,E
+4482,Ferries,industry,448,E
+4489,"Water passenger transportation, nec",industry,448,E
+449,Water Transportation Services,industry_group,44,E
+4491,Marine cargo handling,industry,449,E
+4492,Towing and tugboat service,industry,449,E
+4493,Marinas,industry,449,E
+4499,"Water transportation services, nec",industry,449,E
+45,Transportation By Air,major_group,E,E
+451,"Air Transportation, Scheduled",industry_group,45,E
+4512,"Air transportation, scheduled",industry,451,E
+4513,Air courier services,industry,451,E
+452,"Air Transportation, Nonscheduled",industry_group,45,E
+4522,"Air transportation, nonscheduled",industry,452,E
+458,"Airports, Flying Fields, & Services",industry_group,45,E
+4581,"Airports, flying fields, & services",industry,458,E
+46,"Pipelines, Except Natural Gas",major_group,E,E
+461,"Pipelines, Except Natural Gas",industry_group,46,E
+4612,Crude petroleum pipelines,industry,461,E
+4613,Refined petroleum pipelines,industry,461,E
+4619,"Pipelines, nec",industry,461,E
+47,Transportation Services,major_group,E,E
+472,Passenger Transportation Arrangement,industry_group,47,E
+4724,Travel agencies,industry,472,E
+4725,Tour operators,industry,472,E
+4729,"Passenger transport arrangement, nec",industry,472,E
+473,Freight Transportation Arrangement,industry_group,47,E
+4731,Freight transportation arrangement,industry,473,E
+474,Rental of Railroad Cars,industry_group,47,E
+4741,Rental of railroad cars,industry,474,E
+478,Miscellaneous Transportation Services,industry_group,47,E
+4783,Packing and crating,industry,478,E
+4785,Inspection & fixed facilities,industry,478,E
+4789,"Transportation services, nec",industry,478,E
+48,Communication,major_group,E,E
+481,Telephone Communication,industry_group,48,E
+4812,Radiotelephone communications,industry,481,E
+4813,"Telephone communications, exc. radio",industry,481,E
+482,Telegraph & Other Communications,industry_group,48,E
+4822,Telegraph & other communications,industry,482,E
+483,Radio and Television Broadcasting,industry_group,48,E
+4832,Radio broadcasting stations,industry,483,E
+4833,Television broadcasting stations,industry,483,E
+484,Cable and Other Pay TV Services,industry_group,48,E
+4841,Cable and other pay TV services,industry,484,E
+489,"Communication Services, NEC",industry_group,48,E
+4899,"Communication services, nec",industry,489,E
+49,"Electric, Gas, and Sanitary Services",major_group,E,E
+491,Electric Services,industry_group,49,E
+4911,Electric services,industry,491,E
+492,Gas Production and Distribution,industry_group,49,E
+4922,Natural gas transmission,industry,492,E
+4923,Gas transmission and distribution,industry,492,E
+4924,Natural gas distribution,industry,492,E
+4925,Gas production and/or distribution,industry,492,E
+493,Combination Utility Services,industry_group,49,E
+4931,Electric and other services combined,industry,493,E
+4932,Gas and other services combined,industry,493,E
+4939,"Combination utilities, nec",industry,493,E
+494,Water Supply,industry_group,49,E
+4941,Water supply,industry,494,E
+495,Sanitary Services,industry_group,49,E
+4952,Sewerage systems,industry,495,E
+4953,Refuse systems,industry,495,E
+4959,"Sanitary services, nec",industry,495,E
+496,Steam and Air-Conditioning Supply,industry_group,49,E
+4961,Steam and air-conditioning supply,industry,496,E
+497,Irrigation Systems,industry_group,49,E
+4971,Irrigation systems,industry,497,E
+50,Wholesale Trade Durable Goods,major_group,F,F
+501,"Motor Vehicles, Parts, and Supplies",industry_group,50,F
+5012,Automobiles and other motor vehicles,industry,501,F
+5013,Motor vehicle supplies and new parts,industry,501,F
+5014,Tires and tubes,industry,501,F
+5015,"Motor vehicle parts, used",industry,501,F
+502,Furniture and Homefurnishings,industry_group,50,F
+5021,Furniture,industry,502,F
+5023,Homefurnishings,industry,502,F
+503,Lumber and Construction Materials,industry_group,50,F
+5031,"Lumber, plywood, and millwork",industry,503,F
+5032,"Brick, stone, & related materials",industry,503,F
+5033,"Roofing, siding, & insulation",industry,503,F
+5039,"Construction materials, nec",industry,503,F
+504,Professional & Commercial Equipment,industry_group,50,F
+5043,Photographic equipment and supplies,industry,504,F
+5044,Office equipment,industry,504,F
+5045,"Computers, peripherals & software",industry,504,F
+5046,"Commercial equipment, nec",industry,504,F
+5047,Medical and hospital equipment,industry,504,F
+5048,Ophthalmic goods,industry,504,F
+5049,"Professional equipment, nec",industry,504,F
+505,"Metals and Minerals, Except Petroleum",industry_group,50,F
+5051,Metals service centers and offices,industry,505,F
+5052,Coal and other minerals and ores,industry,505,F
+506,Electrical Goods,industry_group,50,F
+5063,Electrical apparatus and equipment,industry,506,F
+5064,"Electrical appliances, TV & radios",industry,506,F
+5065,Electronic parts and equipment,industry,506,F
+507,"Hardware, Plumbing & Heating Equipment",industry_group,50,F
+5072,Hardware,industry,507,F
+5074,Plumbing & hydronic heating supplies,industry,507,F
+5075,Warm air heating & air-conditioning,industry,507,F
+5078,Refrigeration equipment and supplies,industry,507,F
+508,"Machinery, Equipment, and Supplies",industry_group,50,F
+5082,Construction and mining machinery,industry,508,F
+5083,Farm and garden machinery,industry,508,F
+5084,Industrial machinery and equipment,industry,508,F
+5085,Industrial supplies,industry,508,F
+5087,Service establishment equipment,industry,508,F
+5088,Transportation equipment & supplies,industry,508,F
+509,Miscellaneous Durable Goods,industry_group,50,F
+5091,Sporting & recreational goods,industry,509,F
+5092,Toys and hobby goods and supplies,industry,509,F
+5093,Scrap and waste materials,industry,509,F
+5094,Jewelry & precious stones,industry,509,F
+5099,"Durable goods, nec",industry,509,F
+51,Wholesale Trade Nondurable Goods,major_group,F,F
+511,Paper and Paper Products,industry_group,51,F
+5111,Printing and writing paper,industry,511,F
+5112,Stationery and office supplies,industry,511,F
+5113,Industrial & personal service paper,industry,511,F
+512,"Drugs, Proprietaries, and Sundries",industry_group,51,F
+5122,"Drugs, proprietaries, and sundries",industry,512,F
+513,"Apparel, Piece Goods, and Notions",industry_group,51,F
+5131,Piece goods & notions,industry,513,F
+5136,Men's and boys' clothing,industry,513,F
+5137,Women's and children's clothing,industry,513,F
+5139,Footwear,industry,513,F
+514,Groceries and Related Products,industry_group,51,F
+5141,"Groceries, general line",industry,514,F
+5142,Packaged frozen foods,industry,514,F
+5143,"Dairy products, exc. dried or canned",industry,514,F
+5144,Poultry and poultry products,industry,514,F
+5145,Confectionery,industry,514,F
+5146,Fish and seafoods,industry,514,F
+5147,Meats and meat products,industry,514,F
+5148,Fresh fruits and vegetables,industry,514,F
+5149,"Groceries and related products, nec",industry,514,F
+515,Farm-Product Raw Materials,industry_group,51,F
+5153,Grain and field beans,industry,515,F
+5154,Livestock,industry,515,F
+5159,"Farm-product raw materials, nec",industry,515,F
+516,Chemicals and Allied Products,industry_group,51,F
+5162,Plastics materials & basic shapes,industry,516,F
+5169,"Chemicals & allied products, nec",industry,516,F
+517,Petroleum and Petroleum Products,industry_group,51,F
+5171,Petroleum bulk stations & terminals,industry,517,F
+5172,"Petroleum products, nec",industry,517,F
+518,"Beer, Wine, and Distilled Beverages",industry_group,51,F
+5181,Beer and ale,industry,518,F
+5182,Wine and distilled beverages,industry,518,F
+519,Misc. Nondurable Goods,industry_group,51,F
+5191,Farm supplies,industry,519,F
+5192,"Books, periodicals, & newspapers",industry,519,F
+5193,Flowers & florists' supplies,industry,519,F
+5194,Tobacco and tobacco products,industry,519,F
+5198,"Paints, varnishes, and supplies",industry,519,F
+5199,"Nondurable goods, nec",industry,519,F
+52,Building Materials & Garden Supplies,major_group,G,G
+521,Lumber and Other Building Materials,industry_group,52,G
+5211,Lumber and other building materials,industry,521,G
+523,"Paint, Glass, and Wallpaper Stores",industry_group,52,G
+5231,"Paint, glass, and wallpaper stores",industry,523,G
+525,Hardware Stores,industry_group,52,G
+5251,Hardware stores,industry,525,G
+526,Retail Nurseries and Garden Stores,industry_group,52,G
+5261,Retail nurseries and garden stores,industry,526,G
+527,Mobile Home Dealers,industry_group,52,G
+5271,Mobile home dealers,industry,527,G
+53,General Merchandise Stores,major_group,G,G
+531,Department Stores,industry_group,53,G
+5311,Department stores,industry,531,G
+533,Variety Stores,industry_group,53,G
+5331,Variety stores,industry,533,G
+539,Misc. General Merchandise Stores,industry_group,53,G
+5399,Misc. general merchandise stores,industry,539,G
+54,Food Stores,major_group,G,G
+541,Grocery Stores,industry_group,54,G
+5411,Grocery stores,industry,541,G
+542,Meat and Fish Markets,industry_group,54,G
+5421,Meat and fish markets,industry,542,G
+543,Fruit and Vegetable Markets,industry_group,54,G
+5431,Fruit and vegetable markets,industry,543,G
+544,"Candy, Nut, and Confectionery Stores",industry_group,54,G
+5441,"Candy, nut, and confectionery stores",industry,544,G
+545,Dairy Products Stores,industry_group,54,G
+5451,Dairy products stores,industry,545,G
+546,Retail Bakeries,industry_group,54,G
+5461,Retail bakeries,industry,546,G
+549,Miscellaneous Food Stores,industry_group,54,G
+5499,Miscellaneous food stores,industry,549,G
+55,Automotive Dealers & Service Stations,major_group,G,G
+551,New and Used Car Dealers,industry_group,55,G
+5511,New and used car dealers,industry,551,G
+552,Used Car Dealers,industry_group,55,G
+5521,Used car dealers,industry,552,G
+553,Auto and Home Supply Stores,industry_group,55,G
+5531,Auto and home supply stores,industry,553,G
+554,Gasoline Service Stations,industry_group,55,G
+5541,Gasoline service stations,industry,554,G
+555,Boat Dealers,industry_group,55,G
+5551,Boat dealers,industry,555,G
+556,Recreational Vehicle Dealers,industry_group,55,G
+5561,Recreational vehicle dealers,industry,556,G
+557,Motorcycle Dealers,industry_group,55,G
+5571,Motorcycle dealers,industry,557,G
+559,"Automotive Dealers, NEC",industry_group,55,G
+5599,"Automotive dealers, nec",industry,559,G
+56,Apparel and Accessory Stores,major_group,G,G
+561,Men's & Boys' Clothing Stores,industry_group,56,G
+5611,Men's & Boys' clothing stores,industry,561,G
+562,Women's Clothing Stores,industry_group,56,G
+5621,Women's clothing stores,industry,562,G
+563,Women's Accessory & Specialty Stores,industry_group,56,G
+5632,Women's accessory & specialty stores,industry,563,G
+564,Children's and Infants' Wear Stores,industry_group,56,G
+5641,Children's and infants' wear stores,industry,564,G
+565,Family Clothing Stores,industry_group,56,G
+5651,Family clothing stores,industry,565,G
+566,Shoe Stores,industry_group,56,G
+5661,Shoe stores,industry,566,G
+569,Misc. Apparel & Accessory Stores,industry_group,56,G
+5699,Misc. apparel & accessory stores,industry,569,G
+57,Furniture and Homefurnishings Stores,major_group,G,G
+571,Furniture and Homefurnishings Stores,industry_group,57,G
+5712,Furniture stores,industry,571,G
+5713,Floor covering stores,industry,571,G
+5714,Drapery and upholstery stores,industry,571,G
+5719,Misc. homefurnishings stores,industry,571,G
+572,Household Appliance Stores,industry_group,57,G
+5722,Household appliance stores,industry,572,G
+573,"Radio, Television, & Computer Stores",industry_group,57,G
+5731,"Radio, TV, & electronic stores",industry,573,G
+5734,Computer and software stores,industry,573,G
+5735,Record & prerecorded tape stores,industry,573,G
+5736,Musical instrument stores,industry,573,G
+58,Eating and Drinking Places,major_group,G,G
+581,Eating and Drinking Places,industry_group,58,G
+5810,Eating and Drinking Places,qcew_rollup,581,G
+5812,Eating places,industry,581,G
+5813,Drinking places,industry,581,G
+59,Miscellaneous Retail,major_group,G,G
+591,Drug Stores and Proprietary Stores,industry_group,59,G
+5912,Drug stores and proprietary stores,industry,591,G
+592,Liquor Stores,industry_group,59,G
+5921,Liquor stores,industry,592,G
+593,Used Merchandise Stores,industry_group,59,G
+5932,Used merchandise stores,industry,593,G
+594,Miscellaneous Shopping Goods Stores,industry_group,59,G
+5941,Sporting goods and bicycle shops,industry,594,G
+5942,Book stores,industry,594,G
+5943,Stationery stores,industry,594,G
+5944,Jewelry stores,industry,594,G
+5945,"Hobby, toy, and game shops",industry,594,G
+5946,Camera & photographic supply stores,industry,594,G
+5947,"Gift, novelty, and souvenir shops",industry,594,G
+5948,Luggage and leather goods stores,industry,594,G
+5949,"Sewing, needlework, and piece goods",industry,594,G
+596,Nonstore Retailers,industry_group,59,G
+5961,Catalog and mail-order houses,industry,596,G
+5962,Merchandising machine operators,industry,596,G
+5963,Direct selling establishments,industry,596,G
+598,Fuel Dealers,industry_group,59,G
+5983,Fuel oil dealers,industry,598,G
+5984,Liquefied petroleum gas dealers,industry,598,G
+5989,"Fuel dealers, nec",industry,598,G
+599,"Retail Stores, NEC",industry_group,59,G
+5992,Florists,industry,599,G
+5993,Tobacco stores and stands,industry,599,G
+5994,News dealers and newsstands,industry,599,G
+5995,Optical goods stores,industry,599,G
+5999,"Miscellaneous retail stores, nec",industry,599,G
+60,Depository Institutions,major_group,H,H
+601,Central Reserve Depository,industry_group,60,H
+6011,Federal reserve banks,industry,601,H
+6019,"Central reserve depository, nec",industry,601,H
+602,Commercial Banks,industry_group,60,H
+6021,National commercial banks,industry,602,H
+6022,State commercial banks,industry,602,H
+6029,"Commercial banks, nec",industry,602,H
+603,Savings Institutions,industry_group,60,H
+6035,Federal savings institutions,industry,603,H
+6036,"Savings institutions, except federal",industry,603,H
+606,Credit Unions,industry_group,60,H
+6061,Federal credit unions,industry,606,H
+6062,State credit unions,industry,606,H
+608,Foreign Bank & Branches & Agencies,industry_group,60,H
+6081,Foreign bank & branches & agencies,industry,608,H
+6082,Foreign trade & international banks,industry,608,H
+609,Functions Closely Related to Banking,industry_group,60,H
+6091,Nondeposit trust facilities,industry,609,H
+6099,Functions related to deposit banking,industry,609,H
+61,Nondepository Institutions,major_group,H,H
+611,Federal & Fed.-Sponsored Credit,industry_group,61,H
+6111,Federal & fed.-sponsored credit,industry,611,H
+614,Personal Credit Institutions,industry_group,61,H
+6141,Personal credit institutions,industry,614,H
+615,Business Credit Institutions,industry_group,61,H
+6153,Short-term business credit,industry,615,H
+6159,Misc. business credit institutions,industry,615,H
+616,Mortgage Bankers and Brokers,industry_group,61,H
+6162,Mortgage bankers and correspondents,industry,616,H
+6163,Loan brokers,industry,616,H
+62,Security and Commodity Brokers,major_group,H,H
+621,Security Brokers and Dealers,industry_group,62,H
+6211,Security brokers and dealers,industry,621,H
+622,"Commodity Contracts Brokers, Dealers",industry_group,62,H
+6221,"Commodity contracts brokers, dealers",industry,622,H
+623,Security and Commodity Exchanges,industry_group,62,H
+6231,Security and commodity exchanges,industry,623,H
+628,Security and Commodity Services,industry_group,62,H
+6282,Investment advice,industry,628,H
+6289,"Security & commodity services, nec",industry,628,H
+63,Insurance Carriers,major_group,H,H
+631,Life Insurance,industry_group,63,H
+6311,Life insurance,industry,631,H
+632,Medical Service and Health Insurance,industry_group,63,H
+6321,Accident and health insurance,industry,632,H
+6324,Hospital and medical service plans,industry,632,H
+633,"Fire, Marine, and Casualty Insurance",industry_group,63,H
+6331,"Fire, marine, and casualty insurance",industry,633,H
+635,Surety Insurance,industry_group,63,H
+6351,Surety insurance,industry,635,H
+636,Title Insurance,industry_group,63,H
+6361,Title insurance,industry,636,H
+637,"Pension, Health, and Welfare Funds",industry_group,63,H
+6371,"Pension, health, and welfare funds",industry,637,H
+639,"Insurance Carriers, NEC",industry_group,63,H
+6399,"Insurance carriers, nec",industry,639,H
+64,"Insurance Agents, Brokers, & Service",major_group,H,H
+641,"Insurance Agents, Brokers, & Service",industry_group,64,H
+6411,"Insurance agents, brokers, & service",industry,641,H
+65,Real Estate,major_group,H,H
+651,Real Estate Operators and Lessors,industry_group,65,H
+6510,Real Estate Operators and Lessors,qcew_rollup,651,H
+6512,Nonresidential building operators,industry,651,H
+6513,Apartment building operators,industry,651,H
+6514,"Dwelling operators, exc. apartments",industry,651,H
+6515,Mobile home site operators,industry,651,H
+6517,Railroad property lessors,industry,651,H
+6519,"Real property lessors, nec",industry,651,H
+653,Real Estate Agents and Managers,industry_group,65,H
+6531,Real estate agents and managers,industry,653,H
+654,Title Abstract Offices,industry_group,65,H
+6541,Title abstract offices,industry,654,H
+655,Subdividers and Developers,industry_group,65,H
+6552,"Subdividers and developers, nec",industry,655,H
+6553,Cemetery subdividers and developers,industry,655,H
+67,Holding and Other Investment Offices,major_group,H,H
+671,Holding Offices,industry_group,67,H
+6712,Bank holding companies,industry,671,H
+6719,"Holding companies, nec",industry,671,H
+672,Investment Offices,industry_group,67,H
+6722,"Management investment, open-end",industry,672,H
+6726,"Investment offices, nec",industry,672,H
+673,Trusts,industry_group,67,H
+6732,"Educational, religious, etc. trusts",industry,673,H
+6733,"Trusts, nec",industry,673,H
+679,Miscellaneous Investing,industry_group,67,H
+6792,Oil royalty traders,industry,679,H
+6794,Patent owners and lessors,industry,679,H
+6798,Real estate investment trusts,industry,679,H
+6799,"Investors, nec",industry,679,H
+70,Hotels and Other Lodging Places,major_group,I,I
+701,Hotels and Motels,industry_group,70,I
+7011,Hotels and motels,industry,701,I
+702,Rooming and Boarding Houses,industry_group,70,I
+7021,Rooming and boarding houses,industry,702,I
+703,Camps and Recreational Vehicle Parks,industry_group,70,I
+7032,Sporting and recreational camps,industry,703,I
+7033,Trailer parks and campsites,industry,703,I
+704,Membership-Basis Organization Hotels,industry_group,70,I
+7041,Membership-basis organization hotels,industry,704,I
+72,Personal Services,major_group,I,I
+721,"Laundry, Cleaning, & Garment Services",industry_group,72,I
+7210,"Laundry, Cleaning, & Garment Services",qcew_rollup,721,I
+7211,"Power laundries, family & commercial",industry,721,I
+7212,Garment pressing & cleaners' agents,industry,721,I
+7213,Linen supply,industry,721,I
+7215,Coin-operated laundries and cleaning,industry,721,I
+7216,"Drycleaning plants, except rug",industry,721,I
+7217,Carpet and upholstery cleaning,industry,721,I
+7218,Industrial launderers,industry,721,I
+7219,"Laundry and garment services, nec",industry,721,I
+722,"Photographic Studios, Portrait",industry_group,72,I
+7221,"Photographic studios, portrait",industry,722,I
+723,Beauty Shops,industry_group,72,I
+7231,Beauty shops,industry,723,I
+724,Barber Shops,industry_group,72,I
+7241,Barber shops,industry,724,I
+725,Shoe Repair and Shoeshine Parlors,industry_group,72,I
+7251,Shoe repair and shoeshine parlors,industry,725,I
+726,Funeral Service and Crematories,industry_group,72,I
+7261,Funeral service and crematories,industry,726,I
+729,Miscellaneous Personal Services,industry_group,72,I
+7291,Tax return preparation services,industry,729,I
+7299,"Miscellaneous personal services, nec",industry,729,I
+73,Business Services,major_group,I,I
+731,Advertising,industry_group,73,I
+7311,Advertising agencies,industry,731,I
+7312,Outdoor advertising services,industry,731,I
+7313,"Radio, TV, publisher representatives",industry,731,I
+7319,"Advertising, nec",industry,731,I
+732,Credit Reporting and Collection,industry_group,73,I
+7322,Adjustment & collection services,industry,732,I
+7323,Credit reporting services,industry,732,I
+733,"Mailing, Reproduction, Stenographic",industry_group,73,I
+7331,Direct mail advertising services,industry,733,I
+7334,Photocopying & duplicating services,industry,733,I
+7335,Commercial photography,industry,733,I
+7336,Commercial art and graphic design,industry,733,I
+7338,Secretarial & court reporting,industry,733,I
+734,Services to Buildings,industry_group,73,I
+7342,Disinfecting & pest control services,industry,734,I
+7349,"Building maintenance services, nec",industry,734,I
+735,Misc. Equipment Rental & Leasing,industry_group,73,I
+7352,Medical equipment rental,industry,735,I
+7353,Heavy construction equipment rental,industry,735,I
+7359,"Equipment rental & leasing, nec",industry,735,I
+736,Personnel Supply Services,industry_group,73,I
+7361,Employment agencies,industry,736,I
+7363,Help supply services,industry,736,I
+737,Computer and Data Processing Services,industry_group,73,I
+7371,Computer programming services,industry,737,I
+7372,Prepackaged software,industry,737,I
+7373,Computer integrated systems design,industry,737,I
+7374,Data processing and preparation,industry,737,I
+7375,Information retrieval services,industry,737,I
+7376,Computer facilities management,industry,737,I
+7377,Computer rental & leasing,industry,737,I
+7378,Computer maintenance & repair,industry,737,I
+7379,"Computer related services, nec",industry,737,I
+738,Miscellaneous Business Services,industry_group,73,I
+7381,Detective & armored car services,industry,738,I
+7382,Security systems services,industry,738,I
+7383,News syndicates,industry,738,I
+7384,Photofinishing laboratories,industry,738,I
+7389,"Business services, nec",industry,738,I
+75,"Auto Repair, Services, and Parking",major_group,I,I
+751,"Automotive Rentals, No Drivers",industry_group,75,I
+7513,"Truck rental and leasing, no drivers",industry,751,I
+7514,Passenger car rental,industry,751,I
+7515,Passenger car leasing,industry,751,I
+7519,Utility trailer rental,industry,751,I
+752,Automobile Parking,industry_group,75,I
+7521,Automobile parking,industry,752,I
+753,Automotive Repair Shops,industry_group,75,I
+7532,Top & body repair & paint shops,industry,753,I
+7533,Auto exhaust system repair shops,industry,753,I
+7534,Tire retreading and repair shops,industry,753,I
+7536,Automotive glass replacement shops,industry,753,I
+7537,Automotive transmission repair shops,industry,753,I
+7538,General automotive repair shops,industry,753,I
+7539,"Automotive repair shops, nec",industry,753,I
+754,"Automotive Services, Except Repair",industry_group,75,I
+7542,Carwashes,industry,754,I
+7549,"Automotive services, nec",industry,754,I
+76,Miscellaneous Repair Services,major_group,I,I
+762,Electrical Repair Shops,industry_group,76,I
+7622,Radio and television repair,industry,762,I
+7623,Refrigeration service and repair,industry,762,I
+7629,"Electrical repair shops, nec",industry,762,I
+763,"Watch, Clock, and Jewelry Repair",industry_group,76,I
+7631,"Watch, clock, and jewelry repair",industry,763,I
+764,Reupholstery and Furniture Repair,industry_group,76,I
+7641,Reupholstery and furniture repair,industry,764,I
+769,Miscellaneous Repair Shops,industry_group,76,I
+7692,Welding repair,industry,769,I
+7694,Armature rewinding shops,industry,769,I
+7699,"Repair services, nec",industry,769,I
+78,Motion Pictures,major_group,I,I
+781,Motion Picture Production & Services,industry_group,78,I
+7812,Motion picture & video production,industry,781,I
+7819,Services allied to motion pictures,industry,781,I
+782,Motion Picture Distribution & Services,industry_group,78,I
+7822,Motion picture and tape distribution,industry,782,I
+7829,Motion picture distribution services,industry,782,I
+783,Motion Picture Theaters,industry_group,78,I
+7832,"Motion picture theaters, ex drive-in",industry,783,I
+7833,Drive-in motion picture theaters,industry,783,I
+784,Video Tape Rental,industry_group,78,I
+7841,Video tape rental,industry,784,I
+79,Amusement & Recreation Services,major_group,I,I
+791,"Dance Studios, Schools, and Halls",industry_group,79,I
+7911,"Dance studios, schools, and halls",industry,791,I
+792,"Producers, Orchestras, Entertainers",industry_group,79,I
+7922,Theatrical producers and services,industry,792,I
+7929,Entertainers & entertainment groups,industry,792,I
+793,Bowling Centers,industry_group,79,I
+7933,Bowling centers,industry,793,I
+794,Commercial Sports,industry_group,79,I
+7941,"Sports clubs, managers, & promoters",industry,794,I
+7948,"Racing, including track operation",industry,794,I
+799,"Misc. Amusement, Recreation Services",industry_group,79,I
+7991,Physical fitness facilities,industry,799,I
+7992,Public golf courses,industry,799,I
+7993,Coin-operated amusement devices,industry,799,I
+7996,Amusement parks,industry,799,I
+7997,Membership sports & recreation clubs,industry,799,I
+7999,"Amusement and recreation, nec",industry,799,I
+80,Health Services,major_group,I,I
+801,Offices & Clinics of Medical Doctors,industry_group,80,I
+8011,Offices & clinics of medical doctors,industry,801,I
+802,Offices and Clinics of Dentists,industry_group,80,I
+8021,Offices and clinics of dentists,industry,802,I
+803,Offices of Osteopathic Physicians,industry_group,80,I
+8031,Offices of osteopathic physicians,industry,803,I
+804,Offices of Other Health Practitioners,industry_group,80,I
+8041,Offices and clinics of chiropractors,industry,804,I
+8042,Offices and clinics of optometrists,industry,804,I
+8043,Offices and clinics of podiatrists,industry,804,I
+8049,"Offices of health practitioners, nec",industry,804,I
+805,Nursing and Personal Care Facilities,industry_group,80,I
+8051,Skilled nursing care facilities,industry,805,I
+8052,Intermediate care facilities,industry,805,I
+8059,"Nursing and personal care, nec",industry,805,I
+806,Hospitals,industry_group,80,I
+8062,General medical & surgical hospitals,industry,806,I
+8063,Psychiatric hospitals,industry,806,I
+8069,Specialty hospitals exc. psychiatric,industry,806,I
+807,Medical and Dental Laboratories,industry_group,80,I
+8071,Medical laboratories,industry,807,I
+8072,Dental laboratories,industry,807,I
+808,Home Health Care Services,industry_group,80,I
+8082,Home health care services,industry,808,I
+809,"Health and Allied Services, NEC",industry_group,80,I
+8092,Kidney dialysis centers,industry,809,I
+8093,"Specialty outpatient clinics, nec",industry,809,I
+8099,"Health and allied services, nec",industry,809,I
+81,Legal Services,major_group,I,I
+811,Legal Services,industry_group,81,I
+8111,Legal services,industry,811,I
+82,Educational Services,major_group,I,I
+821,Elementary and Secondary Schools,industry_group,82,I
+8211,Elementary and secondary schools,industry,821,I
+822,Colleges and Universities,industry_group,82,I
+8221,Colleges and universities,industry,822,I
+8222,Junior colleges,industry,822,I
+823,Libraries,industry_group,82,I
+8231,Libraries,industry,823,I
+824,Vocational Schools,industry_group,82,I
+8243,Data processing schools,industry,824,I
+8244,Business and secretarial schools,industry,824,I
+8249,"Vocational schools, nec",industry,824,I
+829,"Schools & Educational Services, NEC",industry_group,82,I
+8299,"Schools & educational services, nec",industry,829,I
+83,Social Services,major_group,I,I
+832,Individual and Family Services,industry_group,83,I
+8322,Individual and family services,industry,832,I
+833,Job Training and Related Services,industry_group,83,I
+8331,Job training and related services,industry,833,I
+835,Child Day Care Services,industry_group,83,I
+8351,Child day care services,industry,835,I
+836,Residential Care,industry_group,83,I
+8361,Residential care,industry,836,I
+839,"Social Services, NEC",industry_group,83,I
+8399,"Social services, nec",industry,839,I
+84,"Museums, Botanical, Zoological Gardens",major_group,I,I
+841,Museums and Art Galleries,industry_group,84,I
+8412,Museums and art galleries,industry,841,I
+842,Botanical and Zoological Gardens,industry_group,84,I
+8422,Botanical and zoological gardens,industry,842,I
+86,Membership Organizations,major_group,I,I
+861,Business Associations,industry_group,86,I
+8611,Business associations,industry,861,I
+862,Professional Organizations,industry_group,86,I
+8621,Professional organizations,industry,862,I
+863,Labor Organizations,industry_group,86,I
+8631,Labor organizations,industry,863,I
+864,Civic and Social Associations,industry_group,86,I
+8641,Civic and social associations,industry,864,I
+865,Political Organizations,industry_group,86,I
+8651,Political organizations,industry,865,I
+866,Religious Organizations,industry_group,86,I
+8661,Religious organizations,industry,866,I
+869,"Membership Organizations, NEC",industry_group,86,I
+8699,"Membership organizations, nec",industry,869,I
+87,Engineering & Management Services,major_group,I,I
+871,Engineering & Architectural Services,industry_group,87,I
+8711,Engineering services,industry,871,I
+8712,Architectural services,industry,871,I
+8713,Surveying services,industry,871,I
+872,"Accounting, Auditing, & Bookkeeping",industry_group,87,I
+8721,"Accounting, auditing, & bookkeeping",industry,872,I
+873,Research and Testing Services,industry_group,87,I
+8731,Commercial physical research,industry,873,I
+8732,Commercial nonphysical research,industry,873,I
+8733,Noncommercial research organizations,industry,873,I
+8734,Testing laboratories,industry,873,I
+874,Management and Public Relations,industry_group,87,I
+8741,Management services,industry,874,I
+8742,Management consulting services,industry,874,I
+8743,Public relations services,industry,874,I
+8744,Facilities support services,industry,874,I
+8748,"Business consulting, nec",industry,874,I
+88,Private Households,major_group,I,I
+881,Private Households,industry_group,88,I
+8811,Private households,industry,881,I
+89,"Services, not elsewhere classified",major_group,I,I
+899,"Services, NEC",industry_group,89,I
+8999,"Services, nec",industry,899,I
+91,"Executive, Legislative, and General",major_group,J,J
+911,Executive Offices,industry_group,91,J
+9111,Executive offices,industry,911,J
+912,Legislative Bodies,industry_group,91,J
+9121,Legislative bodies,industry,912,J
+913,Executive and Legislative Combined,industry_group,91,J
+9131,Executive and legislative combined,industry,913,J
+919,"General Government, NEC",industry_group,91,J
+9199,"General government, nec",industry,919,J
+92,"Justice, Public Order, and Safety",major_group,J,J
+921,Courts,industry_group,92,J
+9211,Courts,industry,921,J
+922,Public Order and Safety,industry_group,92,J
+9221,Police protection,industry,922,J
+9222,Legal counsel and prosecution,industry,922,J
+9223,Correctional institutions,industry,922,J
+9224,Fire protection,industry,922,J
+9229,"Public order and safety, nec",industry,922,J
+93,"Finance, Taxation, & Monetary Policy",major_group,J,J
+931,"Finance, Taxation, & Monetary Policy",industry_group,93,J
+9311,"Finance, taxation, & monetary policy",industry,931,J
+94,Administration of Human Resources,major_group,J,J
+941,Admin. of Educational Programs,industry_group,94,J
+9411,Admin. of educational programs,industry,941,J
+943,Admin. of Public Health Programs,industry_group,94,J
+9431,Admin. of public health programs,industry,943,J
+944,Admin. of Social & Manpower Programs,industry_group,94,J
+9441,Admin. of social & manpower programs,industry,944,J
+945,Administration of Veterans' Affairs,industry_group,94,J
+9451,Administration of veterans' affairs,industry,945,J
+95,Environmental Quality and Housing,major_group,J,J
+951,Environmental Quality,industry_group,95,J
+9511,"Air, water, & solid waste management",industry,951,J
+9512,"Land, mineral, wildlife conservation",industry,951,J
+953,Housing and Urban Development,industry_group,95,J
+9531,Housing programs,industry,953,J
+9532,Urban and community development,industry,953,J
+96,Administration of Economic Programs,major_group,J,J
+961,Admin. of General Economic Programs,industry_group,96,J
+9611,Admin. of general economic programs,industry,961,J
+962,"Regulation, Admin. of Transportation",industry_group,96,J
+9621,"Regulation, admin. of transportation",industry,962,J
+963,"Regulation, Admin. of Utilities",industry_group,96,J
+9631,"Regulation, admin. of utilities",industry,963,J
+964,Regulation of Agricultural Marketing,industry_group,96,J
+9641,Regulation of agricultural marketing,industry,964,J
+965,Regulation Misc. Commercial Sectors,industry_group,96,J
+9651,Regulation misc. commercial sectors,industry,965,J
+966,Space Research and Technology,industry_group,96,J
+9661,Space research and technology,industry,966,J
+97,National Security and Intl. Affairs,major_group,J,J
+971,National Security,industry_group,97,J
+9711,National security,industry,971,J
+972,International Affairs,industry_group,97,J
+9721,International affairs,industry,972,J
+99,Nonclassifiable Establishments,major_group,K,K
+999,Nonclassifiable Establishments,industry_group,99,K
+9999,Nonclassifiable establishments,industry,999,K

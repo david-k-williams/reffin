@@ -1,0 +1,73 @@
+code,name,category,status,valid_from,valid_to,source
+R01,Insufficient Funds,funds,current,,,nacha_basic_2025|nacha_iso20022_2023
+R02,Account Closed,account,current,,,nacha_basic_2025|nacha_iso20022_2023
+R03,No Account or Unable to Locate Account,account,current,,,nacha_basic_2025|nacha_iso20022_2023
+R04,Invalid Account Number Structure,account,current,,,nacha_basic_2025|nacha_iso20022_2023
+R05,Unauthorized Corporate-Code Debit to Consumer Account,authorization,current,,,nacha_basic_2025|nacha_iso20022_2023
+R06,Returned at ODFI Request,request,current,,,nacha_basic_2025|nacha_iso20022_2023
+R07,Authorization Revoked by Customer,authorization,current,,,nacha_basic_2025|nacha_iso20022_2023
+R08,Payment Stopped,authorization,current,,,nacha_basic_2025|nacha_iso20022_2023
+R09,Uncollected Funds,funds,current,,,nacha_basic_2025|nacha_iso20022_2023
+R10,Originator Unknown or Not Authorized to Debit,authorization,current,,,nacha_basic_2025|nacha_iso20022_2023
+R11,Entry Not in Accordance with Authorization,authorization,current,2020-04-01,,nacha_basic_2025|nacha_iso20022_2023|nacha_r11_2020
+R12,Account Sold to Another DFI,account,current,,,nacha_basic_2025|nacha_iso20022_2023
+R13,Invalid ACH Routing Number,administrative,current,,,nacha_basic_2025|nacha_iso20022_2023
+R14,Representative Payee Deceased or Unable to Continue,death_or_legal,current,,,nacha_basic_2025|nacha_iso20022_2023
+R15,Beneficiary or Account Holder Deceased,death_or_legal,current,,,nacha_basic_2025|nacha_iso20022_2023
+R16,Account Frozen or Return per OFAC Instruction,legal_or_compliance,current,,2028-03-16,nacha_basic_2025|nacha_iso20022_2023|nacha_rule_r90
+R16,Account Frozen,legal_or_compliance,planned,2028-03-17,,nacha_rule_r90
+R17,File Edit Error Questionable Entry or Improper Reversal,administrative,current,,,nacha_basic_2025|nacha_minor_topics_2026|nacha_questionable_2019|nacha_reversals_2021
+R18,Improper Effective Entry Date,administrative,current,,,nacha_basic_2025|nacha_iso20022_2023
+R19,Amount Field Error,format,current,,,nacha_basic_2025|nacha_iso20022_2023
+R20,Non-Transaction Account,account,current,,,nacha_basic_2025|nacha_iso20022_2023
+R21,Invalid Company Identification,administrative,current,,,nacha_basic_2025|nacha_iso20022_2023
+R22,Invalid Individual ID Number,administrative,current,,,nacha_basic_2025|nacha_iso20022_2023|fedglobal_manual_2026
+R23,Credit Entry Refused by Receiver,receiver_refusal,current,,,nacha_basic_2025|nacha_iso20022_2023
+R24,Duplicate Entry,administrative,current,,,nacha_basic_2025|nacha_iso20022_2023
+R25,Addenda Error,format,current,,,nacha_basic_2025|nacha_iso20022_2023
+R26,Mandatory Field Error,format,current,,,nacha_basic_2025|nacha_iso20022_2023
+R27,Trace Number Error,format,current,,,nacha_basic_2025|nacha_iso20022_2023
+R28,Routing Number Check Digit Error,format,current,,,nacha_basic_2025|nacha_iso20022_2023
+R29,Corporate Customer Advises Not Authorized,authorization,current,,,nacha_basic_2025|nacha_iso20022_2023
+R30,RDFI Not in Check Truncation Program,participation,current,,,nacha_basic_2025|nacha_iso20022_2023
+R31,Permissible CCD or CTX Return,request,current,,,nacha_basic_2025|nacha_iso20022_2023
+R32,RDFI Non-Settlement,settlement,current,,,nacha_basic_2025|nacha_iso20022_2023
+R33,Return of XCK Entry,check_entry,current,,,nacha_basic_2025|nacha_iso20022_2023
+R34,Limited Participation DFI,participation,current,,,nacha_basic_2025|nacha_iso20022_2023
+R35,Improper Debit Entry,improper_entry,current,,,nacha_basic_2025|nacha_iso20022_2023
+R36,Improper Credit Entry,improper_entry,current,,,nacha_basic_2025|nacha_iso20022_2023
+R37,Source Document Presented for Payment,source_document,current,,,nacha_basic_2025|nacha_iso20022_2023
+R38,Stop Payment on Source Document,source_document,current,,,nacha_basic_2025|nacha_iso20022_2023
+R39,Improper Source Document or Duplicate Presentment,source_document,current,,,nacha_basic_2025|nacha_iso20022_2023
+R40,Federal Agency Return of ENR Entry,enrollment,current,,,nacha_basic_2025|nacha_iso20022_2023
+R41,Invalid Transaction Code for ENR,enrollment,current,,,nacha_basic_2025|nacha_iso20022_2023
+R42,Routing Number or Check Digit Error for ENR,enrollment,current,,,nacha_basic_2025|nacha_iso20022_2023
+R43,Invalid DFI Account Number for ENR,enrollment,current,,,nacha_basic_2025|nacha_iso20022_2023
+R44,Invalid Identification Number for ENR,enrollment,current,,,nacha_basic_2025|nacha_iso20022_2023
+R45,Invalid Individual or Company Name for ENR,enrollment,current,,,nacha_basic_2025|nacha_iso20022_2023
+R46,Invalid Representative Payee Indicator for ENR,enrollment,current,,,nacha_basic_2025|nacha_iso20022_2023
+R47,Duplicate Enrollment,enrollment,current,,,nacha_basic_2025|nacha_iso20022_2023
+R50,State Law Affecting RCK Acceptance,rck,current,,,nacha_basic_2025|nacha_iso20022_2023
+R51,Ineligible or Improper RCK Entry,rck,current,,,nacha_basic_2025|nacha_iso20022_2023
+R52,Stop Payment on Item Related to RCK Entry,rck,current,,,nacha_basic_2025|nacha_iso20022_2023
+R53,Item and RCK Entry Presented for Payment,rck,current,,,nacha_basic_2025|nacha_iso20022_2023
+R61,Misrouted Return,dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R62,Return of Erroneous or Reversing Debit,dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R67,Duplicate Return,dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R68,Untimely Return,dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R69,Return Field Errors,dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R70,Permissible Return Not Accepted or Requested,dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R71,Misrouted Dishonored Return,contested_dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R72,Untimely Dishonored Return,contested_dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R73,Timely Original Return,contested_dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R74,Corrected Return,contested_dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R75,Return Not a Duplicate,contested_dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R76,No Errors Found,contested_dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R77,Non-Acceptance of R62 Dishonored Return,contested_dishonored_return,current,,,nacha_basic_2025|nacha_iso20022_2023
+R80,IAT Entry Coding Error,international,current,,,nacha_basic_2025|nacha_iso20022_2023
+R81,Non-Participant in IAT Program,international,current,,,nacha_basic_2025|nacha_iso20022_2023
+R82,Invalid Foreign Receiving DFI Identification,international,current,,,nacha_basic_2025|nacha_iso20022_2023
+R83,Foreign Receiving DFI Unable to Settle,international,current,,,nacha_basic_2025|nacha_iso20022_2023
+R84,Entry Not Processed by Gateway,international,current,,,nacha_basic_2025|nacha_iso20022_2023
+R85,Incorrectly Coded Outbound International Payment,international,current,,,nacha_basic_2025|nacha_iso20022_2023
+R90,Return for Sanctions Compliance,compliance,planned,2028-03-17,,nacha_rule_r90

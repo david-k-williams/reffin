@@ -1,0 +1,7 @@
+code,name,status,source
+1,File Header,current,nacha_developer_guide
+5,Company or Batch Header,current,nacha_developer_guide
+6,Entry Detail,current,nacha_developer_guide
+7,Addenda,current,nacha_developer_guide
+8,Company or Batch Control,current,nacha_developer_guide
+9,File Control or Padding,current,nacha_developer_guide

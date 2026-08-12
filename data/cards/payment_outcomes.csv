@@ -1,0 +1,9 @@
+id,name,material_symbol,description
+approved,Approved,check_circle,The payment or authorization was accepted for the requested amount
+canceled,Canceled,cancel,Processing was stopped before a final successful outcome
+declined,Declined,block,The payment or authorization was actively refused
+failed,Failed,error_outline,Processing did not complete because of an error rather than an explicit decline
+partially_approved,Partially Approved,rule,The payment or authorization was accepted for less than the requested amount
+pending,Pending,schedule,A final processing outcome is not yet available
+reversed,Reversed,undo,A previous approval was undone or released before settlement
+unknown,Unknown,help_outline,The raw result was missing or had no known normalized outcome

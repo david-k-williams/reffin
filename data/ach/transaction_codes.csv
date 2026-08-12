@@ -1,0 +1,39 @@
+code,name,account_type,direction,entry_kind,return_for_codes,status,source
+21,Return or NOC for Checking Credit,checking,return_or_noc,return_or_noc,22|23|24,current,nacha_basic_2025
+22,Checking Credit,checking,credit,monetary,,current,nacha_developer_guide|nacha_basic_2025
+23,Checking Credit Prenote DNE or ENR,checking,credit,prenotification_or_notice,,current,nacha_developer_guide|nacha_basic_2025
+24,Checking Zero-Dollar Credit or Acknowledgment,checking,credit,zero_dollar_or_acknowledgment,,current,nacha_basic_2025
+26,Return or NOC for Checking Debit,checking,return_or_noc,return_or_noc,27|28|29,current,nacha_basic_2025
+27,Checking Debit,checking,debit,monetary,,current,nacha_developer_guide|nacha_basic_2025
+28,Checking Debit Prenotification,checking,debit,prenotification,,current,nacha_developer_guide|nacha_basic_2025
+29,Checking Zero-Dollar Debit,checking,debit,zero_dollar,,current,nacha_basic_2025
+31,Return or NOC for Savings Credit,savings,return_or_noc,return_or_noc,32|33|34,current,nacha_basic_2025
+32,Savings Credit,savings,credit,monetary,,current,nacha_developer_guide|nacha_basic_2025
+33,Savings Credit Prenote DNE or ENR,savings,credit,prenotification_or_notice,,current,nacha_developer_guide|nacha_basic_2025
+34,Savings Zero-Dollar Credit or Acknowledgment,savings,credit,zero_dollar_or_acknowledgment,,current,nacha_basic_2025
+36,Return or NOC for Savings Debit,savings,return_or_noc,return_or_noc,37|38|39,current,nacha_basic_2025
+37,Savings Debit,savings,debit,monetary,,current,nacha_developer_guide|nacha_basic_2025
+38,Savings Debit Prenotification,savings,debit,prenotification,,current,nacha_developer_guide|nacha_basic_2025
+39,Savings Zero-Dollar Debit,savings,debit,zero_dollar,,current,nacha_basic_2025
+41,Return or NOC for General Ledger Credit,general_ledger,return_or_noc,return_or_noc,42|43|44,current,nacha_basic_2025
+42,General Ledger Credit,general_ledger,credit,monetary,,current,nacha_basic_2025
+43,General Ledger Credit Prenotification,general_ledger,credit,prenotification,,current,nacha_basic_2025
+44,General Ledger Zero-Dollar Credit,general_ledger,credit,zero_dollar,,current,nacha_basic_2025
+46,Return or NOC for General Ledger Debit,general_ledger,return_or_noc,return_or_noc,47|48|49,current,nacha_basic_2025
+47,General Ledger Debit,general_ledger,debit,monetary,,current,nacha_basic_2025
+48,General Ledger Debit Prenotification,general_ledger,debit,prenotification,,current,nacha_basic_2025
+49,General Ledger Zero-Dollar Debit,general_ledger,debit,zero_dollar,,current,nacha_basic_2025
+51,Return or NOC for Loan Credit,loan,return_or_noc,return_or_noc,52|53|54,current,nacha_basic_2025
+52,Loan Credit,loan,credit,monetary,,current,nacha_basic_2025
+53,Loan Credit Prenotification,loan,credit,prenotification,,current,nacha_basic_2025
+54,Loan Zero-Dollar Credit,loan,credit,zero_dollar,,current,nacha_basic_2025
+55,Loan Debit for Reversal,loan,debit,reversal,,current,nacha_basic_2025
+56,Return or NOC for Loan Debit,loan,return_or_noc,return_or_noc,55,current,nacha_basic_2025
+81,ADV Credit for Originated Debits,accounting,credit,accounting,,current,nacha_basic_2025
+82,ADV Debit for Originated Credits,accounting,debit,accounting,,current,nacha_basic_2025
+83,ADV Credit for Received Credits,accounting,credit,accounting,,current,nacha_basic_2025
+84,ADV Debit for Received Debits,accounting,debit,accounting,,current,nacha_basic_2025
+85,ADV Credit for Credits in Rejected Batches,accounting,credit,accounting,,current,nacha_basic_2025
+86,ADV Debit for Debits in Rejected Batches,accounting,debit,accounting,,current,nacha_basic_2025
+87,ADV Summary Credit for Respondent Activity,accounting,credit,accounting,,current,nacha_basic_2025
+88,ADV Summary Debit for Respondent Activity,accounting,debit,accounting,,current,nacha_basic_2025

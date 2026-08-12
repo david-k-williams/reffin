@@ -1,0 +1,24 @@
+code,name,entry_kind,consumer_or_corporate,direction,addenda_support,status,valid_from,valid_to,source
+ACK,Acknowledgment Entry,acknowledgment,corporate,nonmonetary,optional_one,current,,,nacha_basic_2025
+ADV,Automated Accounting Advice,accounting,financial_institution,nonmonetary,none,current,,,nacha_basic_2025
+ARC,Accounts Receivable Entry,check_conversion,consumer,debit,none,current,,,nacha_developer_guide|nacha_basic_2025
+ATX,Financial EDI Acknowledgment,acknowledgment,corporate,nonmonetary,optional_one,current,,,nacha_basic_2025
+BOC,Back Office Conversion Entry,check_conversion,consumer,debit,none,current,,,nacha_developer_guide|nacha_basic_2025
+CCD,Corporate Credit or Debit Entry,payment,corporate,credit_or_debit,optional_one,current,,,nacha_developer_guide|nacha_basic_2025
+CIE,Customer-Initiated Entry,payment,consumer_to_corporate,credit,optional_one,current,,,nacha_developer_guide|nacha_basic_2025
+COR,Notification of Change,notification,consumer_or_corporate,nonmonetary,required_one,current,,,nacha_basic_2025
+CTX,Corporate Trade Exchange Entry,payment,corporate,credit_or_debit,optional_many,current,,,nacha_developer_guide|nacha_basic_2025
+DNE,Death Notification Entry,notification,consumer,nonmonetary,required_one,current,,,nacha_basic_2025
+ENR,Automated Enrollment Entry,enrollment,consumer,nonmonetary,required_many,current,,,nacha_basic_2025
+IAT,International ACH Transaction,payment,consumer_or_corporate,credit_or_debit,required_seven_optional_five,current,,,nacha_developer_guide|nacha_basic_2025|nacha_iat_2026
+MTE,Machine Transfer Entry,terminal,consumer,credit_or_debit,required_one,current,,,nacha_basic_2025
+POP,Point-of-Purchase Entry,check_conversion,consumer,debit,none,current,,,nacha_developer_guide|nacha_basic_2025
+POS,Point-of-Sale Entry,terminal,consumer,debit,required_one,current,,,nacha_developer_guide|nacha_basic_2025
+PPD,Prearranged Payment and Deposit Entry,payment,consumer,credit_or_debit,optional_one,current,,,nacha_developer_guide|nacha_basic_2025
+RCK,Re-presented Check Entry,check_conversion,consumer,debit,none,current,,,nacha_developer_guide|nacha_basic_2025
+SHR,Shared Network Entry,terminal,consumer,debit,required_one,current,,,nacha_basic_2025
+TEL,Telephone-Initiated Entry,payment,consumer,debit,none,current,,,nacha_developer_guide|nacha_basic_2025
+TRC,Truncated Entry,check_truncation,consumer,debit,none,current,,,nacha_basic_2025
+TRX,Truncated Entries Exchange,check_truncation,consumer,debit,required_many,current,,,nacha_basic_2025
+WEB,Internet-Initiated or Mobile Entry,payment,consumer,credit_or_debit,optional_one,current,,,nacha_developer_guide|nacha_basic_2025
+XCK,Destroyed Check Entry,check_replacement,consumer,debit,none,current,,,nacha_basic_2025

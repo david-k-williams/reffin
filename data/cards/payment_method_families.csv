@@ -1,0 +1,13 @@
+id,name,material_symbol,description
+bank_transfer,Bank Transfer,account_balance,A payer-initiated transfer between financial accounts
+buy_now_pay_later,Buy Now Pay Later,calendar_month,A purchase paid through a deferred or installment arrangement
+card,Card,credit_card,A payment made with a card credential
+cash,Cash,payments,A payment made with physical currency
+check,Check,receipt_long,A payment made with a paper or electronic check instrument
+cryptocurrency,Cryptocurrency,currency_exchange,A payment made by transferring a cryptographic asset
+digital_wallet,Digital Wallet,account_balance_wallet,A payment initiated through a digital wallet interface
+direct_debit,Direct Debit,sync_alt,A payee-initiated debit from a financial account under an authorization
+mobile_money,Mobile Money,smartphone,A payment made through a mobile money account
+other,Other,more_horiz,A known payment method family outside the named normalized values
+unknown,Unknown,help_outline,The payment method family was not supplied or could not be determined
+voucher,Voucher,confirmation_number,A payment made with a voucher coupon or redeemable code

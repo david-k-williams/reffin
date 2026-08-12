@@ -1,0 +1,17 @@
+network_id,name,material_symbol,brand_asset_key
+american_express,American Express,credit_card,american_express
+cartes_bancaires,Cartes Bancaires,credit_card,cartes_bancaires
+diners_club,Diners Club,credit_card,diners_club
+discover,Discover,credit_card,discover
+eftpos_australia,eftpos Australia,credit_card,eftpos_australia
+elo,Elo,credit_card,elo
+girocard,girocard,credit_card,girocard
+interac,Interac,credit_card,interac
+jcb,JCB,credit_card,jcb
+maestro,Maestro,credit_card,maestro
+mastercard,Mastercard,credit_card,mastercard
+other,Other,credit_card,
+rupay,RuPay,credit_card,rupay
+unionpay,UnionPay,credit_card,unionpay
+unknown,Unknown,credit_card,
+visa,Visa,credit_card,visa

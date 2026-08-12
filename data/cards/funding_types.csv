@@ -1,0 +1,7 @@
+id,name,material_symbol,description
+charge,Charge,receipt_long,A balance that is normally due in full at the end of a billing period
+credit,Credit,credit_score,Funds extended by an issuer and repaid under a credit agreement
+debit,Debit,account_balance_wallet,Funds drawn from a linked deposit or transaction account
+other,Other,more_horiz,A known funding model outside the named normalized values
+prepaid,Prepaid,redeem,Value funded before it is used for payment
+unknown,Unknown,help_outline,The funding model was not supplied or could not be determined
