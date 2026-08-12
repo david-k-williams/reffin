@@ -19,10 +19,17 @@ def main() -> None:
     parser.add_argument(
         "domains",
         nargs="*",
-        choices=DOMAINS,
+        metavar="DOMAIN",
         help="Optional domains to generate; the default is every domain",
     )
     args = parser.parse_args()
+
+    invalid_domains = sorted(set(args.domains) - set(DOMAINS))
+    if invalid_domains:
+        parser.error(
+            f"invalid domain(s): {', '.join(invalid_domains)}; "
+            f"choose from {', '.join(DOMAINS)}"
+        )
 
     stale: list[Path] = []
     for domain in args.domains or DOMAINS:
